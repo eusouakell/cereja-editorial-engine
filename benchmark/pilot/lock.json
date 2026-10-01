@@ -1,0 +1,51 @@
+{
+  "corpus_version": "creativity-v01",
+  "prepared_on": "2026-10-01",
+  "status": "exploratory_input_preparation",
+  "corpus_ids": [
+    "CF-027",
+    "EV-CREATIVITY-01",
+    "voice-observations"
+  ],
+  "selected_ids": [
+    "EV-CREATIVITY-01"
+  ],
+  "files": [
+    {
+      "id": "fixed-task",
+      "path": "task.md",
+      "authority": "task_instruction",
+      "provenance": "Original pilot task based on the measurement contract",
+      "sha256": "f8027298b3ac4cf546f14e69c963ac4b328ee83dfc722818c2ecca5f30f0c02d"
+    },
+    {
+      "id": "CF-027",
+      "path": "corpus/CF-027.md",
+      "authority": "historical_publication_record",
+      "source_url": "https://github.com/eusouakell/cereja-knowledge-system/blob/015595c985c655ce11b6348117aebf89ac1ae3bd/evidence/CF-027.md",
+      "sha256": "47dd501ab07ca3cb04d285740a36a2b507292fc5d47fff455337430508d16157"
+    },
+    {
+      "id": "EV-CREATIVITY-01",
+      "path": "corpus/EV-CREATIVITY-01.md",
+      "authority": "reviewed_external_study_record",
+      "source_url": "https://github.com/eusouakell/cereja-knowledge-system/blob/015595c985c655ce11b6348117aebf89ac1ae3bd/evidence/EV-CREATIVITY-01.md",
+      "sha256": "948e9fd13e30b3edb7d13075188b933b1654168074cec05834b750d27b06048b"
+    },
+    {
+      "id": "voice-observations",
+      "path": "corpus/voice-observations.md",
+      "authority": "provisional_observation",
+      "approved": false,
+      "source_url": "https://github.com/eusouakell/cereja-knowledge-system/blob/015595c985c655ce11b6348117aebf89ac1ae3bd/editorial/voice-observations.md",
+      "sha256": "435e66b10cac8afe83a6bf49dc14b074cce9bb60a2a4b7d9bb4af973cfbca509"
+    },
+    {
+      "id": "editorial-checklist",
+      "path": "checklist.md",
+      "authority": "proposed_review_instruction",
+      "provenance": "Original pilot checklist adapted from editorial-gates and voice-calibration at cereja-editorial-engine 8f41d4cc7767746a29ba0dac7425804b78bf67a4",
+      "sha256": "a015dafeccd9b4b3b442ad02cca0ed8e985736ee61f350fcb1860ec59c408b10"
+    }
+  ]
+}
