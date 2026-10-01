@@ -8,7 +8,11 @@ Prepare a research brief for a possible Cereja section on how generating more al
 
 ## Historical grounding
 
-[CF-027](https://github.com/eusouakell/cereja-knowledge-system/blob/main/evidence/CF-027.md) already connects creativity, AI and human choice. Use that as historical continuity; external claims and quotes remain unvalidated. The [inventory](https://github.com/eusouakell/cereja-knowledge-system/blob/main/archive/public-inventory.md) is discovery metadata only.
+[CF-027](https://github.com/eusouakell/cereja-knowledge-system/blob/main/evidence/CF-027.md) already connects creativity, AI and human choice. Use that as historical continuity; external claims and quotes remain unvalidated. The [inventory](https://github.com/eusouakell/cereja-knowledge-system/blob/main/archive/public-inventory.md) distinguishes metadata-only entries from body-reviewed references.
+
+## Voice preparation
+
+[Provisional observations](https://github.com/eusouakell/cereja-knowledge-system/blob/main/editorial/voice-observations.md) now cover three public issues with counterexamples. They do not authorize first-person imitation. Use the [human review procedure](../../gates/voice-calibration.md) after Kell approves criteria; broader sampling remains useful. No voice evaluation has been run.
 
 ## Proposed tension
 

@@ -26,6 +26,18 @@
       "authority": "external_primary_study",
       "validation": "methods/results/limits inspected; no statistical reproduction",
       "use": "scoped external evidence only; not a Cereja benchmark result"
+    },
+    {
+      "id": "voice-observations",
+      "source": "https://github.com/eusouakell/cereja-knowledge-system/blob/main/editorial/voice-observations.md",
+      "authority": "provisional_observation",
+      "use": "review preparation only; not normative voice instruction",
+      "sample_ids": [
+        "CF-027",
+        "CF-028",
+        "CF-029"
+      ],
+      "human_approval": "pending"
     }
   ],
   "excluded": [
@@ -56,7 +68,7 @@
   ],
   "missing": [
     "broader evidence including counterevidence",
-    "broader voice sample",
+    "approved voice criteria and non-adjacent sample",
     "approved current thesis"
   ],
   "required_gates": [
@@ -67,7 +79,8 @@
     "intellectual_honesty",
     "audience_value",
     "rights",
-    "human_approval"
+    "human_approval",
+    "voice_calibration_record"
   ],
   "measured_results": null
 }
