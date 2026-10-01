@@ -1,0 +1,68 @@
+{
+  "corpus_version": "creativity-v01",
+  "method": "offline plain-text tokenization",
+  "encoding": "o200k_base",
+  "tiktoken_version": "0.14.0",
+  "model": null,
+  "includes_request_overhead": false,
+  "includes_output_or_reasoning_tokens": false,
+  "api_calls": 0,
+  "model_benchmark_status": "deferred_by_user",
+  "semantic_quality_results": null,
+  "max_plain_text_tokens": null,
+  "lock_sha256": "d0db668203e4826f732af2ac6733c8c4989037a33d7e0c73eea1be49793e85b2",
+  "sources": {
+    "fixed-task": {
+      "tokens": 143,
+      "sha256": "f8027298b3ac4cf546f14e69c963ac4b328ee83dfc722818c2ecca5f30f0c02d"
+    },
+    "CF-027": {
+      "tokens": 494,
+      "sha256": "47dd501ab07ca3cb04d285740a36a2b507292fc5d47fff455337430508d16157"
+    },
+    "EV-CREATIVITY-01": {
+      "tokens": 309,
+      "sha256": "948e9fd13e30b3edb7d13075188b933b1654168074cec05834b750d27b06048b"
+    },
+    "voice-observations": {
+      "tokens": 393,
+      "sha256": "435e66b10cac8afe83a6bf49dc14b074cce9bb60a2a4b7d9bb4af973cfbca509"
+    },
+    "editorial-checklist": {
+      "tokens": 126,
+      "sha256": "a015dafeccd9b4b3b442ad02cca0ed8e985736ee61f350fcb1860ec59c408b10"
+    }
+  },
+  "conditions": {
+    "A": {
+      "plain_text_tokens": 143,
+      "input_sha256": "f8027298b3ac4cf546f14e69c963ac4b328ee83dfc722818c2ecca5f30f0c02d",
+      "within_plain_text_budget": null
+    },
+    "B": {
+      "plain_text_tokens": 1370,
+      "input_sha256": "5dc2b5eaa78917b1ce93d80ae22425685dcdad037eb3b75dbfeb7dca1500de8b",
+      "within_plain_text_budget": null
+    },
+    "C": {
+      "plain_text_tokens": 464,
+      "input_sha256": "314cf40f11f10e4b877ce79d22aefe3af33500112e2f4bd8e7013a3387e8c62d",
+      "within_plain_text_budget": null
+    },
+    "D": {
+      "plain_text_tokens": 599,
+      "input_sha256": "49fb190c68cced77b09660589642523293b899fd632ab5cd64b6851a2ccb8389",
+      "within_plain_text_budget": null
+    }
+  },
+  "selection_comparison": {
+    "C_vs_B": {
+      "tokens_removed": 906,
+      "reduction_percent": 66.13
+    },
+    "D_vs_B": {
+      "tokens_removed": 771,
+      "reduction_percent": 56.28
+    }
+  }
+}
