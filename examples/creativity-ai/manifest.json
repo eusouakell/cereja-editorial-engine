@@ -19,6 +19,13 @@
       "source": "gates/editorial-gates.md",
       "authority": "repository_policy",
       "use": "review obligations"
+    },
+    {
+      "id": "EV-CREATIVITY-01",
+      "source": "https://github.com/eusouakell/cereja-knowledge-system/blob/main/evidence/EV-CREATIVITY-01.md",
+      "authority": "external_primary_study",
+      "validation": "methods/results/limits inspected; no statistical reproduction",
+      "use": "scoped external evidence only; not a Cereja benchmark result"
     }
   ],
   "excluded": [
@@ -41,10 +48,14 @@
     {
       "category": "private employer/client context",
       "reason": "outside public project scope"
+    },
+    {
+      "category": "Doshi/Hauser headline and search metadata",
+      "reason": "primary full text not inspected in this pass"
     }
   ],
   "missing": [
-    "reviewed primary research",
+    "broader evidence including counterevidence",
     "broader voice sample",
     "approved current thesis"
   ],
