@@ -8,3 +8,8 @@ A: task only. B: task plus the complete frozen public pilot corpus, not the full
 
 Evaluate evidence fidelity, preserved limits, question usefulness, distinctness, counterargument and editorial usefulness with human review. Voice is unscored until criteria are explicitly approved. Record revisions and execution time separately from research preparation. Publish failures and negative findings with successes.
 
+
+## Required next step
+
+Run the [local token preflight](pilot/TOKEN-PREFLIGHT.md) and inspect context selection before any model execution. Paid API runs are deferred by user decision; token measurements do not complete the benchmark.
+

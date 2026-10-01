@@ -36,3 +36,8 @@ v0.1 is a proposed documentation architecture. Agent names describe planned role
 Read the [retrospective creativity/AI brief](examples/creativity-ai/brief.md) and its [manual context manifest](examples/creativity-ai/manifest.json). This demonstrates source boundaries and a pending human decision, not automated routing or a completed model experiment.
 
 Canonical knowledge design and public-source inventory live in [Cereja Knowledge System](https://github.com/eusouakell/cereja-knowledge-system).
+
+## Current execution decision
+
+Paid model runs are deferred. [Local token preflight](benchmark/pilot/TOKEN-PREFLIGHT.md) measures prepared text and records context-selection savings without API calls. See the [roadmap status](roadmap/first-30-days.md) for completed preparation and pending validation.
+
