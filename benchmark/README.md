@@ -1,21 +1,10 @@
-# Cereja Editorial Benchmark v0.1
+# Cereja editorial pilot
 
-Conditions:
-A — prompt only
-B — full archive/context dump
-C — routed Cereja context
-D — routed context + editorial gates
+Status: input preparation; no model executions or scores.
 
-Use one real topic spanning at least two domains.
+Use the [measurement contract](creativity-pilot-protocol.md) and [frozen corpus preparation](pilot/README.md).
 
-Evaluate:
-- voice consistency;
-- thesis originality;
-- evidence accuracy;
-- generic AI language;
-- stale-source adoption;
-- human revision distance;
-- total time;
-- publishability.
+A: task only. B: task plus the complete frozen public pilot corpus, not the full archive. C: task plus a manually selected subset from that corpus. D: C plus editorial checklist. No automatic router or semantic harness is implemented here.
 
-Publish the result even if C/D do not outperform A/B.
+Evaluate evidence fidelity, preserved limits, question usefulness, distinctness, counterargument and editorial usefulness with human review. Voice is unscored until criteria are explicitly approved. Record revisions and execution time separately from research preparation. Publish failures and negative findings with successes.
+
