@@ -30,3 +30,9 @@ v0.1 is a proposed documentation architecture. Agent names describe planned role
 - [Editorial gates](gates/editorial-gates.md)
 - [Benchmark protocol](benchmark/README.md)
 - [First 30 days](roadmap/first-30-days.md)
+
+## First inspectable example
+
+Read the [retrospective creativity/AI brief](examples/creativity-ai/brief.md) and its [manual context manifest](examples/creativity-ai/manifest.json). This demonstrates source boundaries and a pending human decision, not automated routing or a completed model experiment.
+
+Canonical knowledge design and public-source inventory live in [Cereja Knowledge System](https://github.com/eusouakell/cereja-knowledge-system).

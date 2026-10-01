@@ -1,0 +1,62 @@
+{
+  "schema_version": "0.1",
+  "task_id": "creativity-ai-retrospective",
+  "assembled_on": "2026-10-01",
+  "assembly_method": "manual",
+  "publication_band": "Thought Leadership",
+  "publication_status": "hold",
+  "human_approval": "pending",
+  "selected": [
+    {
+      "id": "CF-027",
+      "source": "https://cerejaflamejante.substack.com/p/027-a-nova-receita-da-criatividade",
+      "authority": "historical_publication",
+      "use": "editorial continuity; creativity section only",
+      "external_claims_validated": false
+    },
+    {
+      "id": "editorial-gates",
+      "source": "gates/editorial-gates.md",
+      "authority": "repository_policy",
+      "use": "review obligations"
+    }
+  ],
+  "excluded": [
+    {
+      "category": "other issue bodies",
+      "reason": "not needed; metadata is discovery only"
+    },
+    {
+      "category": "health and scientific claims from CF-027",
+      "reason": "outside task and not independently validated"
+    },
+    {
+      "category": "market estimate and product claims",
+      "reason": "not current validated evidence"
+    },
+    {
+      "category": "personal details and third-party images",
+      "reason": "unnecessary for task"
+    },
+    {
+      "category": "private employer/client context",
+      "reason": "outside public project scope"
+    }
+  ],
+  "missing": [
+    "reviewed primary research",
+    "broader voice sample",
+    "approved current thesis"
+  ],
+  "required_gates": [
+    "thesis",
+    "voice",
+    "evidence",
+    "originality",
+    "intellectual_honesty",
+    "audience_value",
+    "rights",
+    "human_approval"
+  ],
+  "measured_results": null
+}
