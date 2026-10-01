@@ -14,9 +14,15 @@ Prepare a research brief for a possible Cereja section on how generating more al
 
 Hypothesis: more generated options may shift work toward selection and review. Counterhypothesis: selection can remain costly, biased or poorly informed; human involvement alone does not establish better outcomes. Neither is presented as a measured result.
 
+## Reviewed external evidence
+
+[EV-CREATIVITY-01](https://github.com/eusouakell/cereja-knowledge-system/blob/main/evidence/EV-CREATIVITY-01.md) records a scoped primary study. Its findings concern assisted ideation, not the effectiveness of Cereja or context routing. The [evidence queue](https://github.com/eusouakell/cereja-knowledge-system/blob/main/evidence/creativity-ai-review.md) records access limits and search gaps.
+
+Proposed question: how can we evaluate quality and distinctness separately when preparing editorial alternatives? This remains an editorial proposal for Kell to review.
+
 ## Research needed before drafting
 
-1. Find primary evidence on assisted creativity and distinguish individual performance from diversity across outputs.
+1. Extend the primary-source review beyond one study; include null/conflicting findings and tasks closer to editorial work.
 2. Record task, population, date, methods and limits for each claim.
 3. Seek counterevidence and failures rather than selecting only supporting examples.
 4. Confirm Kell's current position and an example she is comfortable making public.
@@ -32,4 +38,4 @@ Hypothesis: more generated options may shift work toward selection and review. C
 
 Publication band: Thought Leadership. Gates: thesis, voice, evidence, originality, intellectual honesty, audience value, rights and human approval.
 
-Current gate result: HOLD — primary research and Kell's approval pending. This is a prepared brief, not a publication-ready newsletter draft.
+Current gate result: HOLD — broader evidence review, voice calibration and Kell's thesis/publication approval pending. This is a prepared brief, not a publication-ready newsletter draft.
