@@ -1,81 +1,144 @@
 # Cereja Editorial Engine
 
-Governed AI-assisted editorial workflow and multiformat content system.
+**Governed AI-assisted editorial workflow and multiformat content system for Cereja Flamejante.**
+
+The engine does not start from a newsletter and mechanically cut it into smaller posts.
+
+Its shared working object is an **Editorial Packet**: approved thesis or open question, relevant context, evidence, intent, constraints and human decisions.
 
 ```text
-KNOWLEDGE SYSTEM
-→ CONTEXT ROUTING
-→ RESEARCH
-→ THESIS / COUNTERTHESIS
-→ EDITORIAL PACKET
-→ CONTENT TOKENS
-→ FORMAT COMPOSITION
-→ CHANNEL EVALS
-→ HUMAN APPROVAL
-→ PUBLISH
-→ LEARN BACK
+NÚCLEO
+knowledge · evidence · thesis · voice
+        +
+EDITORIAL PACKET
+        ↓
+CONTENT TOKENS
+        ↓
+FORMAT COMPOSITION
+        ↓
+CHANNEL EVALS
+        ↓
+HUMAN APPROVAL
+        ↓
+PUBLISH
+        ↓
+LEARN BACK
 ```
 
-Initial mode: **AUDIT + ASSISTED COMPOSITION**.
+Visual outputs can also consume [**Flame**](https://github.com/eusouakell/cereja-knowledge-system/tree/main/brand/flame), the Cereja Design System.
 
-The engine does not automate Kell's opinion or publication approval.
+## Operating mode
 
-## Multiformat factory
+Current mode: **AUDIT + ASSISTED COMPOSITION**.
 
-The newsletter is the richest recurring publication, but it is not the object from which every other channel must be mechanically cut.
+The engine does not automate Kell's opinion, create a new thesis without approval or publish autonomously.
 
-The shared working object is an **Editorial Packet**: approved thesis/open question, relevant context, evidence, intent and constraints.
+Agent roles and pipelines documented here are system contracts under validation, not claims that every stage already runs end to end.
 
-From that packet, semantic [content tokens](tokens/README.md) can be composed into independent channel outputs through reusable [format contracts](formats/README.md).
+## Multiformat model
 
 ```text
 EDITORIAL PACKET
       ↓
 CONTENT TOKENS
       ↓
-┌───────────────┬───────────────┬───────────────┐
-│ NEWSLETTER    │ LINKEDIN      │ INSTAGRAM     │
-│ quinzenal     │ metapost      │ revista visual│
-└───────────────┴───────────────┴───────────────┘
+┌────────────────┬────────────────┬────────────────┬──────────────┐
+│ NEWSLETTER     │ LINKEDIN       │ INSTAGRAM      │ STORIES      │
+│ quinzenal      │ metapost       │ visual magazine│ research desk│
+└────────────────┴────────────────┴────────────────┴──────────────┘
       ↓
 CHANNEL-SPECIFIC EVALS
       ↓
 HUMAN APPROVAL
 ```
 
-Read the [multiformat pipeline](pipelines/multiformat.md).
+Newsletter is the richest recurring publication, but it is **not** the canonical object from which every channel must be derived.
 
-## Release status
+Each channel should be composed natively from the same approved packet.
 
-v0.2 adds a **documented multiformat architecture**: semantic token contracts, initial format library, channel-fit review and proposed specialized agent roles.
+## Content tokens
 
-These are design contracts, not a claim of an autonomous production system. Token extraction, routing, rendering and publishing are not yet end-to-end automated. Publication remains human-approved. The existing A/B/C/D model evaluation is still pending; no measured editorial-quality advantage is claimed.
+Content tokens are semantic editorial units such as:
+
+- signal;
+- evidence;
+- thesis;
+- counterpoint;
+- question;
+- cultural reference;
+- example;
+- metaphor;
+- recommendation;
+- CTA;
+- transition.
+
+They carry provenance and state. They are not approved snippets of copy and they are unrelated to LLM tokenizer tokens.
+
+Read [tokens/README.md](tokens/README.md).
+
+## Format contracts
+
+Current format contracts include:
+
+- [quinzenal newsletter](formats/newsletter/quinzenal-cereja.md);
+- [LinkedIn metapost](formats/linkedin/metapost.md);
+- [Instagram visual magazine](formats/instagram/revista-visual.md);
+- [Stories research desk](formats/stories/research-desk.md).
+
+Each renderer should receive the **minimum sufficient authoritative context** for its job, not the entire research corpus.
+
+## Gates
+
+Publication remains human-approved.
+
+The system reviews:
+
+- thesis integrity;
+- evidence and claim scope;
+- voice;
+- originality;
+- intellectual honesty;
+- audience value;
+- rights;
+- channel fit.
+
+Read [editorial gates](gates/editorial-gates.md) and [channel-fit evaluation](evals/channel-fit.md).
+
+## Current validation loop
+
+The next useful proof is not more architecture.
+
+It is a real returning edition of Cereja, followed by channel-native derivatives, with human edits and gate outcomes recorded as evidence.
+
+That cycle should tell us:
+
+- where the packet is insufficient;
+- which context agents incorrectly guess;
+- what Kell consistently changes;
+- which format rules are stable enough to become skills;
+- where the system creates overhead without value.
 
 ## Start here
 
 - [System specification](SYSTEM-SPEC.md)
 - [Multiformat pipeline](pipelines/multiformat.md)
+- [Editorial Packet template](packets/editorial-packet-template.md)
 - [Content tokens](tokens/README.md)
 - [Format library](formats/README.md)
 - [Context contract](router/context-contract.md)
 - [Editorial gates](gates/editorial-gates.md)
 - [Channel-fit evaluation](evals/channel-fit.md)
-- [Benchmark protocol](benchmark/README.md)
-- [First 30 days](roadmap/first-30-days.md)
+- [Agent registry](agents/registry.md)
+- [Roadmap](roadmap/first-30-days.md)
 
-## First inspectable example
+## Evidence status
 
-Read the [retrospective creativity/AI brief](examples/creativity-ai/brief.md) and its [manual context manifest](examples/creativity-ai/manifest.json). This demonstrates source boundaries and a pending human decision, not automated routing or a completed model experiment.
+The [retrospective creativity/AI example](examples/creativity-ai/brief.md) demonstrates source boundaries and a pending human decision. It is not a completed model experiment.
 
-Canonical knowledge design and public-source inventory live in [Cereja Knowledge System](https://github.com/eusouakell/cereja-knowledge-system).
+The existing A/B/C/D model evaluation is still pending. [Local token preflight](benchmark/pilot/TOKEN-PREFLIGHT.md) measures prepared text and context-selection savings without claiming editorial-quality improvement.
 
-## Current execution decision
-
-Paid model runs remain deferred. [Local token preflight](benchmark/pilot/TOKEN-PREFLIGHT.md) measures prepared text and records context-selection savings without API calls.
-
-The next practical learning loop is a **real returning newsletter edition plus channel-native derivatives**, with human edits and gate outcomes recorded as evidence. See the [roadmap](roadmap/first-30-days.md).
-
+Canonical knowledge, public evidence and Flame live in [Cereja Knowledge System](https://github.com/eusouakell/cereja-knowledge-system).
 
 ## Rights
 
-This repository is public but not currently open-licensed as a whole. See [RIGHTS.md](RIGHTS.md). Selected assets may receive scoped licenses later after the workflow has been validated in real publishing cycles.
+This repository is public but not currently open-licensed as a whole. See [RIGHTS.md](RIGHTS.md). Selected assets may receive scoped licenses after real publishing cycles show what should be open versus proprietary.
