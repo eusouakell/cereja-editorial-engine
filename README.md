@@ -74,3 +74,8 @@ Canonical knowledge design and public-source inventory live in [Cereja Knowledge
 Paid model runs remain deferred. [Local token preflight](benchmark/pilot/TOKEN-PREFLIGHT.md) measures prepared text and records context-selection savings without API calls.
 
 The next practical learning loop is a **real returning newsletter edition plus channel-native derivatives**, with human edits and gate outcomes recorded as evidence. See the [roadmap](roadmap/first-30-days.md).
+
+
+## Rights
+
+This repository is public but not currently open-licensed as a whole. See [RIGHTS.md](RIGHTS.md). Selected assets may receive scoped licenses later after the workflow has been validated in real publishing cycles.
