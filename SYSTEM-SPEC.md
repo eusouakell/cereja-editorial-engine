@@ -8,6 +8,28 @@ The **Cereja Editorial Engine** selects context, supports research and thesis wo
 
 The engine must not silently turn a historical publication into current truth.
 
+## Operational controls
+
+The engine separates four runtime control types:
+
+1. **Guides** — instruct execution and composition.
+2. **Guards** — block invalid/disallowed runtime states.
+3. **Sensors** — observe what happened without approving it.
+4. **Checks** — deterministic pass/fail validation.
+
+These do not replace semantic evals or editorial gates.
+
+Verification order:
+
+```text
+GUARDS
+→ EXECUTION
+→ SENSORS
+→ DETERMINISTIC CHECKS
+→ SEMANTIC EVALS
+→ EDITORIAL / HUMAN GATES
+```
+
 ## Canonical working object: Editorial Packet
 
 A multiformat run should converge on an inspectable packet containing, at minimum:

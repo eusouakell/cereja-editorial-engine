@@ -35,6 +35,19 @@ The engine does not automate Kell's opinion, create a new thesis without approva
 
 Agent roles and pipelines documented here are system contracts under validation, not claims that every stage already runs end to end.
 
+## Agentic Factory controls
+
+The engine now distinguishes four operational control types:
+
+- **Guides** instruct execution;
+- **Guards** block disallowed runtime states;
+- **Sensors** observe;
+- **Checks** validate deterministic rules.
+
+Semantic evals and editorial/human gates remain downstream rather than being renamed into those categories.
+
+Read [Agentic Factory — Guides / Guards / Sensors / Checks](AGENTIC-FACTORY.md).
+
 ## Multiformat model
 
 ```text
@@ -104,6 +117,17 @@ The system reviews:
 
 Read [editorial gates](gates/editorial-gates.md) and [channel-fit evaluation](evals/channel-fit.md).
 
+## Deterministic checks
+
+The first mechanical control validates Editorial Packet structure:
+
+```bash
+python checks/editorial_packet.py packets/editorial-packet-template.md
+python -m unittest discover -s tests -v
+```
+
+This check proves contract structure only. It does not score editorial quality.
+
 ## Current validation loop
 
 The next useful proof is not more architecture.
@@ -121,6 +145,7 @@ That cycle should tell us:
 ## Start here
 
 - [System specification](SYSTEM-SPEC.md)
+- [Agentic Factory controls](AGENTIC-FACTORY.md)
 - [Multiformat pipeline](pipelines/multiformat.md)
 - [Editorial Packet template](packets/editorial-packet-template.md)
 - [Content tokens](tokens/README.md)
