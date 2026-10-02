@@ -2,6 +2,8 @@
 
 The multiformat factory treats reusable editorial material as **semantic units with provenance**, not as snippets to copy across channels.
 
+> **Terminology:** `content token` here means an editorial/semantic unit. It is different from the model/tokenizer tokens measured in `benchmark/pilot/TOKEN-PREFLIGHT.md`.
+
 The atomic analogy is useful as a composition model:
 
 ```text
@@ -24,12 +26,13 @@ PUBLICATIONS
 
 ## Important distinction
 
-A token is not "approved copy".
+A content token is not "approved copy".
 
 It is a reusable editorial unit such as a supported claim, question, thesis, counterpoint, cultural reference, example or call to action. Reuse may require revalidation.
 
 The canonical source remains the Cereja Knowledge System. The Editorial Engine composes and renders; it does not silently promote historical publication into current truth.
 
 See:
+- [Editorial Packet template](../packets/editorial-packet-template.md)
 - [Token schema](schema.md)
 - [Token taxonomy](taxonomy.md)
