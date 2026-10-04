@@ -1,4 +1,4 @@
-# Cereja Company Marketing Plan V2
+# Cereja Flamejante Company Marketing Plan V2
 
 Status: working company-level plan for Kell approval.  
 Date: 2026-10-04.
@@ -30,12 +30,12 @@ Supporting differentiation:
 - curation and interpretation;
 - multimodal communication.
 
-### Cereja
+### Cereja Flamejante
 
 Working company space:
 - **knowledge, learning and context innovation**.
 
-Cereja can produce systems, experiences, media and products. Context Engineering is a core capability but not the only word used to explain the company.
+Cereja Flamejante can produce systems, experiences, media and products. Context Engineering is a core capability but not the only word used to explain the company.
 
 ## Brand and property architecture
 
@@ -43,7 +43,7 @@ Cereja can produce systems, experiences, media and products. Context Engineering
 KELL
 public authority / speaking / portable career capital
   │
-  └── CEREJA
+  └── CEREJA FLAMEJANTE
       knowledge · learning · context · innovation
         │
         ├── MEDIA
@@ -118,10 +118,10 @@ Do not rewrite every publication for them. Provide discoverable evidence and cle
 |---|---|---|
 | Cereja Flamejante / Substack | author-led curation, relationship, repertoire | turning every edition into a commercial thesis |
 | Kell LinkedIn | authority, build-in-public, applied interpretation, speaking discovery | only reposting newsletter links |
-| Instagram Cereja | visual editorial discovery, cultural/technical magazine, multimodal experiments | generic quote cards or mandatory daily volume |
+| Instagram Cereja Flamejante | visual editorial discovery, cultural/technical magazine, multimodal experiments | generic quote cards or mandatory daily volume |
 | GitHub | proof, methods, systems and inspectable work | treating it as the default reader funnel |
-| Cereja site | current: editorial entry point; future: company hub | redesign before strategy is stable |
-| `eusouakell.com.br` | portable authority, portfolio, speaking, career/professional inbound | duplicating the company site |
+| Cereja Flamejante site | current: editorial entry point; future: company hub | redesign before strategy is stable |
+| `eusouakell.com.br` | portable authority, portfolio, speaking, career/professional inbound | duplicating the Cereja Flamejante company site |
 | Talks / events / podcast / video | trust, demonstration, community, reusable media | launching formats without a clear job |
 | WhatsApp/community | later opt-in relationship layer if demand exists | mass outreach or automated unsolicited messaging |
 
@@ -209,7 +209,7 @@ This becomes the input for:
 ### Foundation
 
 Configure:
-- GA4 for Cereja web property;
+- GA4 for Cereja Flamejante web property;
 - GA4 for Substack through the supported Measurement ID integration;
 - GA4 for `eusouakell.com.br`;
 - UTMs;
