@@ -1,6 +1,6 @@
 # Distribuição e crescimento da Cereja Flamejante
 
-> **Escopo:** este documento é o plano operacional da propriedade editorial **Cereja Flamejante**. Ele não substitui a estratégia de marketing da empresa Cereja nem o sistema de autoridade pessoal de Kell. Ver [Company Marketing Plan V2](company-marketing-plan-v2.md) e [Marketing Plan Review V2](marketing-plan-review-v2.md).
+> **Escopo:** este documento é o plano operacional da propriedade editorial **Cereja Flamejante**. Ele não substitui a estratégia de marketing da empresa Cereja Flamejante nem o sistema de autoridade pessoal de Kell. Ver [Company Marketing Plan V2](company-marketing-plan-v2.md) e [Marketing Plan Review V2](marketing-plan-review-v2.md).
 
 
 Proposta para revisão de Kell, 4 de outubro de 2026. Operação assistida, sem mídia paga nesta fase. Não há resultados ou metas numéricas inventados.
