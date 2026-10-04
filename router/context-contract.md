@@ -49,3 +49,11 @@ A channel renderer should receive the **minimum sufficient authoritative context
 Example: an Instagram renderer may need selected tokens, thesis, voice constraints, visual format contract and rights metadata. It should not receive the full research corpus by default.
 
 A format adaptation that introduces a new factual claim or thesis must escalate back to evidence/thesis review before publication.
+
+## Newsletter voice routing
+
+For newsletter composition, select current author decisions, the voice guide from Núcleo, the edition briefing, relevant section briefings, current factual evidence and a small set of suitable archive examples. Start with examples chosen for structure and connection; expand only to resolve a specific gap. Do not load the full 31-issue archive by default.
+
+Record which published examples were selected and why. Exclude third-party quotations, guest authors, UI text and unrelated personal disclosure from voice imitation. Keep factual revalidation separate from stylistic reference. Do not infer reader trends from news recency alone.
+
+The section briefings are [here](../formats/newsletter/editorias/README.md). Canonical author guidance remains [in Núcleo](https://github.com/eusouakell/cereja-knowledge-system/blob/main/editorial/voice-and-tone.md). This is a documented routing rule, not a deployed retrieval or training system.
