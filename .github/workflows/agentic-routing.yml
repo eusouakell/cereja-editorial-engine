@@ -9,6 +9,7 @@ on:
       - "examples/**"
       - "formats/newsletter/**"
       - "gates/**"
+      - ".github/workflows/agentic-routing.yml"
 
 permissions:
   contents: read
