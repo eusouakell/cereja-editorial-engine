@@ -1,0 +1,70 @@
+name: Agentic Factory Route
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, labeled, unlabeled, ready_for_review]
+    paths:
+      - "drafts/**"
+      - "packets/**"
+      - "examples/**"
+      - "formats/newsletter/**"
+      - "gates/**"
+      - ".github/workflows/agentic-routing.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  route:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout consumer repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout pinned Agentic Factory
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          repository: eusouakell/agentic-factory
+          ref: e1b1e8a1150c490079e408a17b6429b598415518
+          path: .agentic-factory
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: "3.12"
+
+      - name: Route pull request
+        shell: bash
+        run: |
+          git fetch origin "${{ github.base_ref }}" --depth=1
+          mapfile -t files < <(git diff --name-only "origin/${{ github.base_ref }}"...HEAD)
+          mapfile -t labels < <(python - <<'PY'
+          import json, os
+          with open(os.environ["GITHUB_EVENT_PATH"], encoding="utf-8") as f:
+              event = json.load(f)
+          for label in event.get("pull_request", {}).get("labels", []):
+              print(label.get("name", ""))
+          PY
+          )
+
+          args=()
+          for file in "${files[@]}"; do
+            args+=(--path "$file")
+          done
+          for label in "${labels[@]}"; do
+            [ -n "$label" ] && args+=(--label "$label")
+          done
+
+          {
+            echo "### Agentic Factory route"
+            echo
+            echo "Factory pin: `e1b1e8a1150c490079e408a17b6429b598415518`"
+            echo
+            python .agentic-factory/automations/route.py \
+              --repository "${{ github.repository }}" \
+              --event "draft_ready" \
+              "${args[@]}"
+          } >> "$GITHUB_STEP_SUMMARY"
