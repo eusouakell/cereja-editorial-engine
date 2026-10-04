@@ -12,7 +12,7 @@ Execution surface: ChatGPT, manually selected for this review. This does not pro
 
 - [current organic distribution plan](distribution-plan.md);
 - [paid media study](paid-media-study.md);
-- current Cereja website source;
+- current Cereja Flamejante website source;
 - current Editorial Engine and Knowledge System architecture;
 - company-direction decisions approved by Kell on 2026-10-04.
 
@@ -66,7 +66,7 @@ Keep this.
 | Goal is subscriber growth, not company growth | Newsletter acquisition cannot measure authority, speaking, inbound, IP or commercial learning | Add company objectives above property metrics |
 | Audience model is too reader-centric | Current hypotheses omit C-level, practitioners/builders, buyers, event organizers and professional inbound | Use a multi-audience model with progressive disclosure |
 | LinkedIn is treated mainly as post-edition distribution | Kell already has a larger personal network and needs public proof of expertise | Make personal LinkedIn a primary authority surface for build-in-public and applied thinking |
-| Website is framed as newsletter calling card | Cereja is evolving into a company with Media, Lab, Academy, Studio / Products | Keep current site functional now; plan a later company IA redesign |
+| Website is framed as newsletter calling card | Cereja Flamejante is evolving into a company with Media, Lab, Academy, Studio / Products | Keep current site functional now; plan a later company IA redesign |
 | Personal portfolio is outside the funnel | Authority must remain portable across employers and Cereja | Add `eusouakell.com.br` as a separate authority/conversion surface |
 | No explicit speaking funnel | Speaking is a target outcome, not an accidental benefit | Track speaking-ready evidence, organizer discovery and invitations |
 | No IP/product capture loop | Good editorial/system work can disappear after publication | Capture reusable frameworks, evals, templates and tools as Product candidates |
@@ -192,11 +192,11 @@ Use **personal LinkedIn and long-form articles as the test surface first**. Laun
 Add GA4 as a foundation, not as a later optimization.
 
 Planned surfaces:
-- Cereja company/editorial site;
+- Cereja Flamejante company/editorial site;
 - Substack publication through its supported Google Analytics Measurement ID field;
 - personal portfolio `eusouakell.com.br`.
 
-Do not assume one GA4 property is correct for every surface. Decide account/property/data-stream architecture before implementation so personal authority and Cereja company behavior can be distinguished.
+Do not assume one GA4 property is correct for every surface. Decide account/property/data-stream architecture before implementation so personal authority and Cereja Flamejante company behavior can be distinguished.
 
 Official references to verify during setup:
 - Google Analytics GA4 setup: https://support.google.com/analytics/answer/14183469
@@ -236,7 +236,7 @@ Before implementation:
 - strategy and evidence model should stabilize;
 - public evidence inventory should be assembled;
 - speaking architecture should be defined;
-- relation between Kell and Cereja should be explicit.
+- relation between Kell and Cereja Flamejante should be explicit.
 
 Then connect Codex to the appropriate portfolio/site source through MCP or another approved integration and execute with bounded repository/site authority.
 
