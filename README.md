@@ -168,6 +168,12 @@ The existing A/B/C/D model evaluation is still pending. [Local token preflight](
 
 Canonical knowledge, public evidence and Flame live in [Cereja Knowledge System](https://github.com/eusouakell/cereja-knowledge-system).
 
+## Distribution and reader growth
+
+Start with the [organic distribution plan](growth/distribution-plan.md) and [Audience & Growth Planner contract](agents/contracts/audience-growth-planner.md). Baselines, experiments and human publication gates remain explicit; these documents do not claim growth already achieved.
+
+See the [media rights guard](guards/media-rights.md) before using photographs, audio, video or quotations in any channel.
+
 ## Rights
 
 This repository is public but not currently open-licensed as a whole. See [RIGHTS.md](RIGHTS.md). Selected assets may receive scoped licenses after real publishing cycles show what should be open versus proprietary.
