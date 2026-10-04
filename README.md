@@ -37,6 +37,8 @@ Agent roles and pipelines documented here are system contracts under validation,
 
 ## Agentic Factory controls
 
+The canonical cross-repository Factory lives in [eusouakell/agentic-factory](https://github.com/eusouakell/agentic-factory). This engine consumes that model and implements it for editorial work.
+
 The engine now distinguishes four operational control types:
 
 - **Guides** instruct execution;
@@ -46,7 +48,7 @@ The engine now distinguishes four operational control types:
 
 Semantic evals and editorial/human gates remain downstream rather than being renamed into those categories.
 
-Read [Agentic Factory — Guides / Guards / Sensors / Checks](AGENTIC-FACTORY.md).
+Read the [local Factory mapping](AGENTIC-FACTORY.md) and the [canonical Agentic Factory](https://github.com/eusouakell/agentic-factory).
 
 ## Multiformat model
 
@@ -145,7 +147,8 @@ That cycle should tell us:
 ## Start here
 
 - [System specification](SYSTEM-SPEC.md)
-- [Agentic Factory controls](AGENTIC-FACTORY.md)
+- [Canonical Agentic Factory](https://github.com/eusouakell/agentic-factory)
+- [Local Factory controls](AGENTIC-FACTORY.md)
 - [Multiformat pipeline](pipelines/multiformat.md)
 - [Editorial Packet template](packets/editorial-packet-template.md)
 - [Content tokens](tokens/README.md)
@@ -153,7 +156,7 @@ That cycle should tell us:
 - [Context contract](router/context-contract.md)
 - [Editorial gates](gates/editorial-gates.md)
 - [Channel-fit evaluation](evals/channel-fit.md)
-- [Agent registry](agents/registry.md)
+- [Editorial workflow roles — local](agents/registry.md)
 - [Roadmap](roadmap/first-30-days.md)
 
 ## Evidence status
