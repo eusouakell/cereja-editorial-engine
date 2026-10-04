@@ -1,6 +1,8 @@
-# Proposed agent roles
+# Editorial workflow roles — local
 
 Status: design only; no deployed autonomous factory is claimed.
+
+These are **application-level editorial roles**, not the canonical cross-repository Agent Registry. Canonical specialist agents, authority and lifecycle live in [eusouakell/agentic-factory](https://github.com/eusouakell/agentic-factory).
 
 ## Research and reasoning
 
