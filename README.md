@@ -96,6 +96,7 @@ Read [tokens/README.md](tokens/README.md).
 Current format contracts include:
 
 - [quinzenal newsletter](formats/newsletter/quinzenal-cereja.md);
+- [newsletter briefing](formats/newsletter/brief-template.md) and [section briefings](formats/newsletter/editorias/README.md);
 - [LinkedIn metapost](formats/linkedin/metapost.md);
 - [Instagram visual magazine](formats/instagram/revista-visual.md);
 - [Stories research desk](formats/stories/research-desk.md).
