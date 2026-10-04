@@ -12,6 +12,8 @@ Modelo de trabalho. Preencher o necessário e apagar os campos de produção ant
 
 ## O que Kell trouxe
 
+Este bloco é a principal evidência de autoria. Preservar formulações, reações, dúvidas e associações reais quando elas carregarem voz; não normalizar tudo automaticamente para uma prosa mais polida.
+
 - Assunto ou acontecimento que disparou a pauta:
 - Obras vistas ou lidas, segundo informação de Kell:
 - Observações, perguntas ou opiniões nas palavras dela:
@@ -79,6 +81,7 @@ A mídia pode trazer uma referência, uma pausa, uma demonstração ou uma reaç
 - Uma informação ou conclusão se repete sem acrescentar nada?
 - A fala soa natural quando lida em voz alta?
 - O fechamento convida à conversa sem uma moral obrigatória?
+- A edição poderia ter sido escrita para qualquer newsletter apenas trocando os substantivos? Se sim, rodar o [gate de distinctiveness/autoria](../../gates/distinctiveness.md) antes de revisar estilo.
 
 ## Contexto suficiente para escrever
 
