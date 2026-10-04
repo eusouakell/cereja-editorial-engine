@@ -22,6 +22,10 @@ These are **application-level editorial roles**, not the canonical cross-reposit
 - **Stories Renderer** — composes lighter research-desk units without converting provisional material into canonical truth.
 - **Editor** — improves structure and language while preserving approved thesis and evidence scope.
 
+## Distribution and audience
+
+- **Audience & Growth Planner** — proposes channel strategy, acquisition and retention experiments, measurement and handoffs. This is a domain role under validation, not a newly activated canonical Factory agent. See [contract](contracts/audience-growth-planner.md) and [distribution plan](../growth/distribution-plan.md).
+
 ## Verification and learning
 
 - **Voice Reviewer** — flags generic/imitative language against approved Cereja guidance.

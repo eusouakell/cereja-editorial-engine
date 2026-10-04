@@ -14,6 +14,6 @@
 
 **Audience value** — changes understanding, decision or action?
 
-**Rights** — text, images, charts and third-party material usable this way?
+**Rights** — text, images, charts, video, audio and direct quotations usable in the intended channel and transformation? Record license/permission evidence per asset; credit alone is insufficient. Pending rights block distribution. See [media rights guard](../guards/media-rights.md).
 
 Human approval is required for publication, new thesis, sensitive disclosure, science/health interpretation, client/partner reference and consulting positioning.

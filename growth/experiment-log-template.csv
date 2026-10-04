@@ -1,0 +1,4 @@
+edition,piece_id,channel,format,status,scheduled_at,published_url,destination_url,utm_source,utm_medium,utm_campaign,utm_content,rights_status,baseline_date,measurement_date,reach,profile_visits,link_clicks,new_subscriptions_attributed,unsubscribes,shares,saves,replies,attribution_limit,decision
+031,031-musical,instagram,carousel,proposal,,,,instagram,social,cereja_031,031-musical,pending,,,,,,,,,,,not_collected,
+031,031-books,instagram,carousel,proposal,,,,instagram,social,cereja_031,031-books,pending,,,,,,,,,,,not_collected,
+031,031-freddie,instagram,reel,proposal,,,,instagram,social,cereja_031,031-freddie,pending,,,,,,,,,,,not_collected,
