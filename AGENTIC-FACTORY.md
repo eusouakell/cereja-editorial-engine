@@ -1,6 +1,6 @@
-# Agentic Factory — Guides / Guards / Sensors / Checks
+# Cereja Editorial Engine — Agentic Factory mapping
 
-Cereja Editorial Engine uses four operational control types alongside semantic evals and human editorial gates.
+The canonical control and registry model lives in [eusouakell/agentic-factory](https://github.com/eusouakell/agentic-factory). This document describes how Cereja Editorial Engine implements that model alongside semantic evals and human editorial gates.
 
 | Layer | Responsibility | Current implementation |
 |---|---|---|
