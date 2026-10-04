@@ -2,7 +2,9 @@
 
 **Thesis** — clear point of view, synthesis or question; new/revised/already published?
 
-**Voice** — specific to Kell/Cereja or generic AI copy?
+**Voice** — specific to Kell/Cereja, grounded in real authorship evidence?
+
+**Distinctiveness** — does the composition preserve Kell's selection logic, concrete repertoire and uneven editorial rhythm, or has it flattened into generic model prose? See [distinctiveness / authorship gate](distinctiveness.md).
 
 **Evidence** — material claims traceable with scope/date preserved?
 
