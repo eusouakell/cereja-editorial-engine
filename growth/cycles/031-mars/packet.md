@@ -61,3 +61,8 @@ Registrar timestamp real e captar alcance, alcance de não seguidores, envios, c
 Kell revisa arte, reação pessoal na legenda, ciência, CTA e destino da bio. Depois disso é possível preparar publicação. Não publicar nem agendar com este pacote ainda pendente.
 
 Exportação: captura de conteúdo no navegador; rodapés das páginas 1–5 compostos a partir do ativo oficial e das coordenadas do HTML após limite de captura do navegador. Nenhum conteúdo cortado.
+
+## Revisão de legibilidade e abertura
+Capa: Água em Marte! E as batatas? Segundo slide esclarece que essa água ficou no passado. A formulação não afirma água líquida atualmente acessível. Textos principais passaram de 35 para 44 px; apoios de 27 para 42 px; fontes e rótulos de 23–29 para 36 px. Conteúdo cabe antes do rodapé, último bloco entre 1032 e 1128 px nas páginas internas. Em largura de 390 px, corpo equivale a aproximadamente 16 px e apoio a 15 px. Nova aprovação humana pendente.
+
+Contexto do filme incluído na página 4. Fonte oficial: https://www.20thcenturystudios.com/movies/the-martian . Imagens do filme: pendentes de autorização específica; nenhuma reprodução inserida.
