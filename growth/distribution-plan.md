@@ -35,6 +35,8 @@ D é o dia da edição aprovada. Datas reais dependem de Kell.
 - D+14: revisão do ciclo, escolha do que repetir, ajustar ou interromper. Não reativar edição inteira como novidade.
 
 ## Primeiro ciclo: hipóteses para a #31
+
+Execution checklist: [#031 Instagram cycle](cycles/031-instagram.md).
 | Experimento | Peça candidata | Hipótese | Evidência e decisão |
 |---|---|---|---|
 | Curiosidade cultural | Carrie também virou musical | Descoberta inesperada motiva leitura | Registrar cliques, respostas e assinaturas atribuídas quando disponíveis |
