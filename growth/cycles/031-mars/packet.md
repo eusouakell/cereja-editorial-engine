@@ -80,3 +80,6 @@ Novo ativo: assets/mars-greenhouse-concept.png, cena conceitual original inspira
 Revisão: textos das peças reduzidos; detalhes científicos preservados na legenda. CTA empático mantido.
 
 NASA: panorama Margin Unit, capturado de 08–16/10/2023, publicado na notícia em 21/09/2026. Crédito NASA/JPL-Caltech/MSSS. Origem: https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/ . Arquivo: assets/nasa-jezero-margin.jpg. Política: https://www.nasa.gov/nasa-brand-center/images-and-media/ . Uso informativo orgânico nesta peça, sem endosso ou logo; recorte central de apresentação, sem filtro de cor; não presumir extensão a anúncio pago. Consulta 05/10/2026.
+
+## Revisão de composição editorial
+Layouts específicos para paisagem documental, sequência relativa de episódios (sem escala temporal), cena narrativa, arquivo fotográfico e convite com retorno visual da batata. Foto assets/nasa-potatoes-1992.jpg: batatas Norland, Biomass Production Chamber, Hangar L, 1992. Crédito NASA, sem pessoas identificáveis. Origem https://www.nasa.gov/science-research/nasa-plant-researchers-explore-question-of-deep-space-food-crops/ . Uso informativo sob diretrizes NASA; recorte de apresentação, sem filtro de cor. Consulta 05/10/2026. Sem autorização presumida para anúncio pago. Esquema hidropônico removido.
