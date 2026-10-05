@@ -12,6 +12,8 @@ Atrair pessoas que gostam de descobrir cultura e tecnologia pela curadoria de Ke
 Descoberta em Instagram, LinkedIn e Substack Notes → conteúdo útil completo no canal → edição ou página de apresentação → assinatura voluntária → leitura e conversa → indicação a outra pessoa.
 O site é cartão de visitas da newsletter; GitHub guarda sistema e evidência, não é destino padrão de aquisição do leitor.
 
+For Instagram execution, use [Instagram strategy V1](instagram-strategy-v1.md), which separates verified ranking signals from creator benchmarks and defines the #31 pilot.
+
 ## Papel dos canais
 | Canal | Entrega | Próxima ação | Medição disponível a conferir |
 |---|---|---|---|

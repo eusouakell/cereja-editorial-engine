@@ -27,7 +27,7 @@ jobs:
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           repository: eusouakell/agentic-factory
-          ref: e1b1e8a1150c490079e408a17b6429b598415518
+          ref: 80c6eca24bb870d728a5fcc9ae9d35134c27bf98
           path: .agentic-factory
           persist-credentials: false
 
@@ -51,9 +51,19 @@ jobs:
           )
 
           args=()
+          implicit_editorial_draft=false
           for file in "${files[@]}"; do
             args+=(--path "$file")
+            if [[ "$file" == drafts/* ]]; then
+              implicit_editorial_draft=true
+            fi
           done
+
+          # A draft under drafts/** is itself the editorial-draft signal.
+          # We pass it to the deterministic router without mutating PR labels.
+          if [[ "$implicit_editorial_draft" == true ]]; then
+            args+=(--label "editorial-draft")
+          fi
           for label in "${labels[@]}"; do
             [ -n "$label" ] && args+=(--label "$label")
           done
@@ -61,7 +71,7 @@ jobs:
           {
             echo "### Agentic Factory route"
             echo
-            echo "Factory pin: `e1b1e8a1150c490079e408a17b6429b598415518`"
+            echo "Factory pin: `80c6eca24bb870d728a5fcc9ae9d35134c27bf98`"
             echo
             python .agentic-factory/automations/route.py \
               --repository "${{ github.repository }}" \

@@ -34,3 +34,10 @@ question / provocation / invitation
 - The carousel must stand on its own without reproducing the full newsletter.
 - Images, screenshots, charts and cultural references require rights review.
 - A visual renderer may shorten wording but cannot broaden a claim.
+
+
+## Distribution context
+
+Use this format with [Instagram strategy V1](../../growth/instagram-strategy-v1.md).
+
+The semantic jobs above are flexible. Do not force seven cards, a listicle hook or a “viral” template when the material calls for another rhythm. Optimize for watch/swipe time, sends and connected-audience response without flattening Cereja's editorial identity.
