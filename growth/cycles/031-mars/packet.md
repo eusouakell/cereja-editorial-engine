@@ -12,9 +12,13 @@ Formato: carrossel de seis páginas, 1080 × 1350. Não é uma aplicação obrig
 ## Legenda proposta
 Água em Marte? Minha cabeça foi direto para o cara que fica preso lá e planta batatas. 😅
 
+Se você nunca viu Perdido em Marte (2015): Mark Watney, vivido por Matt Damon, é deixado para trás numa missão e precisa improvisar para sobreviver. As batatas entram nessa tentativa de produzir comida enquanto espera um resgate.
+
 A notícia que entrou no On Fire da Cereja Flamejante #031 investiga marcas de água em rochas de Jezero. E fui atrás das batatas também: os testes da NASA com hidroponia chegaram a chamar a atenção da Frito-Lay. Da horta do filme fui parar nas bandejas dos pesquisadores.
 
-A pesquisa recente foi divulgada em setembro de 2026. O estudo de cultivo é uma escala no arquivo, relatada pela NASA em 2016. São momentos e perguntas diferentes.
+O achado divulgado em setembro de 2026 é sobre o passado do planeta: minerais de rochas em Jezero registram pelo menos três contatos com água. Os pesquisadores reconstruíram a sequência, mas ainda não determinaram as datas. Isso ajuda a investigar a história de Marte; não resolve o abastecimento de uma horta por lá.
+
+Já o cultivo de batatas foi testado na Terra, em ambiente controlado, com água e nutrientes circulando em bandejas. A NASA contou essa história em 2016. Luz, proteção, pressurização e tratamento dos recursos locais também entram na conta.
 
 Fontes: NASA, “NASA Discovery Reveals Complex Water Systems on Early Mars” (21/09/2026); NASA, “NASA Plant Researchers Explore Question of Deep-Space Food Crops” (17/02/2016). Links completos no registro de fontes desta peça.
 
@@ -66,3 +70,5 @@ Exportação: captura de conteúdo no navegador; rodapés das páginas 1–5 com
 Capa: Água em Marte! E as batatas? Segundo slide esclarece que essa água ficou no passado. A formulação não afirma água líquida atualmente acessível. Textos principais passaram de 35 para 44 px; apoios de 27 para 42 px; fontes e rótulos de 23–29 para 36 px. Conteúdo cabe antes do rodapé, último bloco entre 1032 e 1128 px nas páginas internas. Em largura de 390 px, corpo equivale a aproximadamente 16 px e apoio a 15 px. Nova aprovação humana pendente.
 
 Contexto do filme incluído na página 4. Fonte oficial: https://www.20thcenturystudios.com/movies/the-martian . Imagens do filme: pendentes de autorização específica; nenhuma reprodução inserida.
+
+Decisão de formato: carrossel entrega contexto curto e achado; legenda concentra explicação adicional e fontes. Alt text permanece descrição acessível de cada página, não substitui legenda.
