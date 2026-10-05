@@ -4,7 +4,7 @@ Status: **proposed human semantic eval**.
 
 Purpose: detect when a Cereja draft is grammatically competent but editorially generic — the kind of text that could plausibly have been produced for any newsletter, by any general-purpose model, from a tidy prompt.
 
-This is **not an AI detector** and does not claim to identify whether a model wrote a passage.
+This is **not an AI detector** and does not claim to identify whether a model wrote a passage. See [the anti-AI skill reference audit](../references/anti-ai-distinctiveness.md) for which anti-slop observations Cereja adopts and which detector-evasion tactics it explicitly rejects.
 
 The question is:
 
