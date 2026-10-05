@@ -5,3 +5,27 @@
 .evidence .unit{top:475px}.evidence .short{top:570px}.evidence .terrain{top:720px}.evidence .credit{top:1192px}.payoff .photo{width:750px}.payoff .annotation{font-size:36px}.exit26 .invite{max-width:480px}
 
 .evidence .credit,.payoff .credit{font-size:36px!important;right:72px;line-height:1.2}.cultural .provenance{font-size:36px!important;right:72px}.payoff .annotation{font-size:40px}
+
+
+/* Kell review round — restore hook/reveal and simplify cultural cut */
+.cover h1{font-size:98px;max-width:900px;line-height:1.02}
+
+.evidence-story h2{font-size:102px;line-height:1.01;margin:54px 0 34px;max-width:900px}
+.evidence-story .reveal{font-size:45px;line-height:1.28;max-width:880px;margin:0}
+.evidence-story .evidence-count{position:absolute;left:72px;top:515px;display:flex;align-items:flex-end;gap:28px;color:var(--action-cherry)}
+.evidence-story .evidence-count strong{font:150px/.78 Georgia;font-weight:400;letter-spacing:-8px}
+.evidence-story .evidence-count span{font:38px/1.1 Arial;color:var(--text-ink);padding-bottom:4px}
+.evidence-story .terrain{position:absolute;left:0;top:745px;width:1080px;height:450px;object-fit:cover}
+.evidence-story .credit{position:absolute;left:72px;right:72px;top:1210px;font-size:34px!important;line-height:1.2!important}
+
+.story3 h2{font-size:92px;line-height:1.02;margin:0;max-width:650px}
+.story3 .three{top:330px;left:-22px;font-size:620px}
+.story3 .qualifier{position:absolute;top:320px;left:430px;width:540px;font:64px/1.05 Georgia;margin:0}
+.story3 .n1{top:575px;left:435px}
+.story3 .n2{top:760px;left:505px;width:460px}
+.story3 .n3{top:950px;left:435px}
+.story3 .limit{top:1110px;font-size:36px}
+
+.film-cut h2{font-size:116px;line-height:1;margin:0;max-width:930px}
+.film-cut .film-context{font-size:46px;line-height:1.28;max-width:820px;margin-top:34px}
+.film-cut .film-art{position:absolute;left:70px;top:530px;width:940px;height:650px}
