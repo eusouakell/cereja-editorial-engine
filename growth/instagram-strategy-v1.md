@@ -34,6 +34,18 @@ Instagram also described recommendation changes intended to give original creato
 Reference:
 - Social Media Today summary of Instagram recommendation guidance: https://www.socialmediatoday.com/news/instagram-reels-recommendations-tips/741030/
 
+## Source hierarchy
+
+When interpreting Instagram behavior, use this order:
+
+1. Meta / Instagram product and recommendation documentation;
+2. public statements from Instagram leadership;
+3. Cereja's own account-level evidence;
+4. external creator/agency benchmarks;
+5. heuristics.
+
+A benchmark can generate a hypothesis. It cannot override platform evidence or Cereja's own results.
+
 ### What we will NOT canonize as fact
 
 Do not build the strategy around unsupported formulas such as:
@@ -99,6 +111,21 @@ Good material:
 
 The send impulse should come from recognition or curiosity, not “marque 3 amigos”.
 
+### Shareability diagnostic
+
+Before approving a send-oriented post, answer:
+
+> Who would send this to whom, and why?
+
+Useful answers sound like:
+- “isso me lembrou você”;
+- “a gente estava falando disso”;
+- “olha esse detalhe estranho/bonito”;
+- “isso explica aquela coisa”;
+- “vamos ler/ver/testar isso”.
+
+If the only answer is “because the caption asks them to share”, the post is not send-worthy yet.
+
 ### 2. Visual rabbit hole
 
 Goal: dwell/swipe time.
@@ -149,6 +176,25 @@ end    clean landing, reference or invitation
 This is a starting grammar, not a compulsory duration.
 
 No slow logo intro.
+
+### 5. Trend / cultural analysis
+
+Goal: explain one current cultural/technical phenomenon through a specific object or mechanism.
+
+Use only when there is something more precise than “this is trending”.
+
+Primary hypothesis: sends + relevant profile visits/follows.
+
+### 6. Build / Lab
+
+Goal: show how Cereja itself is being built when the process teaches something useful.
+
+Examples:
+- why a generated brand asset was rejected;
+- what an accessibility audit changed;
+- how an agent/eval caught a real problem.
+
+Guard: Lab content cannot take over the editorial property or turn Cereja into a generic AI-engineering feed.
 
 ## Carousel anatomy
 
@@ -348,6 +394,39 @@ After at least 6–10 real posts, ask:
 6. Which formats cost too much effort for the return?
 7. What did Kell enjoy making enough to sustain?
 
+## Outlier review
+
+Every 4–6 feed posts, identify:
+
+- best sends per reach;
+- best saves per reach;
+- best video retention when applicable;
+- best qualified conversation;
+- weakest post and likely reason.
+
+Then ask:
+
+- which editorial object produced the response?
+- which opening/form helped?
+- what deserves to become a reusable principle rather than a copied template?
+- did the post attract the wrong audience despite high reach?
+- did anything look generic despite acceptable metrics?
+
+A high-reach post can still be strategically poor.
+
+## One-person operating ceiling
+
+Per newsletter cycle, default to:
+
+- 1 launch Story sequence;
+- 1 flagship feed piece chosen from the strongest discovery;
+- 0–1 additional feed experiment only when the material justifies it;
+- 0–1 Reel only when motion/audio genuinely adds value.
+
+This is a ceiling, not a quota.
+
+Do not publish weak material to satisfy cadence.
+
 ## #31 pilot
 
 Do not make Instagram a summary of #31.
@@ -383,6 +462,26 @@ Current candidates already present in the distribution plan:
 - **Desenhos ocultos / strange images**: save/share potential if the recommendation itself is strong.
 
 Final choice depends on the approved #31 and media rights.
+
+## Automation target
+
+```text
+APPROVED NEWSLETTER / EDITORIAL PACKET
+→ candidate social objects
+→ channel-job selection
+→ rights + evidence preflight
+→ approved execution surface
+→ Instagram asset draft
+→ distinctiveness + channel + accessibility + rights evals
+→ Kell human gate
+→ publish/schedule
+→ metrics snapshot
+→ outlier learn-back
+```
+
+Automation may prepare and evaluate.
+
+It does not gain publication or canonical brand authority.
 
 ## Human gate
 
