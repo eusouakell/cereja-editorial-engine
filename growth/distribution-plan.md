@@ -5,6 +5,8 @@
 
 Proposta para revisão de Kell, 4 de outubro de 2026. Operação assistida, sem mídia paga nesta fase. Não há resultados ou metas numéricas inventados.
 
+Instagram now has a dedicated channel strategy: [Instagram Strategy V1](instagram-strategy-v1.md).
+
 ## Objetivo e público
 Atrair pessoas que gostam de descobrir cultura e tecnologia pela curadoria de Kell, converter interesse em assinatura e dar motivos para voltar. Hipóteses de público: curiosos de cultura pop e inovação; profissionais de marketing e conhecimento; leitores que procuram livros e séries fora do radar. Validar por respostas e comportamento, sem transformar tags de voz em segmentos comprovados.
 
