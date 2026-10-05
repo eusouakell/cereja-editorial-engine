@@ -1,11 +1,11 @@
 # Instagram #031: água antiga em Marte e batatas
 
-Status: revisões técnicas concluídas; aprovação visual final de Kell pendente. Nenhuma publicação ou agendamento.
+Status: redesenho passou pelas revisões técnicas; aprovação visual final de Kell pendente. Nenhuma publicação ou agendamento.
 Decisões: https://github.com/eusouakell/cereja-editorial-engine/issues/26
 Formato: seis PNGs 1080 × 1350. Prioridade única: #031.
 
 ## Progressão
-Capa com curiosidade → 185+ alvos analisados a laser → pelo menos três contatos água/rocha, ordem conhecida e datas não determinadas → contexto de Perdido em Marte (2015) em composição vetorial conceitual → cultivo terrestre da NASA e interesse da Frito-Lay → payoff com convite secundário.
+HOOK → CORREÇÃO → EVIDÊNCIA → FILME → PAYOFF → SAÍDA. Correção em cartaz; números 185+ e pelo menos três contatos com água reunidos na evidência; cena imaginada em colagem editorial para contextualizar o filme; fotografia de cultivo terrestre no payoff; convite secundário na saída.
 
 Sem rodapés carimbados. A chama oficial aparece pequena, sem lettering ou rotação, apenas no encerramento. Fotos documentais e composição conceitual têm funções distintas e identificadas. A paisagem de Jezero contextualiza o lugar; não é prova visual dos minerais.
 
@@ -22,7 +22,7 @@ Quer receber a próxima Cereja Flamejante? Assine pelo link da bio. 🍒
 ## Fontes e limites
 - NASA/JPL, 21/09/2026: https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/ . SuperCam analisou mais de 185 pontos de rocha; pelo menos três episódios de interação água/rocha. Ordem relativa reconstruída; idades não determinadas. Sem afirmar água utilizável hoje, vida ou cultivo em Marte.
 - NASA Kennedy, 17/02/2016: https://www.nasa.gov/science-research/nasa-plant-researchers-explore-question-of-deep-space-food-crops/ . Cultivo terrestre em ambiente controlado, hidroponia e interesse da Frito-Lay em batatas-semente limpas e livres de doenças nos anos 1990. Foto de experimento de 1992.
-- Filme: https://www.20thcenturystudios.com/movies/the-martian . Nenhum still do filme usado. Slide 4 é composição vetorial original com astronauta genérico.
+- Filme: https://www.20thcenturystudios.com/movies/the-martian . Nenhum still do filme usado. Slide 4 usa uma cena imaginada original de habitat marciano em composição editorial, identificada no alto como conceitual. Não usa atores ou still do filme.
 - Uso de mídia: https://www.nasa.gov/nasa-brand-center/images-and-media/ . Uso editorial informativo com crédito, sem sugerir endosso; não presumir liberação irrestrita para publicidade paga ou imagens de terceiros.
 
 ## Créditos e acessibilidade
