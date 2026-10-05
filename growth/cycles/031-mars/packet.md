@@ -22,7 +22,7 @@ Já o cultivo de batatas foi testado na Terra, em ambiente controlado, com água
 
 Fontes: NASA, “NASA Discovery Reveals Complex Water Systems on Early Mars” (21/09/2026); NASA, “NASA Plant Researchers Explore Question of Deep-Space Food Crops” (17/02/2016). Links completos no registro de fontes desta peça.
 
-Para receber as próximas curiosidades: Assinar Newsletter, no link da bio. 🍒
+Para receber as próximas curiosidades: Quer receber a próxima Cereja Flamejante? Assine pelo link da bio. 🍒
 
 #CerejaFlamejante #Marte #Ciência #Cinema
 
@@ -72,3 +72,5 @@ Capa: Água em Marte! E as batatas? Segundo slide esclarece que essa água ficou
 Contexto do filme incluído na página 4. Fonte oficial: https://www.20thcenturystudios.com/movies/the-martian . Imagens do filme: pendentes de autorização específica; nenhuma reprodução inserida.
 
 Decisão de formato: carrossel entrega contexto curto e achado; legenda concentra explicação adicional e fontes. Alt text permanece descrição acessível de cada página, não substitui legenda.
+
+Regra de CTA aprovada por Kell: nas peças e legendas, usar convite empático e contextual. Infinitivo reservado ao texto de botão neste projeto. Slide final: Quer receber a próxima Cereja Flamejante? Assine pelo link da bio.
