@@ -22,7 +22,7 @@ Já o cultivo de batatas foi testado na Terra, em ambiente controlado, com água
 
 Fontes: NASA, “NASA Discovery Reveals Complex Water Systems on Early Mars” (21/09/2026); NASA, “NASA Plant Researchers Explore Question of Deep-Space Food Crops” (17/02/2016). Links completos no registro de fontes desta peça.
 
-Para receber as próximas curiosidades: Quer receber a próxima Cereja Flamejante? Assine pelo link da bio. 🍒
+Quer receber a Cereja Flamejante na sua caixa de entrada? Assine pelo link da bio. 🍒
 
 #CerejaFlamejante #Marte #Ciência #Cinema
 
@@ -34,7 +34,7 @@ Nota para Kell: a reação da primeira linha vem da entrevista. Validar a formul
 2. https://www.nasa.gov/science-research/nasa-plant-researchers-explore-question-of-deep-space-food-crops/
    Arquivo histórico de 2016, consultado em 05/10/2026. Batatas cultivadas em hidroponia em ambiente controlado terrestre nos anos 1990. Nutrientes, iluminação, proteção e pressurização importam; percloratos exigem mitigação. Interesse da Frito-Lay no trabalho não prova cultivo em Marte.
 
-Texto factual das páginas 2–3 é uma paráfrase própria, sem citação direta. Páginas 4–5 ampliam a pauta com a fonte histórica. Sem fotografias, frames ou áudio do filme e sem ativos fotográficos da NASA.
+Texto factual das páginas 2–3 é uma paráfrase própria, sem citação direta. Páginas 4–5 ampliam a pauta com a fonte histórica. Sem fotografias, frames ou áudio do filme ; fotografia NASA adicionada na revisão posterior.
 
 ## Ativos e direitos
 - assets/mars-potato.png: colagem conceitual original criada neste projeto com a ferramenta integrada de geração de imagem; não representa observação astronômica. Sem referência a personagem ou cartaz. Prompt registrado em image-prompt.txt. Uso proposto: esta peça editorial orgânica; aprovação humana pendente.
@@ -49,7 +49,7 @@ https://cerejaflamejante.substack.com/subscribe?utm_source=instagram&utm_medium=
 Antes de publicar, confirmar a URL da bio e testar a chegada à assinatura. UTMs identificam origem quando preservadas pelo percurso; não garantem atribuição de inscrições pelo Substack. Nenhuma mudança na bio executada.
 
 ## Avaliação
-Revisão feita pelo Codex, não por agentes independentes.
+Revisão inicial pelo Codex. Revisão especializada posterior de leitura, direção visual e conversão registrada em review.md. Aprovação humana continua pendente.
 - Evidência: PASS técnico para os enunciados ligados às duas fontes; grau de incerteza preservado.
 - Canal: PASS para autonomia, descoberta e sequência visual; convite somente ao final.
 - Distintividade: PASS provisório; parte da pergunta real de Kell e chega ao detalhe concreto da hidroponia/Frito-Lay. Aprovação de voz da legenda pendente.
@@ -78,3 +78,5 @@ Regra de CTA aprovada por Kell: nas peças e legendas, usar convite empático e 
 Novo ativo: assets/mars-greenhouse-concept.png, cena conceitual original inspirada na premissa de cultivo para sobrevivência. Ferramenta integrada de imagem. Não é frame nem representação de Matt Damon, nem diagrama agronômico: plantas e tubérculos compõem uma cena fictícia. Direitos de imagens do filme continuam pendentes; nenhuma delas foi reproduzida.
 
 Revisão: textos das peças reduzidos; detalhes científicos preservados na legenda. CTA empático mantido.
+
+NASA: panorama Margin Unit, capturado de 08–16/10/2023, publicado na notícia em 21/09/2026. Crédito NASA/JPL-Caltech/MSSS. Origem: https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/ . Arquivo: assets/nasa-jezero-margin.jpg. Política: https://www.nasa.gov/nasa-brand-center/images-and-media/ . Uso informativo orgânico nesta peça, sem endosso ou logo; recorte central de apresentação, sem filtro de cor; não presumir extensão a anúncio pago. Consulta 05/10/2026.
