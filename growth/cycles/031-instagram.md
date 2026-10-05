@@ -1,7 +1,11 @@
 # Instagram cycle — Cereja Flamejante #031
 
-Status: **pre-publication plan; newsletter draft not yet present in remote GitHub**.
-Newsletter target publication: **2026-10-05 06:45 BRT**.
+Status: **newsletter published; Mars + potatoes flagship prepared for Kell review**.
+Published issue verified 2026-10-05: https://cerejaflamejante.substack.com/p/031-momentos-estranhos
+Exact publication time not reverified. Operational packet: [031-mars/packet.md](031-mars/packet.md).
+Instagram publication and scheduling remain pending human approval.
+
+The pre-publication planning below is retained as historical context, not a current schedule.
 
 ## Gate 0 — newsletter
 
