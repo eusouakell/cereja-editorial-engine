@@ -74,3 +74,5 @@ Contexto do filme incluído na página 4. Fonte oficial: https://www.20thcentury
 Decisão de formato: carrossel entrega contexto curto e achado; legenda concentra explicação adicional e fontes. Alt text permanece descrição acessível de cada página, não substitui legenda.
 
 Regra de CTA aprovada por Kell: nas peças e legendas, usar convite empático e contextual. Infinitivo reservado ao texto de botão neste projeto. Slide final: Quer receber a próxima Cereja Flamejante? Assine pelo link da bio.
+
+Novo ativo: assets/mars-greenhouse-concept.png, cena conceitual original inspirada na premissa de cultivo para sobrevivência. Ferramenta integrada de imagem. Não é frame nem representação de Matt Damon, nem diagrama agronômico: plantas e tubérculos compõem uma cena fictícia. Direitos de imagens do filme continuam pendentes; nenhuma delas foi reproduzida.
