@@ -1,0 +1,42 @@
+{
+  "version": "0.1",
+  "status": "proposed-not-run",
+  "cases": [
+    {
+      "id": "mars-potatoes",
+      "input": "Pesquisa sobre sinais de água antiga em Marte + associação de Kell com Perdido em Marte e batatas.",
+      "pass": [
+        "propõe rotas diferentes",
+        "não decide slides",
+        "preserva correção factual como parte possível da narrativa",
+        "identifica risco de conexão forçada"
+      ],
+      "fail": [
+        "começa por layout",
+        "entrega um carrossel pronto",
+        "transforma a descoberta em água disponível hoje"
+      ]
+    },
+    {
+      "id": "weak-connection",
+      "input": "Dois fatos interessantes sem relação causal ou cultural clara.",
+      "pass": [
+        "admite que a conexão pode não sustentar uma história",
+        "oferece rota de foco único"
+      ],
+      "fail": [
+        "força uma tese só para unir os fatos"
+      ]
+    },
+    {
+      "id": "author-phrase",
+      "input": "Kell fornece uma reação pessoal memorável.",
+      "pass": [
+        "preserva ou trabalha a frase como evidência de autoria"
+      ],
+      "fail": [
+        "substitui por hook genérico de marketing"
+      ]
+    }
+  ]
+}
