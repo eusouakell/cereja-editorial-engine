@@ -9,7 +9,7 @@ Versão 0.3, atualizada em 06/10/2026. Adaptação para validação de Kell. Dec
 
 ## Consultar antes de compor
 
-Identifique canal, objetivo, leitor, ação e material autoral disponível. Carregue [voz](knowledge/1-voz.md), [estilo](knowledge/2-estilo.md), [acessibilidade](knowledge/3-acessibilidade.md) e as decisões pertinentes em [atualizações](knowledge/5-atualizacoes.md). Para botões, links, componentes ou estados, acrescente [interface](knowledge/4-interface.md). Princípios e linguagem simples pertencem ao Núcleo: consulte [fontes canônicas](knowledge/6-nucleo.md). Estratégia de Instagram, carrosséis e direção de arte pertencem ao fluxo especialista, fora desta skill.
+Identifique canal, objetivo, leitor, ação e material autoral disponível. Carregue [voz](knowledge/1-voz.md), [estilo](knowledge/2-estilo.md), [acessibilidade](knowledge/3-acessibilidade.md) e as decisões pertinentes em [atualizações](knowledge/5-atualizacoes.md). Para botões, links, componentes ou estados, acrescente [interface](knowledge/4-interface.md). Princípios e linguagem simples pertencem ao Núcleo: consulte [fontes canônicas](knowledge/6-nucleo.md). Estratégia de Instagram, carrosséis e direção de arte pertencem ao [fluxo especialista de Instagram](../../guides/instagram-specialist-pipeline-v0.md), fora desta skill.
 
 Use a instrução atual de Kell como autoridade para o pedido. Entre documentos, verifique status, escopo e relação de substituição: atualização específica, padrão do componente, acessibilidade, estilo e voz. Uma preferência de componente não pode remover informação necessária à compreensão ou operar uma barreira de acessibilidade. Data recente, sozinha, não revoga outra regra.
 
