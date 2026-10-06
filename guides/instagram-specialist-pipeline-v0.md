@@ -90,6 +90,53 @@ Preferir:
 
 Cada etapa recebe o artefato aprovado da anterior. Não recalcula tudo do zero.
 
+
+
+## Progressive disclosure de contexto
+
+Cada especialista recebe o **menor pacote de contexto suficiente** para sua decisão. Mais contexto não é automaticamente melhor: alternativas já rejeitadas, decisões de etapas futuras e documentos de execução podem induzir o agente a reabrir gates ou misturar papéis.
+
+### Pacote por etapa
+
+| Etapa | Recebe | Não recebe por padrão |
+|---|---|---|
+| Editorial Storyteller | fonte/editorial packet + evidências + contrato da skill | estratégia Instagram, outline, Flame visual, carrossel anterior como resposta |
+| Instagram Strategist | história aprovada + estratégia Instagram + contrato da skill | direção visual, layout, copy final, alternativas narrativas rejeitadas |
+| Carousel Planner | história aprovada + brief de objetivo/formato + contrato de carrossel | direção de arte, template, execução |
+| Visual Storyteller | outline aprovado + objetivo/formato aprovado + Flame aplicável + contrato visual | rotas narrativas rejeitadas, redecisão de formato |
+| Creative Director | artefatos aprovados + direção visual + Flame aplicável | liberdade para inventar nova rota ou novo objetivo |
+| Executor | decisões aprovadas + tokens/componentes/ativos necessários | estratégia aberta, alternativas antigas, autoridade editorial |
+| QA | saída executada + contratos específicos do que está sendo verificado | contexto irrelevante ao check/eval |
+
+### Regra de gate
+
+Depois que Kell aprova um gate, a etapa seguinte recebe **a decisão aprovada**, não o conjunto completo de alternativas.
+
+Uma etapa só pode reabrir decisão anterior quando encontra:
+
+- contradição explícita;
+- requisito necessário ausente;
+- conflito factual, de direitos ou acessibilidade;
+- inviabilidade real de execução;
+- mudança de uma fonte canônica;
+- pedido explícito de Kell.
+
+Fora desses casos, reabrir estratégia é **falha de boundary**.
+
+### Hierarquia de autoridade
+
+Quando houver dúvida:
+
+```text
+artefato aprovado da etapa anterior
+→ Núcleo / Flame aplicável
+→ contrato do canal/formato
+→ contrato do especialista
+→ referência externa / ferramenta
+```
+
+Referência externa e skill de execução não podem substituir uma decisão canônica ou aprovada.
+
 ## PostNitro como benchmark de execution layer
 
 Princípios aproveitados:
