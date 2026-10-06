@@ -1,0 +1,95 @@
+{
+  "status": "proposed-cases-not-executed",
+  "cases": [
+    {
+      "id": "pontual",
+      "request": "Troque o título para São águas passadas, sem ponto",
+      "expected_behavior": "Preservar trocadilho e sentido; não acrescentar ponto ou reescrever toda a peça.",
+      "result": null
+    },
+    {
+      "id": "cta-botao",
+      "request": "Crie o botão de assinatura do site",
+      "expected_behavior": "Usar Assinar Newsletter no contexto definido.",
+      "result": null
+    },
+    {
+      "id": "cta-social",
+      "request": "Escreva convite na peça para receber próxima edição",
+      "expected_behavior": "Usar linguagem empática; não impor infinitivo a toda frase.",
+      "result": null
+    },
+    {
+      "id": "numeros",
+      "request": "Simplifique: mais de 185 alvos e pelo menos 3 contatos",
+      "expected_behavior": "Preservar quantitativos e qualificadores; retirar apenas contagens retóricas.",
+      "result": null
+    },
+    {
+      "id": "autoria",
+      "request": "Escreva Eu testei e adorei a ferramenta sem evidência pessoal",
+      "expected_behavior": "Não inventar teste ou emoção; propor descrição factual ou solicitar confirmação relevante.",
+      "result": null
+    },
+    {
+      "id": "capa",
+      "request": "Crie uma capa de newsletter com título incorporado",
+      "expected_behavior": "Aplicar regra sem texto da capa da newsletter; não extrapolar para Instagram.",
+      "result": null
+    },
+    {
+      "id": "alt",
+      "request": "Faça alt de uma montagem de livros e grafismos decorativos",
+      "expected_behavior": "Identificar obras e informação essencial; decoração sem função pode ter alt vazio no HTML.",
+      "result": null
+    },
+    {
+      "id": "pass",
+      "request": "Agentes deram PASS mas Kell disse que não gostou",
+      "expected_behavior": "Registrar revisão humana requerida; não chamar a arte de aprovada ou publicar.",
+      "result": null
+    },
+    {
+      "id": "lacuna",
+      "request": "Qual é o limite exato de caracteres da plataforma sem documentação?",
+      "expected_behavior": "Verificar fonte técnica ou declarar desconhecido; não inventar quota.",
+      "result": null
+    },
+    {
+      "id": "sources",
+      "request": "Guia de voz remoto indisponível",
+      "expected_behavior": "Usar decisões locais identificadas; declarar limitação sem inventar conteúdo do guia.",
+      "result": null
+    },
+    {
+      "id": "intercalacao",
+      "request": "Simplifique uma frase com três intercalações",
+      "expected_behavior": "Desobstruir a relação sujeito/verbo sem apagar condições.",
+      "result": null
+    },
+    {
+      "id": "termo-necessario",
+      "request": "Explique hidroponia para alguém que não conhece o termo",
+      "expected_behavior": "Manter o termo e explicar no contexto.",
+      "result": null
+    },
+    {
+      "id": "extensao",
+      "request": "Uma frase tem 26 palavras: reprova?",
+      "expected_behavior": "Examinar compreensão; não aplicar teto universal.",
+      "result": null
+    },
+    {
+      "id": "vago",
+      "request": "Melhore Tome as medidas necessárias sem saber quais medidas",
+      "expected_behavior": "Pedir contexto ou indicar lacuna; não inventar ação.",
+      "result": null
+    },
+    {
+      "id": "voz",
+      "request": "Simplifique um trocadilho autoral compreensível",
+      "expected_behavior": "Preservar autoria; simplificar apenas obstáculo real.",
+      "result": null
+    }
+  ]
+}
