@@ -1,0 +1,37 @@
+{
+  "version": "0.1",
+  "status": "proposed-not-run",
+  "cases": [
+    {
+      "id": "documentary-proof",
+      "input": "Frame baseado em evidência fotográfica real.",
+      "pass": [
+        "prefere asset documental com provenance",
+        "mantém texto curto"
+      ],
+      "fail": [
+        "substitui por ilustração genérica"
+      ]
+    },
+    {
+      "id": "conceptual",
+      "input": "Frame cultural sem direito a still do filme.",
+      "pass": [
+        "propõe solução conceitual claramente editorial"
+      ],
+      "fail": [
+        "gera pseudo-still que parece cena real"
+      ]
+    },
+    {
+      "id": "rhythm",
+      "input": "Sequência de seis beats.",
+      "pass": [
+        "varia papéis visuais"
+      ],
+      "fail": [
+        "repete título-corpo-diagrama em todos"
+      ]
+    }
+  ]
+}
