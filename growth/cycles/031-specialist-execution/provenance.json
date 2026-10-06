@@ -1,0 +1,66 @@
+{
+  "nasa-jezero-margin.jpg": {
+    "origin": "NASA/JPL article, panorama Margin Unit Oct 8–16 2023",
+    "credit": "NASA/JPL-Caltech/MSSS",
+    "role": "context, not mineral proof",
+    "processing": "CSS crop/scale only; no filter",
+    "sha256": "ad7e105db44be7b95e8e9c5955b824ed6ea5a4ebfeade4670ddca1f7984b64c4",
+    "selection_date": "2026-10-06",
+    "selection_status": "selecionado tecnicamente pelo Executor após novo Execution Gate; aprovação visual de Kell pendente",
+    "selection_reason": "Fonte e crédito conferidos no artigo NASA/JPL de 21/09/2026. Panorama contextual; não é prova mineral nem fotografia com batata.",
+    "prior_status": "exploratório/não aprovado; original preservado sem promoção retroativa",
+    "rights_review": "Uso editorial informativo, com crédito, sem endosso, logo ou pessoa identificável. Conferido crédito do item e ausência de indicação de copyright de terceiro no item. Não é aprovação de campanha paga ou merchandise.",
+    "guidelines": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "source": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
+  },
+  "nasa-potatoes-1992.jpg": {
+    "origin": "NASA Kennedy Deep-Space Food Crops article",
+    "credit": "NASA",
+    "role": "documentary terrestrial experiment 1992",
+    "processing": "CSS crop/scale only; roots, trays, pipes and valves retained",
+    "sha256": "d916530fdb964a6bcd2a770b433a825ac13739e5b15744babeaf70e8ecec2a8c",
+    "selection_date": "2026-10-06",
+    "selection_status": "selecionado tecnicamente pelo Executor após novo Execution Gate; aprovação visual de Kell pendente",
+    "selection_reason": "Fonte e crédito NASA conferidos no artigo de 17/02/2016. Foto de Norland no experimento de 1992; tubos, bandejas e raízes reconhecíveis. Sem pessoas ou marca de terceiro identificada no item.",
+    "prior_status": "exploratório/não aprovado; original preservado sem promoção retroativa",
+    "rights_review": "Uso editorial informativo, com crédito, sem endosso, logo ou pessoa identificável. Conferido crédito do item e ausência de indicação de copyright de terceiro no item. Não é aprovação de campanha paga ou merchandise.",
+    "guidelines": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "source": "https://www.nasa.gov/science-research/nasa-plant-researchers-explore-question-of-deep-space-food-crops/"
+  },
+  "nasa-source-title.png": {
+    "origin": "screenshot of actual h1 on official NASA/JPL article",
+    "credit": "NASA/JPL",
+    "role": "source document title, not data diagram",
+    "processing": "h1 screenshot only",
+    "sha256": "70fa26ac5bd040f349ce95367e6ec3ae0069de62b60c0a5f55d114a1f2519124",
+    "selection_date": "2026-10-06",
+    "selection_status": "selecionado tecnicamente pelo Executor após novo Execution Gate; aprovação visual de Kell pendente",
+    "selection_reason": "Captura real do h1 do artigo NASA/JPL. Onze palavras em inglês; título documental, não gráfico científico. Nenhum logo ou mapa fictício.",
+    "prior_status": "exploratório/não aprovado; original preservado sem promoção retroativa",
+    "rights_review": "Uso editorial informativo, com crédito, sem endosso, logo ou pessoa identificável. Conferido crédito do item e ausência de indicação de copyright de terceiro no item. Não é aprovação de campanha paga ou merchandise.",
+    "guidelines": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "source": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
+  },
+  "potato-cutout.png": {
+    "origin": "built-in image generation 2026-10-06",
+    "role": "editorial association, not documentary",
+    "processing": "CSS scale/rotation only, alpha preserved",
+    "reused": "frames 1 and 5",
+    "sha256": "51ac692eb593d7987aaf4b4d949cc07b40e5784599d2db274f0be7af686fa924",
+    "selection_date": "2026-10-06",
+    "selection_status": "selecionado tecnicamente pelo Executor após novo Execution Gate; aprovação visual de Kell pendente",
+    "selection_reason": "Reinspeção visual e alpha antes de seleção: objeto reconhecível, sem face, cenário ou marca. Montagem separada do terreno, escala editorial. Retorno somente 1/5.",
+    "prior_status": "exploratório/não aprovado; original preservado sem promoção retroativa"
+  },
+  "cultivation-shelter.png": {
+    "origin": "built-in image generation 2026-10-06",
+    "role": "original conceptual illustration, not film still or scientific evidence",
+    "constraints": "cultivation+shelter, no person, no panorama, no actor or scene imitation",
+    "processing": "CSS crop/scale",
+    "sha256": "2b856714bf301b66bebb7ad71c3b135dd2655c05689fdde8ec15db94c230b36d",
+    "selection_date": "2026-10-06",
+    "selection_status": "selecionado tecnicamente pelo Executor após novo Execution Gate; aprovação visual de Kell pendente",
+    "selection_reason": "Reinspeção visual antes de seleção: cultivo + abrigo, sem pessoa, horizonte espacial, espetáculo cinematográfico, ator ou still. Mantém estatuto conceitual; nenhum sistema técnico é alegado como comprovado.",
+    "prior_status": "exploratório/não aprovado; original preservado sem promoção retroativa"
+  }
+}

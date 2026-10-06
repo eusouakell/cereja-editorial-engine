@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-06",
+  "responsive": [
+    {
+      "viewport": 320,
+      "contentWidth": 320,
+      "allImagesHaveAlt": true,
+      "missingImages": [],
+      "focus": {
+        "element": "A",
+        "text": "Ver conjunto",
+        "outlineWidth": "3px",
+        "outlineStyle": "solid"
+      }
+    },
+    {
+      "viewport": 390,
+      "contentWidth": 390,
+      "allImagesHaveAlt": true,
+      "missingImages": [],
+      "focus": {
+        "element": "A",
+        "text": "Ver conjunto",
+        "outlineWidth": "3px",
+        "outlineStyle": "solid"
+      }
+    },
+    {
+      "viewport": 768,
+      "contentWidth": 768,
+      "allImagesHaveAlt": true,
+      "missingImages": [],
+      "focus": {
+        "element": "A",
+        "text": "Ver conjunto",
+        "outlineWidth": "3px",
+        "outlineStyle": "solid"
+      }
+    }
+  ],
+  "typography": [
+    {
+      "frame": 1,
+      "minEditorialFontMobile390": 23.47222222222222,
+      "minCreditMobile390": 12.277777777777779
+    },
+    {
+      "frame": 2,
+      "minEditorialFontMobile390": 19.86111111111111,
+      "minCreditMobile390": 12.277777777777779
+    },
+    {
+      "frame": 3,
+      "minEditorialFontMobile390": 20.22222222222222,
+      "minCreditMobile390": null
+    },
+    {
+      "frame": 4,
+      "minEditorialFontMobile390": 20.944444444444443,
+      "minCreditMobile390": 12.277777777777779
+    },
+    {
+      "frame": 5,
+      "minEditorialFontMobile390": 17.333333333333332,
+      "minCreditMobile390": null
+    }
+  ],
+  "contrast": {
+    "inkWhite": 11.374541813829671,
+    "inkLime": 8.080812111119267,
+    "actionCherryWhite": 6.334928336698559
+  },
+  "linksAbsentAtCheck": [],
+  "captionChars": 1261
+}

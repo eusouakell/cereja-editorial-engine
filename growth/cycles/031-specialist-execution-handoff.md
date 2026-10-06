@@ -2,7 +2,7 @@
 
 Data: 2026-10-06.
 
-Status: COPY GATE vigente consolidado em 2026-10-06. Novo EXECUTION GATE pendente de revisão externa e aprovação de Kell. A autorização anterior foi suspensa; sincronização documental não autoriza renderização. Não renderizar, selecionar, refinar ou substituir assets. Publicação não autorizada.
+Status: novo EXECUTION GATE aprovado por Kell em 2026-10-06 após revisão externa do commit 51efd68. Execução visual autorizada e realizada sem reabrir copy ou direção. Pacote entregue ao KELL — PUBLISH GATE; aprovação visual, legenda e publicação pendentes. Não publicar nem agendar.
 
 ## Contrato vigente
 
@@ -79,10 +79,12 @@ Fatos herdados das fontes/limites registrados, sem fatos novos. O packet anterio
 
 Núcleo: `editorial/voice-and-tone.md`, `editorial/content-design.md` e `editorial/curation-decisions.md` do cereja-knowledge-system. A skill aplica essas fontes; não altera história, objetivo ou direção. Nenhuma skill alterada.
 
-Após nova autorização do Execution Gate, o Executor deverá usar exclusivamente esta copy e a Rodada 4 consolidada, preservar os qualificadores e a distribuição arte × legenda e conferir direitos, provenance, alt, contraste e leitura no celular. Esses passos estão futuros e suspensos agora. Revisão documental não certifica legibilidade visual, compreensão pelo público ou conformidade WCAG.
+Com a nova autorização do Execution Gate, o Executor deve usar exclusivamente esta copy e a Rodada 4 consolidada, preservar os qualificadores e a distribuição arte × legenda e conferir direitos, provenance, alt, contraste e leitura no celular. Os resultados da execução e verificações estão no pacote do Publish Gate; não substituem aprovação de Kell. Revisão documental não certifica legibilidade visual, compreensão pelo público ou conformidade WCAG.
 
-## EXECUTION GATE — pendente
+## EXECUTION GATE — aprovado; Publish Gate pendente
 
-A autorização anterior foi suspensa por Kell por conflito de autoria/voz. Esta consolidação prepara nova revisão externa. Commit/push não liberam execução: **não renderizar, selecionar, refinar ou substituir assets até nova aprovação de Kell**. Não reabrir história, objetivo, formato, cinco frames ou direção visual. Publicação e Stories continuam fora do escopo.
+A suspensão anterior permanece no histórico. Kell aprovou novo EXECUTION GATE em 06/10/2026, após revisão externa do commit `51efd68`. Autorizou execução visual e QA, preservando história, objetivo, formato, cinco frames, copy e direção. A legenda deve estar escrita, factual e aprovada antes da publicação. **Não publicar nem agendar.**
 
-Flame não proíbe a chama isolada. Frame 5 permanece sem marca gráfica por decisão específica desta peça, salvo nova decisão de Kell.
+Entrega: [cinco frames, legenda, alt, provenance e QA](031-specialist-execution/index.html). A legenda é proposta do assistente, pendente de aprovação; não texto originalmente escrito por Kell. Imagens anteriores foram reavaliadas por item e selecionadas tecnicamente, com motivos no pacote; essa seleção não é aprovação visual de Kell.
+
+Flame não proíbe a chama isolada. Frame 5 permanece sem marca gráfica por decisão específica desta peça. Nenhuma skill alterada.

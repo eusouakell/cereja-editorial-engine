@@ -1,0 +1,444 @@
+[
+  {
+    "frame": 1,
+    "copy": "Li \"Água em Marte\" e pensei: batatas!",
+    "text": [
+      {
+        "text": "Li",
+        "bounds": [
+          76,
+          76,
+          50.59375,
+          72.796875
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 76,
+            "y": 75,
+            "width": 50.59375,
+            "height": 73,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 65,
+        "mobile390Px": 23.47222222222222
+      },
+      {
+        "text": "\"Água em Marte\"",
+        "bounds": [
+          72,
+          168,
+          889.4375,
+          128.25
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 72,
+            "y": 163,
+            "width": 889.4375,
+            "height": 138,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 121,
+        "mobile390Px": 43.69444444444444
+      },
+      {
+        "text": "e pensei:",
+        "bounds": [
+          78,
+          337,
+          267.875,
+          79.1875
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 78,
+            "y": 339,
+            "width": 267.875,
+            "height": 74,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 66,
+        "mobile390Px": 23.833333333333332
+      },
+      {
+        "text": "batatas!",
+        "bounds": [
+          73,
+          430,
+          428.203125,
+          133.546875
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 73,
+            "y": 424,
+            "width": 428.203125,
+            "height": 144,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 126,
+        "mobile390Px": 45.5
+      },
+      {
+        "text": "Foto: NASA/JPL-Caltech/MSSS",
+        "bounds": [
+          76,
+          1270,
+          479.953125,
+          40.796875
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 76,
+            "y": 1271,
+            "width": 479.953125,
+            "height": 38,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 34,
+        "mobile390Px": 12.277777777777779
+      }
+    ],
+    "missing": []
+  },
+  {
+    "frame": 2,
+    "copy": "São águas passadas Em Marte, mais de 185 pontos de rocha analisados sugerem que já existiu água no planeta.",
+    "text": [
+      {
+        "text": "São águas\npassadas",
+        "bounds": [
+          74,
+          128,
+          910,
+          279.8125
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 74,
+            "y": 122,
+            "width": 558.796875,
+            "height": 150,
+            "inside": true
+          },
+          {
+            "x": 74,
+            "y": 261.90625,
+            "width": 505.890625,
+            "height": 150,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 132,
+        "mobile390Px": 47.666666666666664
+      },
+      {
+        "text": "Em Marte, mais de 185 pontos de rocha analisados sugerem que já existiu água no planeta.",
+        "bounds": [
+          80,
+          548,
+          865,
+          211.171875
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 80,
+            "y": 552,
+            "width": 825.4375,
+            "height": 62,
+            "inside": true
+          },
+          {
+            "x": 80,
+            "y": 622.390625,
+            "width": 810.234375,
+            "height": 62,
+            "inside": true
+          },
+          {
+            "x": 80,
+            "y": 692.78125,
+            "width": 581,
+            "height": 62,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 55,
+        "mobile390Px": 19.86111111111111
+      },
+      {
+        "text": "Documento: NASA/JPL · 21/09/2026",
+        "bounds": [
+          80,
+          1230,
+          552.5,
+          40.796875
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 80,
+            "y": 1231,
+            "width": 552.5,
+            "height": 38,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 34,
+        "mobile390Px": 12.277777777777779
+      }
+    ],
+    "missing": []
+  },
+  {
+    "frame": 3,
+    "copy": "Perdido em Marte Um astronauta tenta sobreviver cultivando batatas.",
+    "text": [
+      {
+        "text": "Perdido em Marte",
+        "bounds": [
+          73,
+          80,
+          900,
+          114.46875
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 73,
+            "y": 75,
+            "width": 831.953125,
+            "height": 123,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 108,
+        "mobile390Px": 39
+      },
+      {
+        "text": "Um astronauta tenta sobreviver cultivando batatas.",
+        "bounds": [
+          78,
+          250,
+          870,
+          140
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 78,
+            "y": 253,
+            "width": 781.265625,
+            "height": 63,
+            "inside": true
+          },
+          {
+            "x": 78,
+            "y": 323,
+            "width": 466.984375,
+            "height": 63,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 56,
+        "mobile390Px": 20.22222222222222
+      }
+    ],
+    "missing": []
+  },
+  {
+    "frame": 4,
+    "copy": "Na Terra, a NASA testou o cultivo em hidroponia. Isso chamou a atenção da Frito-Lay.",
+    "text": [
+      {
+        "text": "Foto: NASA · experimento terrestre, 1992",
+        "bounds": [
+          74,
+          847,
+          625.515625,
+          40.796875
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 74,
+            "y": 848,
+            "width": 625.515625,
+            "height": 38,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 34,
+        "mobile390Px": 12.277777777777779
+      },
+      {
+        "text": "Na Terra, a NASA testou o cultivo em hidroponia.\nIsso chamou a atenção da Frito-Lay.",
+        "bounds": [
+          76,
+          931,
+          930,
+          268.203125
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 76,
+            "y": 931,
+            "width": 357.015625,
+            "height": 99,
+            "inside": true
+          },
+          {
+            "x": 76,
+            "y": 931,
+            "width": 357.015625,
+            "height": 99,
+            "inside": true
+          },
+          {
+            "x": 433.015625,
+            "y": 958,
+            "width": 441.71875,
+            "height": 65,
+            "inside": true
+          },
+          {
+            "x": 76,
+            "y": 1034.046875,
+            "width": 564.203125,
+            "height": 65,
+            "inside": true
+          },
+          {
+            "x": 76,
+            "y": 1132.953125,
+            "width": 930,
+            "height": 66.25,
+            "inside": true
+          },
+          {
+            "x": 76,
+            "y": 1135.953125,
+            "width": 856.3125,
+            "height": 59,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 58,
+        "mobile390Px": 20.944444444444443
+      }
+    ],
+    "missing": []
+  },
+  {
+    "frame": 5,
+    "copy": "Dá pra plantar em Marte? Sim, mas com truques da ciência! (vem conferir na legenda)",
+    "text": [
+      {
+        "text": "Dá pra plantar\nem Marte?",
+        "bounds": [
+          74,
+          100,
+          925,
+          244.15625
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 74,
+            "y": 99,
+            "width": 673,
+            "height": 124,
+            "inside": true
+          },
+          {
+            "x": 74,
+            "y": 221.078125,
+            "width": 500.125,
+            "height": 124,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 109,
+        "mobile390Px": 39.361111111111114
+      },
+      {
+        "text": "Sim, mas com\ntruques da ciência!",
+        "bounds": [
+          80,
+          458,
+          920,
+          172.78125
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 80,
+            "y": 461,
+            "width": 456.046875,
+            "height": 80,
+            "inside": true
+          },
+          {
+            "x": 80,
+            "y": 547.390625,
+            "width": 604.375,
+            "height": 80,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 72,
+        "mobile390Px": 26
+      },
+      {
+        "text": "(vem conferir na legenda)",
+        "bounds": [
+          80,
+          726,
+          860,
+          60
+        ],
+        "inside": true,
+        "glyphBounds": [
+          {
+            "x": 80,
+            "y": 729,
+            "width": 546.9375,
+            "height": 53,
+            "inside": true
+          }
+        ],
+        "clipped": false,
+        "fontPx": 48,
+        "mobile390Px": 17.333333333333332
+      }
+    ],
+    "missing": []
+  }
+]

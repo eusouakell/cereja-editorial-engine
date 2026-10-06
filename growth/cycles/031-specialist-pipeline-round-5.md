@@ -83,6 +83,6 @@ A autorização posterior de execução foi suspensa por Kell por conflito de au
 
 Este parecer é histórico. Sua ausência original de CTA não revoga a decisão posterior de Kell: convite do frame 5 para conferir a legenda, sem CTA de assinatura. A distribuição arte × legenda e a copy exata estão no [handoff](031-specialist-execution-handoff.md), sem nova direção visual.
 
-**Novo EXECUTION GATE pendente.** Não renderizar, selecionar, refinar ou substituir assets até nova aprovação. Imagens geradas antes da suspensão permanecem [exploratórias/não aprovadas](031-specialist-exploratory-assets.md), sem promoção automática a finais. Nenhuma publicação autorizada.
+**Novo EXECUTION GATE aprovado por Kell em 06/10/2026**, após revisão externa do commit `51efd68`. Autorizadas execução visual e QA, sem reabrir direção ou copy. Os originais anteriores permanecem [exploratórios/não aprovados](031-specialist-exploratory-assets.md); a nova seleção técnica por item foi registrada separadamente, sem aprovação visual automática. Parada no KELL — PUBLISH GATE. Não publicar ou agendar. Esta autorização não altera o verdict histórico REVISE.
 
 Sem marca gráfica no frame 5 é decisão específica desta peça, não proibição da chama isolada pelo Flame.

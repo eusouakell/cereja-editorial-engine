@@ -1,6 +1,6 @@
 # #031 — Registro da exploração anterior à suspensão
 
-Data: 2026-10-06. Status: **exploratória/não aprovada**. Novo Execution Gate pendente.
+Data: 2026-10-06. Status: **exploratória/não aprovada**. O novo Execution Gate foi aprovado posteriormente; este registro mantém o estatuto dos originais exploratórios.
 
 Este registro identifica materiais existentes; não os seleciona, refina ou substitui. Nenhum material recebe aprovação por estar disponível ou por ter sido gerado durante uma autorização anterior. Não promover automaticamente a asset final.
 
@@ -11,4 +11,4 @@ Este registro identifica materiais existentes; não os seleciona, refina ou subs
 | Cópias NASA `nasa-jezero-margin.jpg`, `nasa-potatoes-1992.jpg` e captura `nasa-source-title.png` no mesmo diretório | Materiais documentais externos/captura de título; autoria NASA/créditos por item. | Uso, crop e seleção nesta exploração não aprovados como finais. |
 | HTML, CSS, copy, alt e provenance da exploração no mesmo diretório | Artefatos de trabalho do assistente anteriores à suspensão; podem conter copy substituída. | Não são handoff ou entrega final. Não renderizar nem usar como fonte vigente. |
 
-Direção vigente: [Rodada 4](031-specialist-pipeline-round-4.md). Copy e distribuição arte × legenda: [handoff](031-specialist-execution-handoff.md). Nova execução depende de liberação de Kell. Este registro não aprova direitos, acabamento, legibilidade ou publicação.
+Direção vigente: [Rodada 4](031-specialist-pipeline-round-4.md). Copy e distribuição arte × legenda: [handoff](031-specialist-execution-handoff.md). Nova execução foi autorizada posteriormente por Kell; sua seleção técnica está em [provenance por item](031-specialist-execution/provenance.json). A aprovação do gate não promove retroativamente estes originais. A aprovação visual do pacote permanece no Publish Gate. Este registro não aprova direitos, acabamento, legibilidade ou publicação.
