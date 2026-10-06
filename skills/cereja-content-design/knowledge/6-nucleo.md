@@ -12,3 +12,5 @@ A revisão começa pelo leitor, objetivo e informação essencial; depois examin
 Limites de extensão dos guias externos servem como sinais de diagnóstico. São Paulo sugere 20 palavras; Londrina, 25. Não impor corte automático. Testar compreensão com pessoas quando viável e distinguir teste real de simulação.
 
 Referências públicas e exemplos didáticos ficam no Núcleo. Não tratar convenções administrativas ou jurídicas como obrigação de voz editorial.
+
+Mecânica e perfis contextuais: consultar [aplicação](7-mecanica.md). Escopo atual pt-BR. Um teto explícito do briefing exige conferência; não cortar citações ou informação para obedecer mecanicamente.

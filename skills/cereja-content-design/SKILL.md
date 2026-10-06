@@ -5,7 +5,7 @@ description: Criar e revisar conteúdo da Cereja Flamejante com sua voz, curador
 
 # Content Design da Cereja Flamejante
 
-Versão 0.2, atualizada em 06/10/2026. Adaptação para validação de Kell. Decisões explícitas anteriores continuam vigentes; recomendações novas permanecem propostas.
+Versão 0.3, atualizada em 06/10/2026. Adaptação para validação de Kell. Decisões explícitas anteriores continuam vigentes; recomendações novas permanecem propostas.
 
 ## Consultar antes de compor
 
@@ -30,3 +30,7 @@ Entregue texto e contexto necessários ao formato, fontes dos fatos, alt text e 
 Um parecer técnico confirma seu próprio escopo. PASS de agentes não comprova autoria, satisfação visual ou conversão. Registre a decisão de Kell separadamente. Se ela rejeitar a versão, marque revisão requerida mesmo que os pareceres anteriores sejam PASS. Publicação depende de autorização específica.
 
 Casos de regressão estão em [evals/casos.json](evals/casos.json). São cenários propostos, não resultados executados. Proveniência, versões e lacunas estão em [manifest.json](manifest.json).
+
+## Perfil contextual e governança
+
+Escopo linguístico atual: português brasileiro. Identificar canal, intenção, formato, fontes e restrições do briefing. Consultar [mecânica e perfis](knowledge/7-mecanica.md). No site, aplicar SEO e GEO com fontes atuais. Não transformar a skill em tradutor trilíngue nem restringir entregas humanas a JSON.

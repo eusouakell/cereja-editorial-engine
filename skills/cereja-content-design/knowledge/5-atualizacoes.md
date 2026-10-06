@@ -28,3 +28,7 @@ Esta adaptação é proposta para revisão. Autoridade editorial: Kell. Reposit�
 ## Ajuste de escopo de 06/10/2026
 
 Por decisão de Kell, padrões e decisões de carrossel foram retirados desta skill. Instagram terá fluxo especialista. Content Design consulta os princípios e a linguagem simples do Núcleo.
+
+## 06/10/2026 Governança contextual
+
+Kell aprovou as correções ao documento de arquitetura e a mecânica de guias, guardas, verificações e sensores. Foco pt-BR. Site inclui SEO e GEO; newsletter preserva costura autoral. Referências não viram obrigações ou certificações automáticas.

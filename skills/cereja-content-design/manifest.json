@@ -1,5 +1,5 @@
 {
-  "skill_version": "0.2",
+  "skill_version": "0.3",
   "knowledge_version": "nucleo-content-design-2026-10-06",
   "evaluation_version": "0.1-cases-not-run",
   "date": "2026-10-06",
@@ -8,7 +8,9 @@
   "changes": [
     "Carrossel e estratégia Instagram retirados do escopo",
     "Princípios e linguagem simples centralizados no Núcleo",
-    "Referências São Paulo/Enap, TJRJ e Londrina com adaptação contextual"
+    "Referências São Paulo/Enap, TJRJ e Londrina com adaptação contextual",
+    "Mecânica do Núcleo com perfis por contexto aprovada por Kell",
+    "Foco pt-BR; site inclui SEO e GEO com evidência e limites"
   ],
   "sources": [
     {
@@ -65,6 +67,16 @@
       "name": "londrina",
       "url": "https://repositorio.londrina.pr.gov.br/index.php/menu-procuradoria/manual-de-linguagem-simples/72837-manual-de-linguagem-simples-2/file",
       "sha256": "ca7a9502b37225a4fc51d7362ff1946070169140783869429ad5b5fe80c218c1",
+      "consulted": "2026-10-06"
+    },
+    {
+      "name": "Decisão de Kell sobre governança contextual",
+      "date": "2026-10-06",
+      "scope": "pt-BR, Núcleo e Content Design; SEO/GEO no site"
+    },
+    {
+      "name": "Google AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features",
       "consulted": "2026-10-06"
     }
   ],
