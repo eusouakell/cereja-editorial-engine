@@ -2,7 +2,7 @@
 
 Data: 2026-10-06.
 
-Status: CREATIVE GATE pendente da decisão de Kell.
+Status: CREATIVE GATE aprovado por Kell com as revisões obrigatórias em 2026-10-06. Parecer original REVISE preservado como histórico de preflight.
 
 Skill aplicada: [Creative Director](../../skills/creative-director/SKILL.md). Escopo: somente preflight da proposta textual; não há imagens ou layouts renderizados para avaliar acabamento, contraste, legibilidade ou aparência final.
 
@@ -67,10 +67,14 @@ Antes da execução, consolidar no handoff visual:
 5. Texto ancora relações que a imagem não prova: passado da água, contexto do filme, cultivo terrestre e interesse da empresa. Não exigir da imagem causalidade comercial invisível.
 6. Cada frame conserva composição própria, área limpa para leitura e créditos legíveis. Sem repetir título + imagem + rodapé cinco vezes. Não reduzir fonte para cumprir tetos de palavras.
 
-Revisões propostas, ainda sujeitas à decisão de Kell; não houve execução nem alteração automática da direção aceita para preflight.
+Kell aprovou estas revisões. Foram consolidadas na [direção vigente da Rodada 4](031-specialist-pipeline-round-4.md). O Executor usa essa versão única; não precisa reconciliar este parecer histórico com a direção.
 
 ## HUMAN DECISION — CREATIVE GATE
 
-Kell decide se aprova a direção com as revisões obrigatórias ou pede ajuste adicional. O preflight não certifica peça pronta ou publicada.
+**Decisão de Kell:** CREATIVE GATE aprovado com as revisões obrigatórias; preservar história, objetivo, formato e cinco frames. Autorizada somente Content Design para fechar a copy e preparar execution handoff para aprovação, sem renderizar. O preflight não certifica peça pronta ou publicada.
 
-Somente Creative Director executado nesta rodada. Nenhuma skill, asset, layout, copy final ou publicação alterada. Não avançar à produção até a decisão do CREATIVE GATE.
+Somente Creative Director executado nesta rodada. Nenhuma skill, asset, layout, copy final ou publicação alterada durante o preflight.
+
+**Autorização posterior — EXECUTION GATE em 2026-10-06:** conteúdo do handoff aprovado por Kell; execução visual autorizada após sincronização documental e verificação de consistência. Todas as revisões obrigatórias estão incorporadas à Rodada 4 vigente. O verdict histórico REVISE não foi substituído por um PASS retroativo. Não reabrir os gates anteriores; publicação permanece fora do escopo.
+
+Sem marca gráfica no frame 5 é decisão específica desta peça, não proibição da chama isolada pelo Flame.

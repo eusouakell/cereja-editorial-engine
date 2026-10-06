@@ -2,7 +2,7 @@
 
 Data: 2026-10-06.
 
-Status: direção consolidada após CREATIVE GATE; copy final incorpora os ajustes de Kell de 2026-10-06. Execution handoff aguardando aprovação. **Não renderizar ainda.**
+Status: conteúdo aprovado por Kell no EXECUTION GATE em 2026-10-06. Execução visual autorizada após sincronização documental das Rodadas 4 e 5 e conferência de consistência. Publicação não autorizada.
 
 ## Contrato vigente
 
@@ -66,6 +66,8 @@ Revisão textual não certifica legibilidade visual, compreensão pelo público 
 4. Preparar alt final de cada imagem a partir da composição real, incorporando o texto essencial e distinguindo documento de interpretação. Não usar alt planejado como descrição de imagem ainda inexistente.
 5. Verificar contraste, legibilidade no tamanho de celular, quebras, margens e créditos. Cortar/revisar conteúdo com Kell se necessário; não encolher a fonte para encaixar.
 
-## Aprovação pendente
+## EXECUTION GATE
 
-Execution handoff pronto para Kell revisar a copy e autorizar a execução visual. Esta entrega não renderiza, não gera assets, não publica e não inicia monitoramento. Stories continua fora do escopo desta passagem de Content Design.
+Conteúdo aprovado por Kell em 2026-10-06. Após commit/push das Rodadas 4 e 5 e verificação de consistência, a execução visual está autorizada, sem reabrir história, objetivo, formato, outline, copy ou direção. Nenhuma publicação ou monitoramento autorizado. Stories continua fora do escopo desta passagem.
+
+Flame não proíbe a chama isolada. Para esta peça, manter frame 5 sem marca gráfica salvo nova decisão de Kell.
