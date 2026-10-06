@@ -2,11 +2,11 @@
 
 Data: 2026-10-06.
 
-Status: STORY GATE pendente da escolha de Kell.
+Status: STORY GATE aprovado por Kell em 2026-10-06.
 
 Escopo: somente Rodada 1 do [roteiro do teste](031-specialist-pipeline-test.md), com `editorial-storyteller`.
 
-As rotas são propostas narrativas, não copy final. Nenhuma etapa seguinte foi iniciada. Nenhuma skill, publicação ou peça existente foi alterada durante esta rodada.
+As rotas são propostas narrativas, não copy final. A entrega inicial parou no STORY GATE; a autorização posterior para a Rodada 2 está registrada abaixo. Nenhuma skill, publicação ou peça existente foi alterada durante esta rodada.
 
 ## Base do teste
 
@@ -76,16 +76,21 @@ Esta recomendação não constitui aprovação da rota nem autorização para in
 
 ## STORY GATE
 
-**Pendente:** Kell escolhe, combina ou rejeita as rotas.
+**Aprovado por Kell em 2026-10-06:** Rota A como narrativa canônica da Rodada 1.
 
-Instagram Strategist não foi iniciado. Não foram produzidos estratégia de Instagram, slides, copy final ou direção visual.
+- Incorporar apenas “São águas passadas”, da Rota B, como possível beat de virada/correção.
+- Não tornar Frito-Lay protagonista: permanece uma descoberta secundária da investigação.
+- Não fixar hook, formato ou número de frames nesta decisão.
+- Autorizada somente a Rodada 2 com `instagram-strategist`, com parada no FORMAT/GOAL GATE.
+
+A aprovação não autoriza outline, copy final, direção visual ou produção. O resultado da Rodada 2 será registrado em artefato separado.
 
 ## Registro do experimento nesta rodada
 
 - Rotas entregues: 3.
 - Mudanças de história ou ordem solicitadas após a entrega: nenhuma registrada até este artefato.
-- Decisões ainda abertas: escolha ou combinação da rota por Kell.
+- Decisão narrativa: Rota A aprovada com as condições registradas acima.
 - Falhas de boundary: nenhuma identificada nesta rodada.
 - Tempo e retrabalho percebidos: sem medição.
-- Avaliação final de Kell: pendente.
+- Avaliação de Kell no STORY GATE: aprovada; avaliação final do experimento ainda pendente.
 - Métricas das etapas seguintes: ainda não aplicáveis.
