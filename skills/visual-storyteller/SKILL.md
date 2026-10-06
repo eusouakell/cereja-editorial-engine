@@ -57,6 +57,12 @@ Antes de aprovar texto em um frame, perguntar:
 
 Se sim, reduzir texto.
 
+Também perguntar:
+
+> Este detalhe precisa estar na arte para a afirmação continuar verdadeira e compreensível, ou pode ser aprofundado na legenda?
+
+O carrossel provoca e conta; a legenda aprofunda e qualifica. Não sobrecarregar a arte com toda a documentação da pauta. Ao mesmo tempo, não deslocar para a legenda uma condição ou correção sem a qual o frame visível se torne falso ou materialmente enganoso.
+
 Não usar ícones genéricos para representar ideias que pedem objeto, evidência ou imagem específica.
 
 ## Evidência e autenticidade
