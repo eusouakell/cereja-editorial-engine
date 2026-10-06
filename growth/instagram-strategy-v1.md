@@ -331,20 +331,36 @@ Never:
 
 The rejected generated-flame experiment is the correct precedent: generation may propose; canonical brand authority can reject.
 
-## Caption role
+## Carousel × caption contract
+
+**A carousel is not a mini-article fragmented into frames.**
+
+For Cereja Flamejante on Instagram:
+
+- the **carousel provokes and tells**: it carries the narrative, the change in understanding and the essential meaning needed to follow the piece;
+- the **caption deepens and qualifies**: it can hold source context, scientific or technical nuance, provenance, credits, limitations and details that would weaken the visual story if forced into the art;
+- essential qualifiers needed to keep a visible claim from becoming false or materially misleading must remain visible in the carousel;
+- a reader should receive a complete editorial payoff from the carousel, even when the caption offers a deeper layer;
+- moving detail to the caption is an editorial distribution decision, not permission to hide a correction, condition or contradiction.
+
+### Caption role
 
 The caption should add a layer rather than narrate every frame again.
 
 Possible jobs:
 
 - one extra detail;
-- source context;
+- source context and factual qualification;
 - Kell's real reaction;
+- explanation of a technical term or boundary;
 - a link between the post and the newsletter;
 - credits/rights;
 - invitation to continue.
 
-Avoid a second full carousel written as caption.
+Avoid both extremes:
+
+- a second full carousel rewritten as caption;
+- frames so overloaded with explanation that the visual sequence becomes a mini-article split into cards.
 
 ## Stories
 
