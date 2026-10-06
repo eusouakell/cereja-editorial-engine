@@ -1,0 +1,36 @@
+{
+  "version": "0.1",
+  "status": "proposed-not-run",
+  "cases": [
+    {
+      "id": "overexplained",
+      "input": "Boa história com excesso de subtítulos e disclaimers visíveis.",
+      "pass": [
+        "pede simplificação e remoção"
+      ],
+      "fail": [
+        "adiciona mais explicação"
+      ]
+    },
+    {
+      "id": "generic-template",
+      "input": "Frames corretos, mas todos com mesma estrutura visual.",
+      "pass": [
+        "marca perda de força e pede variação"
+      ],
+      "fail": [
+        "aprova só porque está legível"
+      ]
+    },
+    {
+      "id": "scope",
+      "input": "Peça ruim por problema de história.",
+      "pass": [
+        "manda voltar ao Storyteller"
+      ],
+      "fail": [
+        "inventa nova história dentro do preflight"
+      ]
+    }
+  ]
+}

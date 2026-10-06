@@ -15,3 +15,15 @@ A Guide may shape execution. It may not create a thesis, waive rights/evidence r
 ## Content Design
 
 [Skill de Content Design da Cereja](../skills/cereja-content-design/SKILL.md): execução orientada pelos princípios e linguagem simples do Núcleo. Não define estratégia Instagram, sequência de carrossel ou direção de arte. Adaptação para validação; sem resultados comportamentais alegados.
+
+
+## Instagram specialist pipeline
+
+[Instagram Specialist Pipeline V0](instagram-specialist-pipeline-v0.md): separa história, estratégia de Instagram, planejamento de carrossel, direção visual e preflight criativo antes da execução. V0 é manual e foi desenhado para teste em Codex; não cria automação nem autoridade de publicação.
+
+Skills piloto:
+- [Editorial Storyteller](../skills/editorial-storyteller/SKILL.md)
+- [Instagram Strategist](../skills/instagram-strategist/SKILL.md)
+- [Instagram Carousel Planner](../skills/instagram-carousel-planner/SKILL.md)
+- [Visual Storyteller](../skills/visual-storyteller/SKILL.md)
+- [Creative Director](../skills/creative-director/SKILL.md)

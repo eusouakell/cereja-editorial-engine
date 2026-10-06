@@ -45,9 +45,9 @@ CANONICAL COMPOSER
 builds the Editorial Packet and newsletter candidate
         ↓
 ┌────────────────┬────────────────┬────────────────┐
-│ LINKEDIN       │ INSTAGRAM      │ OTHER FORMAT   │
-│ renderer       │ renderer       │ renderer       │
-│ metapost       │ visual magazine│ video/slides...│
+│ LINKEDIN       │ INSTAGRAM                         │ OTHER FORMAT   │
+│ renderer       │ storyteller → strategist → format │ renderer       │
+│ metapost       │ planner → visual → executor       │ video/slides...│
 └────────────────┴────────────────┴────────────────┘
         ↓
 SOURCE + VOICE + CHANNEL-FIT + RIGHTS EVALS
@@ -63,15 +63,9 @@ Renderers should receive the **minimum sufficient authoritative context** for th
 
 Example:
 
-An Instagram renderer may need:
-- selected tokens;
-- approved thesis;
-- Cereja voice constraints;
-- visual format contract;
-- channel constraints;
-- rights metadata.
+Instagram is intentionally decomposed in V0. The Storyteller receives source/evidence and authorship context; the Strategist receives the approved story plus channel evidence; the Format Planner receives the approved story + channel brief; the Visual Storyteller receives the approved outline + Flame/rights constraints; the executor receives only approved implementation artifacts.
 
-It should not receive the full research corpus by default.
+No specialist should receive the full research corpus by default unless a concrete evidence gap requires escalation.
 
 ## Publication independence
 

@@ -18,7 +18,12 @@ These are **application-level editorial roles**, not the canonical cross-reposit
 - **Editorial Curator** — selects which candidate tokens belong to the current Editorial Packet.
 - **Canonical Composer** — organizes the Editorial Packet and produces a newsletter candidate without inventing a new thesis.
 - **LinkedIn Renderer** — composes a self-contained metapost from approved packet material.
-- **Instagram Renderer** — composes a visual-magazine sequence from approved packet material and rights metadata.
+- **Editorial Storyteller** — finds 2–3 viable narrative routes before channel/format decisions; it does not plan frames.
+- **Instagram Strategist** — chooses primary behavior, success signals and native Instagram format from an approved story.
+- **Instagram Carousel Planner** — when carousel is approved, turns the story into the minimum necessary beats; it does not design.
+- **Visual Storyteller** — translates approved beats into image-first visual jobs with minimal text; it does not change the story.
+- **Creative Director** — performs a bounded preflight for coherence, authorship, simplicity and surprise; it can request simplification but not invent a new route.
+- **Instagram Renderer / Executor** — implements an approved format plan and visual direction from structured handoffs; it must not reopen story or strategy.
 - **Stories Renderer** — composes lighter research-desk units without converting provisional material into canonical truth.
 - **Editor** — improves structure and language while preserving approved thesis and evidence scope.
 
@@ -38,3 +43,5 @@ These are **application-level editorial roles**, not the canonical cross-reposit
 No agent approves publication, creates Kell's opinion, or converts a generated sentence into canonical knowledge on its own.
 
 Renderers receive minimum sufficient authoritative context for their task rather than the complete research universe by default.
+
+For Instagram V0, use the explicit specialist handoff in [guides/instagram-specialist-pipeline-v0.md](../guides/instagram-specialist-pipeline-v0.md). These local role names do not activate canonical Factory agents by themselves.

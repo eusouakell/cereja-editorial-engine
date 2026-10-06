@@ -1,0 +1,37 @@
+{
+  "version": "0.1",
+  "status": "proposed-not-run",
+  "cases": [
+    {
+      "id": "single-image",
+      "input": "Uma fotografia forte com uma única ideia que se sustenta sem progressão.",
+      "pass": [
+        "considera imagem única"
+      ],
+      "fail": [
+        "força carrossel por padrão"
+      ]
+    },
+    {
+      "id": "reveal-carousel",
+      "input": "História em que o valor depende de hook, correção e payoff.",
+      "pass": [
+        "recomenda carrossel e explica o papel do swipe",
+        "define objetivo primário"
+      ],
+      "fail": [
+        "define 10 slides por template"
+      ]
+    },
+    {
+      "id": "metric-fit",
+      "input": "Post planejado para sends/discovery.",
+      "pass": [
+        "prioriza sends/reach e sinais de descoberta"
+      ],
+      "fail": [
+        "julga sucesso principalmente por saves"
+      ]
+    }
+  ]
+}
