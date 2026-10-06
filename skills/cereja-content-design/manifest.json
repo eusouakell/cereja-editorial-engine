@@ -1,0 +1,91 @@
+{
+  "skill_version": "0.3",
+  "knowledge_version": "nucleo-content-design-2026-10-06",
+  "evaluation_version": "0.1-cases-not-run",
+  "date": "2026-10-06",
+  "owner": "Kell Bonassoli",
+  "status": "proposed-for-human-review",
+  "changes": [
+    "Carrossel e estratégia Instagram retirados do escopo",
+    "Princípios e linguagem simples centralizados no Núcleo",
+    "Referências São Paulo/Enap, TJRJ e Londrina com adaptação contextual",
+    "Mecânica do Núcleo com perfis por contexto aprovada por Kell",
+    "Foco pt-BR; site inclui SEO e GEO com evidência e limites"
+  ],
+  "sources": [
+    {
+      "name": "content-design-skill-brand-neutral.md",
+      "sha256": "caa8141736476cadd043a26421aa76cd4d413c1839e50916364578edc3142b06",
+      "version": "0.1"
+    },
+    {
+      "name": "content-design-fontes-autocontidas-brand-neutral.zip",
+      "sha256": "734f3dc2dcad719d2b93b2448d3485c922e6995f0c1b5e2abd60580155ce10bf",
+      "version": "2.0",
+      "files": [
+        {
+          "name": "knowledge/1-Tom-de-voz.txt",
+          "sha256": "7de4f5b182c5dc8994a6fe2ef12d24b9529ec0f3414a3de441d0421120e0b677"
+        },
+        {
+          "name": "knowledge/2-Estilo-e-formatacao.txt",
+          "sha256": "7b9b2f52d1bf4a7461899a87ceb9f9d41d572566796c3b962b9e0dee5da3c26c"
+        },
+        {
+          "name": "knowledge/3-Acessibilidade.txt",
+          "sha256": "66bff37b7ed1b139e77ecac7b48a6e074e58656db1c1b8869935c23b06caa1c0"
+        },
+        {
+          "name": "knowledge/4-Padroes-e-interface.txt",
+          "sha256": "b932416d4ee7b5da1f8e8b02743bffc2bb8677e4ccfa2a0c35b2de8c6a10c161"
+        },
+        {
+          "name": "knowledge/atualizacoes.txt",
+          "sha256": "2c25642da1a42f32b8423ed5cd8fc0e74d1ccd0105c9541dcfa2abb845778029"
+        }
+      ]
+    },
+    {
+      "repository": "eusouakell/cereja-knowledge-system",
+      "path": "editorial/voice-and-tone.md",
+      "file_sha": "db403a7cb6b2ad998bccd2e698cd74de09b6d49b",
+      "status": "pending-Kell-validation"
+    },
+    {
+      "name": "prefeitura-sp",
+      "url": "https://repositorio.enap.gov.br/server/api/core/bitstreams/b2ca9a60-08ec-47c2-a7f9-f5ea00ff40de/content",
+      "sha256": "a57747dbcea964af74098a4c1ac17cb4f0afe20a8fafbe55227bb9623769d7db",
+      "consulted": "2026-10-06"
+    },
+    {
+      "name": "tjrj",
+      "url": "https://portaltj.tjrj.jus.br/documents/10136/182315962/Manual_da_Linguagem_Simples.pdf/",
+      "sha256": "09499078b1663a32ae25ea287c2ec8c12390a1e60daa60a906ab8d2bc67f76dc",
+      "consulted": "2026-10-06"
+    },
+    {
+      "name": "londrina",
+      "url": "https://repositorio.londrina.pr.gov.br/index.php/menu-procuradoria/manual-de-linguagem-simples/72837-manual-de-linguagem-simples-2/file",
+      "sha256": "ca7a9502b37225a4fc51d7362ff1946070169140783869429ad5b5fe80c218c1",
+      "consulted": "2026-10-06"
+    },
+    {
+      "name": "Decisão de Kell sobre governança contextual",
+      "date": "2026-10-06",
+      "scope": "pt-BR, Núcleo e Content Design; SEO/GEO no site"
+    },
+    {
+      "name": "Google AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features",
+      "consulted": "2026-10-06"
+    }
+  ],
+  "known_gaps": [
+    "Full voice guide human approval pending",
+    "Platform component limits not consolidated",
+    "Flame DESIGN.md unavailable",
+    "Behavioral evals not run"
+  ],
+  "installation": "Repository skill artifact; not installed globally in Codex",
+  "nucleo_ref": "content/content-design-linguagem-simples"
+}

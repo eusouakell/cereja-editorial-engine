@@ -11,3 +11,7 @@ Current guide assets include:
 - `SYSTEM-SPEC.md` — system-wide operating rules.
 
 A Guide may shape execution. It may not create a thesis, waive rights/evidence requirements or approve publication.
+
+## Content Design
+
+[Skill de Content Design da Cereja](../skills/cereja-content-design/SKILL.md): execução orientada pelos princípios e linguagem simples do Núcleo. Não define estratégia Instagram, sequência de carrossel ou direção de arte. Adaptação para validação; sem resultados comportamentais alegados.
