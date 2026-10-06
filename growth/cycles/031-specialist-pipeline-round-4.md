@@ -81,3 +81,7 @@ Produção futura registra separadamente asset, fonte, direitos, crop e alt fina
 **EXECUTION GATE — aprovado em 2026-10-06:** após a suspensão por conflito de autoria/voz e revisão externa do commit `51efd68`, Kell autorizou nova execução visual e QA. Copy exata e distribuição arte × legenda continuam no handoff; direção preservada. Imagens exploratórias anteriores não receberam aprovação automática: seleção técnica por item está registrada no pacote. **Parada no KELL — PUBLISH GATE**, sem publicar/agendar. O parecer histórico da Rodada 5 permanece REVISE, com revisões aceitas e incorporadas aqui.
 
 **Escopo da marca:** Flame permite uso da chama original isolada em aplicações adequadas. A ausência de marca gráfica no 5 é decisão específica desta peça, não proibição geral do sistema. Manter sem marca gráfica salvo nova decisão de Kell.
+
+## Desenvolvimento visual solicitado por Kell após a V1
+
+Mantidos batata editorial 1/5, rabiscos, contraste entre fotografia documental, composição conceitual e branco, e legibilidade. Na proposta V2, “Água em Marte” lidera a capa; “São águas passadas” mantém força independente; o documento é integrado por recorte editorial; a pausa cultural permanece tátil sem espetáculo; foto NASA domina o 4; retorno do objeto e respiro no 5. Rabiscos variam de função e atravessam bordas, sem setas/UI. Não é uma nova rota, copy ou sistema Flame. [Passagem comparativa](031-specialist-execution-v2-review.md), pendente de Publish Gate.

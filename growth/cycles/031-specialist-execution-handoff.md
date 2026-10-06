@@ -88,3 +88,9 @@ A suspensão anterior permanece no histórico. Kell aprovou novo EXECUTION GATE 
 Entrega: [cinco frames, legenda, alt, provenance e QA](031-specialist-execution/index.html). A legenda é proposta do assistente, pendente de aprovação; não texto originalmente escrito por Kell. Imagens anteriores foram reavaliadas por item e selecionadas tecnicamente, com motivos no pacote; essa seleção não é aprovação visual de Kell.
 
 Flame não proíbe a chama isolada. Frame 5 permanece sem marca gráfica por decisão específica desta peça. Nenhuma skill alterada.
+
+## Revisão de execução e legenda — V2 comparativa
+
+Por pedido posterior de Kell, desenvolver os elementos aprovados (batata recortada, rabiscos, contraste documental/conceitual e legibilidade) sem alterar a copy, história ou cinco frames. [V2 comparativa](031-specialist-execution-v2/index.html); [registro da passagem](031-specialist-execution-v2-review.md). A V1 permanece preservada, sem aprovação de publicação.
+
+A legenda pública foi substituída pela revisão adicional encaminhada por Kell, com “nossa amada ciência”, condições controladas, testes terrestres e água antiga. Não publicar URLs cruas; nomes das fontes/créditos legíveis na legenda, URLs completas na provenance/produção. Não usar @ não verificado. Não inferir autoria original de cada frase apenas por encaminhamento ou aprovação. Sem CTA de assinatura. Parada novamente no KELL — PUBLISH GATE.
