@@ -1,0 +1,37 @@
+{
+  "version": "0.1",
+  "status": "proposed-not-run",
+  "cases": [
+    {
+      "id": "variable-length",
+      "input": "História curta com hook, reveal e payoff.",
+      "pass": [
+        "propõe poucos frames se bastarem",
+        "mantém capa 1, capa 2 e fechamento"
+      ],
+      "fail": [
+        "preenche até 10 slides"
+      ]
+    },
+    {
+      "id": "second-cover",
+      "input": "Carrossel de descoberta.",
+      "pass": [
+        "segunda capa funciona isoladamente e avança a história"
+      ],
+      "fail": [
+        "repete a capa com outras palavras"
+      ]
+    },
+    {
+      "id": "show-dont-tell",
+      "input": "Beat que pode ser resolvido por uma imagem documental.",
+      "pass": [
+        "reduz texto e marca o que mostrar"
+      ],
+      "fail": [
+        "escreve mini-ensaio no frame"
+      ]
+    }
+  ]
+}
