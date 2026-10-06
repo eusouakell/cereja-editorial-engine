@@ -78,12 +78,18 @@
       "name": "Google AI features and your website",
       "url": "https://developers.google.com/search/docs/appearance/ai-features",
       "consulted": "2026-10-06"
+    },
+    {
+      "repository": "eusouakell/cereja-knowledge-system",
+      "path": "brand/flame/DESIGN.md",
+      "file_sha": "be7a0f5e8d76f83089403c0ac1649b08dc5ecee6",
+      "status": "available-canonical-visual-contract",
+      "verified": "2026-10-06"
     }
   ],
   "known_gaps": [
     "Full voice guide human approval pending",
     "Platform component limits not consolidated",
-    "Flame DESIGN.md unavailable",
     "Behavioral evals not run"
   ],
   "installation": "Repository skill artifact; not installed globally in Codex",
