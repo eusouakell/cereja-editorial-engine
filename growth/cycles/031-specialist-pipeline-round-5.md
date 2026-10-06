@@ -4,7 +4,7 @@ Data: 2026-10-06.
 
 Status: CREATIVE GATE aprovado por Kell com as revisões obrigatórias em 2026-10-06. Parecer original REVISE preservado como histórico de preflight.
 
-Skill aplicada: [Creative Director](../../skills/creative-director/SKILL.md). Escopo: somente preflight da proposta textual; não há imagens ou layouts renderizados para avaliar acabamento, contraste, legibilidade ou aparência final.
+Skill aplicada: [Creative Director](../../skills/creative-director/SKILL.md). Escopo histórico: somente preflight da proposta textual; naquele momento não havia imagens ou layouts renderizados para avaliar acabamento, contraste, legibilidade ou aparência final. Explorações posteriores não são parte deste parecer nem assets aprovados.
 
 ## Entradas aprovadas
 
@@ -75,6 +75,14 @@ Kell aprovou estas revisões. Foram consolidadas na [direção vigente da Rodada
 
 Somente Creative Director executado nesta rodada. Nenhuma skill, asset, layout, copy final ou publicação alterada durante o preflight.
 
-**Autorização posterior — EXECUTION GATE em 2026-10-06:** conteúdo do handoff aprovado por Kell; execução visual autorizada após sincronização documental e verificação de consistência. Todas as revisões obrigatórias estão incorporadas à Rodada 4 vigente. O verdict histórico REVISE não foi substituído por um PASS retroativo. Não reabrir os gates anteriores; publicação permanece fora do escopo.
+## Estado posterior e novo Execution Gate
+
+Kell aprovou o CREATIVE GATE com as revisões obrigatórias. Todas foram aceitas e incorporadas à [Rodada 4 consolidada](031-specialist-pipeline-round-4.md): cultivo + abrigo sem pessoa/panorama no 3; documento terrestre protagonista no 4; recorte de batata somente no 1 e 5; composições distintas sem deck. O verdict histórico **REVISE** permanece; não recebeu PASS retroativo.
+
+A autorização posterior de execução foi suspensa por Kell por conflito de autoria/voz. A COPY GATE mais recente substitui as redações anteriores; as cinco formulações vigentes foram escritas por Kell nesta revisão. Redações anteriores de assistentes apenas aprovadas por ela não se tornam originais de Kell.
+
+Este parecer é histórico. Sua ausência original de CTA não revoga a decisão posterior de Kell: convite do frame 5 para conferir a legenda, sem CTA de assinatura. A distribuição arte × legenda e a copy exata estão no [handoff](031-specialist-execution-handoff.md), sem nova direção visual.
+
+**Novo EXECUTION GATE pendente.** Não renderizar, selecionar, refinar ou substituir assets até nova aprovação. Imagens geradas antes da suspensão permanecem [exploratórias/não aprovadas](031-specialist-exploratory-assets.md), sem promoção automática a finais. Nenhuma publicação autorizada.
 
 Sem marca gráfica no frame 5 é decisão específica desta peça, não proibição da chama isolada pelo Flame.

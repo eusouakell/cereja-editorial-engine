@@ -2,44 +2,69 @@
 
 Data: 2026-10-06.
 
-Status: conteúdo aprovado por Kell no EXECUTION GATE em 2026-10-06. Execução visual autorizada após sincronização documental das Rodadas 4 e 5 e conferência de consistência. Publicação não autorizada.
+Status: COPY GATE vigente consolidado em 2026-10-06. Novo EXECUTION GATE pendente de revisão externa e aprovação de Kell. A autorização anterior foi suspensa; sincronização documental não autoriza renderização. Não renderizar, selecionar, refinar ou substituir assets. Publicação não autorizada.
 
 ## Contrato vigente
 
 - História: reação espontânea em primeira pessoa → correção/evidência → referência cultural contextualizada → investigação de cultivo terrestre NASA e payoff lateral Frito-Lay → conclusão circular.
 - Objetivo primário: sendable discovery / sends + non-follower reach. Secundário: reconhecimento do olhar editorial. Newsletter terciária, com continuação em Stories.
-- Formato: carrossel flagship, cinco frames mantidos. Sem CTA explícito. Nenhuma copy de Stories produzida aqui.
+- Formato: carrossel flagship, cinco frames mantidos. Sem CTA de assinatura. O convite do frame 5 para conferir a legenda foi explicitamente escrito e aprovado por Kell nesta revisão e substitui a ausência anterior de convite. Nenhuma copy de Stories produzida aqui.
 - **Única direção visual vigente:** [Rodada 4 consolidada](031-specialist-pipeline-round-4.md). Não reconciliar sua versão inicial com o parecer histórico da Rodada 5; todas as revisões aprovadas já estão incorporadas no arquivo vigente.
 - Frame 1: primeira pessoa, sem antecipar água antiga e sem assinatura “Kell”. A fala é reação autoral, não nova manchete científica.
 - Frame 3: cultivo + abrigo, sem pessoa, panorama cinematográfico, réplica de still ou detalhes técnicos inventados. Identificação conceitual na provenance/legenda/alt, fora da copy visível.
 - Frame 4: descoberta documental terrestre com peso narrativo; empresa subordinada, sem logos, embalagem, endosso ou cultivo marciano insinuado.
 - Frame 5: retorno do objeto, sem chama ou marca gráfica. Não acrescentar atribuição ou naming sem necessidade real. O handoff atual não contém marca gráfica.
 
-## Copy final consolidada com Kell
+## Copy visível vigente — escrita por Kell nesta revisão
 
-Quebras abaixo separam funções de texto; não fixam layout. Reproduzir palavras, pontuação e qualificadores após aprovação. Copy máxima não é autorização para reduzir fonte. Créditos dos itens selecionados terão espaço próprio e legível; não viram footer carimbado.
+A COPY GATE mais recente substitui todas as versões anteriores da copy visível. Preservar exatamente palavras, caixa, aspas, pontuação e funções de texto abaixo. As quebras não fixam layout. Não reduzir fonte para acomodar texto; créditos não viram footer carimbado.
 
-| Frame | final visible copy | factual qualifier/source dependency | accessibility note |
+| Frame | Copy visível exata | Distribuição arte × legenda e dependência factual | Acessibilidade planejada |
 |---|---|---|---|
-| 1 | Li ‘água em Marte’ e já pensei nas batatas. | Reação autoral registrada e primeira pessoa, sem acrescentar assinatura. Não apresentar como conclusão científica ou água disponível. 9 palavras | Alt futuro transcreve reação e descreve a batata como recorte editorial; nunca como objeto fotografado em Marte |
-| 2 | São águas passadas<br>Em Marte, mais de 185 pontos de rocha analisados sugerem pelo menos três episódios de contato com água no passado. | [S1]. Preservar mais de, sugerem, pelo menos e no passado. Mais de 185 corresponde ao conjunto de pontos, não ao que está visível na foto. Não atribuir idades ou negar água atual universalmente. 23 palavras | Funciona sem o 1: nomeia Marte e passado. Alt reproduz texto e identifica o documento/registro escolhido, sem tratar aparência da rocha como prova autônoma |
-| 3 | Perdido em Marte<br>Um astronauta preso em Marte tenta sobreviver cultivando batatas. | [S3] e contexto registrado no packet. Imagem original conceitual, não still ou experimento científico; registrar isso na provenance, legenda e alt, sem label editorial na arte. 12 palavras | Contexto suficiente para quem nunca assistiu. Alt identifica interpretação conceitual e descreve cultivo e abrigo sem pessoa, conforme imagem final |
-| 4 | Na Terra, a NASA testou cultivo de batatas em hidroponia. A Frito-Lay se interessou. | [S2]. Preservar localização terrestre. Consultoria e batatas-semente ficam no registro complementar, sem inferir produto criado pela NASA, endosso ou causalidade com Marte. 14 palavras | Na Terra fica visível. Alt descreve experimento terrestre e transcreve texto; legenda pode explicar hidroponia em linguagem simples. Foto tem crédito verificado |
-| 5 | Batatas em Marte? Essa descoberta não responde. Mas a pergunta me levou a outra história — aqui na Terra. | Limite de [S1], conexão autoral e cultivo de [S2]. A pergunta é sobre cultivo; o achado não o demonstra. Não negar água atual universalmente ou decretar impossibilidade de cultivo. 19 unidades, contando o travessão isolado | Alt futuro inclui conclusão e retorno do recorte editorial. Sem CTA, chama ou marca gráfica. Qualificadores complementares disponíveis na legenda/alt |
+| 1 | Li "Água em Marte" e pensei: batatas! | Associação originalmente trazida por Kell; formulação exata escrita por ela nesta revisão. A reação não é manchete científica nem comprovação de água disponível para cultivo. | Alt futuro transcreve a reação e identifica a batata como recorte editorial, nunca como objeto fotografado em Marte. |
+| 2 | São águas passadas<br>Em Marte, mais de 185 pontos de rocha analisados sugerem que já existiu água no planeta. | [S1]. Passado e inferência permanecem visíveis. Mais de 185 descreve o conjunto analisado, não pontos visíveis na imagem. Episódios de interação e limites de datação podem ser aprofundados na legenda. | Alt transcreve esta copy, identifica o documento escolhido e não transforma aparência da rocha em prova autônoma. |
+| 3 | Perdido em Marte<br>Um astronauta tenta sobreviver cultivando batatas. | [S3]. O título situa o filme; a linha explica a premissa. Identificação conceitual na provenance, legenda e alt, sem label adicional na arte. | Alt futuro identifica interpretação conceitual e descreve cultivo + abrigo sem pessoa conforme a composição real. |
+| 4 | Na Terra, a NASA testou o cultivo em hidroponia. Isso chamou a atenção da Frito-Lay. | [S2]. Localização terrestre visível; o contexto da sequência e do documento identifica as batatas. Legenda explica hidroponia e pode registrar consultoria sobre batatas-semente, sem insinuar produto criado pela NASA ou causalidade com o achado marciano. | Alt descreve o experimento terrestre e transcreve a copy. Crédito verificado e legível na execução futura. |
+| 5 | Dá pra plantar em Marte?<br>Sim, mas com truques da ciência!<br>(vem conferir na legenda) | Simplificação intencional escrita por Kell. O sim comunica possibilidade condicionada à ciência e engenharia, não cultivo já realizado em Marte. [S2] fundamenta os desafios e condições; legenda explicita alcance e limites. Convite apenas para a legenda, sem assinatura. | Alt futuro transcreve a copy e descreve o retorno do recorte. Sem chama ou marca gráfica. A legenda acessível acompanha a peça. |
 
-Contagens verificadas por unidades separadas por espaços: 9 / 23 / 12 / 14 / 19; a última inclui o travessão isolado. Créditos de mídia dependem dos itens selecionados. Todas ficam dentro dos orçamentos flexíveis da direção: 16 / 28 / 25 / 32 / 22.
+## Decisão editorial do canal — aplicação nesta peça
 
-## Registro complementar para legenda, provenance e alt
+**O carrossel provoca e conta; a legenda aprofunda e qualifica.** Decisão explícita de Kell nesta revisão.
 
-Informação abaixo não deve ser acrescentada automaticamente à copy visível. É a base para a legenda e os registros de acessibilidade/provenance na execução:
+- A arte conserva o necessário para narrativa, compreensão e verdade da afirmação. Não devolver automaticamente aos frames toda explicação retirada.
+- A sequência entrega reação, correção, referência cultural, descoberta terrestre e retorno à pergunta com payoff completo.
+- A legenda aprofunda ciência, engenharia, fontes, provenance e limites. Não esconde correção indispensável à afirmação visível.
+- No 5, preservar exatamente “Sim, mas com truques da ciência!”. A legenda esclarece a possibilidade condicionada, sem apresentar demonstração marciana concluída.
+- Sem CTA de assinatura; o convite para conferir a legenda é decisão posterior específica de Kell.
 
-- Frame 1: associação autoral em montagem editorial; não é registro de batata em Marte nem afirmação sobre abastecimento atual.
-- Frame 2: o achado trata de interação antiga água/rocha, com ordem relativa reconstruída e sem idades determinadas. Não demonstra água disponível para cultivo hoje.
-- Frame 3: composição original conceitual referente ao contexto de Perdido em Marte, não imagem oficial do filme ou prova agronômica. Registrar identificação na legenda, provenance e alt, sem obrigar label na arte.
-- Frame 4: hidroponia é cultivo sem solo. A fonte registra interesse da Frito-Lay nos testes terrestres e consultoria de Ray Wheeler sobre batatas-semente limpas e livres de doenças. Cultivo e interesse comercial não decorrem do achado marciano. Detalhes e fonte podem ficar na legenda/crédito; não ampliar copy da arte.
-- Frame 5: a descoberta nas rochas não responde à pergunta sobre cultivar batatas em Marte; a conexão com a pesquisa terrestre vem da investigação autoral.
+## Requisitos vigentes da legenda, provenance e alt
 
-Alt final descreve a imagem efetivamente produzida e incorpora texto essencial; não copiar este registro como se os assets já existissem. Legenda/crédito deve preservar fonte e estatuto da mídia selecionada.
+Não são uma nova copy de legenda aprovada. São o contrato para sua elaboração futura:
+
+- Explicar que os “truques da ciência” exigem ciência e engenharia para criar condições controladas adequadas ao cultivo; não são simples, mágicos ou uma solução trivial.
+- Distinguir possibilidade de cultivo em ambiente protegido de uma demonstração já realizada em Marte. Deixar claro que os experimentos citados ocorreram na Terra. Não afirmar que batatas já foram cultivadas em Marte.
+- Usar fonte primária da NASA [S2]. Hipóteses e desafios não se tornam tecnologias comprovadas em Marte. Não introduzir automaticamente afirmações sem fonte sobre solo estéril, técnicas definitivas ou soluções garantidas.
+- “Nossa amada ciência” pode ser usada como expressão autoral fornecida por Kell nesta revisão, sem linguagem promocional ou infantilizada.
+- Explicar hidroponia como cultivo sem solo. A fonte registra o interesse da Frito-Lay e a consultoria de Ray Wheeler sobre batatas-semente; não é pesquisa causada pelo achado marciano.
+- [S1] trata de interação antiga água/rocha; não demonstra água disponível para plantar hoje. Detalhes científicos não precisam retornar à arte.
+- Identificar montagem editorial do 1 e composição conceitual do 3, sem tratá-las como documentação, still oficial ou prova agronômica.
+- Alt final descreve a composição realmente aprovada e produzida, incorpora texto essencial e distingue documento de interpretação. Os requisitos atuais não são descrições de assets finais.
+- Sem CTA de assinatura. Fontes e créditos acompanham o conteúdo relevante.
+
+## Proveniência de autoria — correção expressa
+
+- As cinco formulações visíveis acima foram **escritas por Kell nesta revisão**, conforme seu pedido atual. Essa atribuição é restrita à nova versão.
+- A associação água em Marte → filme → batatas e o trocadilho “São águas passadas” já tinham origem em contribuições de Kell.
+- Redações anteriores propostas por agentes/assistentes e aprovadas por Kell permanecem **propostas de redação aprovadas**, não textos originalmente escritos por ela. Aprovação não muda retroativamente a origem.
+- O registro anterior “O travessão do 5 é copy fornecida por Kell” estava incorreto: a formulação exata veio da revisão externa/assistente e foi aprovada por Kell. Ela foi substituída; não estabelece exceção ao Núcleo.
+- Fatos científicos vêm de [S1]/[S2]; a premissa do filme vem de [S3]. Autoria de Kell sobre a redação não atribui a ela a origem dos fatos científicos.
+- Requisitos de legenda são decisões de Kell; qualquer redação futura proposta pelo assistente deve ser identificada como proposta até aprovação, sem inventar experiências pessoais.
+
+## Imagens e execução anterior — exploratórias/não aprovadas
+
+Os materiais produzidos antes da suspensão não são assets finais. Não reutilizar ou promover automaticamente qualquer imagem, crop, composição, HTML, preview ou registro de alt dessa exploração.
+
+Registro separado: [provenance e suspensão da exploração](031-specialist-exploratory-assets.md). Nenhum asset foi selecionado, refinado, substituído ou renderizado nesta consolidação.
 
 ## Fontes e limites vigentes
 
@@ -50,24 +75,14 @@ Alt final descreve a imagem efetivamente produzida e incorpora texto essencial; 
 
 Fatos herdados das fontes/limites registrados, sem fatos novos. O packet anterior serve somente como registro de evidência, não como direção, copy ou número de frames.
 
-## Aplicação de Content Design
+## Autoridades e passagem futura
 
-Somente fechamento de copy, com [cereja-content-design](../../skills/cereja-content-design/SKILL.md), voz, estilo, acessibilidade e linguagem simples do Núcleo. Não alterou jobs, quantidade, história, objetivo, direção ou CTA. Nenhuma skill alterada.
+Núcleo: `editorial/voice-and-tone.md`, `editorial/content-design.md` e `editorial/curation-decisions.md` do cereja-knowledge-system. A skill aplica essas fontes; não altera história, objetivo ou direção. Nenhuma skill alterada.
 
-Reação em primeira pessoa baseada na fala de Kell; trocadilho preservado sem ponto. Por ajuste explícito de Kell, hidroponia permanece na copy do 4; explicação e detalhes ficam no registro complementar. Números e qualificadores do 2 preservados. O travessão do 5 é copy fornecida por Kell, mantida exatamente; não constitui padrão estilístico novo. Sem experiências inventadas ou textos de apresentação institucional.
+Após nova autorização do Execution Gate, o Executor deverá usar exclusivamente esta copy e a Rodada 4 consolidada, preservar os qualificadores e a distribuição arte × legenda e conferir direitos, provenance, alt, contraste e leitura no celular. Esses passos estão futuros e suspensos agora. Revisão documental não certifica legibilidade visual, compreensão pelo público ou conformidade WCAG.
 
-Revisão textual não certifica legibilidade visual, compreensão pelo público ou conformidade WCAG.
+## EXECUTION GATE — pendente
 
-## Instruções de passagem ao Executor, após aprovação
+A autorização anterior foi suspensa por Kell por conflito de autoria/voz. Esta consolidação prepara nova revisão externa. Commit/push não liberam execução: **não renderizar, selecionar, refinar ou substituir assets até nova aprovação de Kell**. Não reabrir história, objetivo, formato, cinco frames ou direção visual. Publicação e Stories continuam fora do escopo.
 
-1. Usar este arquivo para a copy exata e a Rodada 4 consolidada para a direção visual. Não carregar rotas rejeitadas ou rascunhos de copy antigos.
-2. Selecionar os itens de mídia específicos, conferir direitos, provenance e crop. Se o documento do 4 não mostrar cultivo de modo útil, suspender essa escolha de asset; não trocar por foto genérica nem compensar com texto.
-3. Manter a primeira pessoa sem assinatura no 1, passado no 2 e localização terrestre no 4. Não acrescentar “Interpretação conceitual” à copy visível do 3; preservar identificação na provenance/legenda/alt.
-4. Preparar alt final de cada imagem a partir da composição real, incorporando o texto essencial e distinguindo documento de interpretação. Não usar alt planejado como descrição de imagem ainda inexistente.
-5. Verificar contraste, legibilidade no tamanho de celular, quebras, margens e créditos. Cortar/revisar conteúdo com Kell se necessário; não encolher a fonte para encaixar.
-
-## EXECUTION GATE
-
-Conteúdo aprovado por Kell em 2026-10-06. Após commit/push das Rodadas 4 e 5 e verificação de consistência, a execução visual está autorizada, sem reabrir história, objetivo, formato, outline, copy ou direção. Nenhuma publicação ou monitoramento autorizado. Stories continua fora do escopo desta passagem.
-
-Flame não proíbe a chama isolada. Para esta peça, manter frame 5 sem marca gráfica salvo nova decisão de Kell.
+Flame não proíbe a chama isolada. Frame 5 permanece sem marca gráfica por decisão específica desta peça, salvo nova decisão de Kell.
