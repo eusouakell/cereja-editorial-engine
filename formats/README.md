@@ -11,4 +11,12 @@ Initial formats:
 - [Instagram — revista visual](instagram/revista-visual.md)
 - [Stories — research desk](stories/research-desk.md)
 
+## Production specs
+
+Editorial format contracts answer **what the channel piece should do**.
+
+[Channel production specs](production/README.md) answer **how the final asset must be delivered**: dimensions, aspect ratio, safe area, file type, export constraints, technical accessibility prerequisites and volatile platform checks.
+
+The two layers are intentionally separate. Flame remains the source of brand truth.
+
 New formats should be added only after a real publishing need appears.
