@@ -41,6 +41,23 @@ Para Cereja Flamejante, sempre prever:
 
 Frames intermediários existem apenas quando cumprem job próprio.
 
+## Distribuição entre arte e legenda
+
+O carrossel não é um miniartigo fragmentado.
+
+Aplicar o contrato do canal:
+
+- **arte/carrossel:** provoca, conta e sustenta a compreensão essencial da história;
+- **legenda:** aprofunda contexto, fontes, provenance, qualificadores e nuances que perderiam força se fossem empurrados para cada frame.
+
+Ao reduzir texto de um frame, distinguir três classes:
+
+1. **precisa ficar visível** — sem isso, a afirmação vira falsa, enganosa ou incompreensível;
+2. **pode ir para a legenda** — detalhe, nuance, fonte ou explicação complementar;
+3. **pode sair** — repetição ou informação sem função no percurso.
+
+Nunca usar a legenda para esconder uma correção factual necessária ao entendimento da arte. O post deve entregar payoff editorial completo no carrossel mesmo quando a legenda aprofunda.
+
 ## Para cada frame
 
 Entregar:
@@ -108,7 +125,9 @@ Depois, um resumo:
 - não gerar HTML;
 - não reescrever a história aprovada;
 - não inventar CTA para satisfazer fórmula;
-- não transformar todo frame em título + parágrafo.
+- não transformar todo frame em título + parágrafo;
+- não transformar o carrossel em miniartigo fragmentado;
+- não empurrar para a legenda um qualificador indispensável para a verdade da afirmação visível.
 
 ## Human gate
 

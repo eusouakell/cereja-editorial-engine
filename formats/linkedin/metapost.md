@@ -25,3 +25,8 @@ Purpose: publish a self-contained idea that remains useful even if the reader ne
 The metapost can be more explicit about work, organizations, marketing, knowledge systems and AI practice than the Instagram output, as long as the connection is genuinely present in the Editorial Packet.
 
 Any new claim introduced during adaptation returns to evidence review.
+
+
+## Production
+
+When the metapost uses image, document or video media, load the [LinkedIn production specs](../production/linkedin.md) before execution. The content contract does not grant the renderer permission to invent dimensions, crop or export format.
