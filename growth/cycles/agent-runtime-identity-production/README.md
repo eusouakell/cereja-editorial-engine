@@ -1,6 +1,6 @@
 # Agent runtime identity — execution handoff
 
-Status: exported for independent Creative Director review. Not published or scheduled.
+Status: asset exported; caption approved by Kell; first-class decision record added. Independent Creative Director review and final publish gate remain pending. Not published or scheduled.
 
 Authority: Kell approved `editorial-art-director-approved-proof-v2.png` at ART DIRECTION GATE. This is execution of that proof, not a new route. No changes to skills or the #031 pipeline.
 
@@ -12,6 +12,8 @@ Authority: Kell approved `editorial-art-director-approved-proof-v2.png` at ART D
 - `qa-safe-area.png`: annotated inspection only, not a publishing asset.
 - `source/`: approved proof and selected edited master.
 - `export.py` and `export-verification.json`: reproducible dimension/color export and verification.
+- `caption-approved.md`: final approved Instagram caption and publication notes.
+- `decision-record.json`: governed decision record for this cycle.
 
 ## Execution and provenance
 
@@ -42,6 +44,8 @@ Sobre uma superfície clara com luz quente, um cordão vermelho prende um crach�
 - PASS: critical text within 72 px inset on annotated export. The lanyard/plastic object may cross the boundary; the redundant lime status indicator sits near the right boundary and is not the sole status signal.
 - PASS: headline/subheadline read at 390 px. Badge microcopy is secondary and needs enlarged viewing for comfortable reading; its details are included in alt text. No claim that every technical field is comfortably readable at feed thumbnail size.
 - PASS: active/verified is expressed in text, not only color. No new logo or unofficial brand asset.
-- Pending: independent Creative Director comparison against approved composition and synthetic portrait; Kell final creative/publish approval; caption and current in-app feed/grid check before publishing.
+- PASS: caption approved by Kell and recorded with provenance.
+- PASS: governed decision record created under the first-class decision model.
+- Pending: independent Creative Director comparison against approved composition and synthetic portrait; Kell final creative/publish approval; current in-app feed/grid check before publishing.
 
 Technical QA does not replace creative approval. No publication was performed.
