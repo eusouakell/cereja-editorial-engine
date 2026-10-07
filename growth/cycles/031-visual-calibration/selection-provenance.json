@@ -1,0 +1,208 @@
+{
+  "status": "KELL — VISUAL CALIBRATION GATE pending",
+  "count": 10,
+  "concrete_visual_examples": 8,
+  "user_collections": 2,
+  "entries": [
+    {
+      "id": "U1",
+      "name": "Instagram references · Rodolfo Salles",
+      "status": "user-selected reference",
+      "url": "https://br.pinterest.com/rodolfosalles/instagram-references/",
+      "files": [],
+      "selected_by": "Kell",
+      "evidence": "URL fornecida por Kell e coleção elogiada por ela.",
+      "teaches": "Coleção de descoberta para layout social; selecionar exemplos pela relação entre texto, fotografia e sequência.",
+      "limit": "A tela de login cobre a galeria pública. Nenhum pin individual ou sequência completa validado. Não derivar uma norma visual das miniaturas.",
+      "apply": "Ampliar repertório social dos frames 1/2 e transições, quando houver exemplos acessíveis."
+    },
+    {
+      "id": "U2",
+      "name": "Referências visuais Instagram · Bruna Silva",
+      "status": "user-selected reference",
+      "url": "https://br.pinterest.com/brunahasilva/refer%C3%AAncias-visuais-instagram/",
+      "files": [],
+      "selected_by": "Kell",
+      "evidence": "URL fornecida por Kell e coleção elogiada por ela.",
+      "teaches": "Coleção escolhida por Kell para investigar identidade, gesto, composição e integração tipográfica.",
+      "limit": "O leitor web retornou 403; navegador carregou o board com login sobreposto. Autores dos pins não identificados. Não atribuir os trabalhos à curadora.",
+      "apply": "Investigar composições sociais, sem substituir os exemplos concretos abaixo por uma coleção não examinada integralmente."
+    },
+    {
+      "id": "A1",
+      "name": "Flame v0.3 · capa musical e cartaz lima",
+      "status": "approved visual reference",
+      "url": "internal-approval-record.md",
+      "files": [
+        "internal-catalogue.jpg"
+      ],
+      "selected_by": "Kell, no escopo do catálogo",
+      "evidence": "Registro de aprovação de 04/10 preservado; capa editorial e famílias por função.",
+      "teaches": "Foto e título dividem uma área planejada. O cartaz muda a densidade sem perder a paleta e a presença tipográfica.",
+      "limit": "Aprovação do catálogo não aprova toda arte no diretório. Não copiar metadados, textos demonstrativos ou estrutura de convite para cada frame.",
+      "apply": "1/2 com força própria; unidade pode sobreviver a distribuições muito diferentes."
+    },
+    {
+      "id": "A2",
+      "name": "Capa da newsletter #031 · espiral, livro e vinil",
+      "status": "approved visual reference",
+      "url": "internal-cover-031.png",
+      "files": [
+        "internal-cover-031.png"
+      ],
+      "selected_by": "Kell",
+      "evidence": "Feedback explícito no histórico: “amei a capa que vc criou”. Aprovação de imagem, não de layout social.",
+      "teaches": "A espiral reúne assuntos; sombra, papel e sobreposição fazem parte de uma mesma cena. As bordas cortam objetos com propósito.",
+      "limit": "Não levar livro, vinil ou espiral para Marte. Capa de newsletter não usa texto; este exemplo não resolve tipografia.",
+      "apply": "1/3/5: matéria e objetos constroem vínculo; não adicionar itens só para sinalizar colagem."
+    },
+    {
+      "id": "S1",
+      "name": "WePresent No. 5 · abertura Queen Mimi",
+      "status": "system-discovered candidate",
+      "url": "https://www.pentagram.com/work/wepresent-no-5",
+      "files": [
+        "wepresent-1.png"
+      ],
+      "selected_by": "Codex",
+      "evidence": "Galeria primária Pentagram / Paula Scher, inspecionada. Kell reconhece afinidade do conjunto; sem aprovação individual deste exemplo.",
+      "teaches": "O objeto encobre parte do campo tipográfico, criando frente e fundo; o título do outro lado oferece uma segunda entrada.",
+      "limit": "Não copiar densidade, lettering, cadeira ou cão. O projeto informa uso de imagem gerada; não importar isso como documento científico.",
+      "apply": "1: a batata conversa com a manchete em um plano editorial, sem parecer instalada no terreno."
+    },
+    {
+      "id": "S2",
+      "name": "WePresent No. 5 · mapa do passeio",
+      "status": "system-discovered candidate",
+      "url": "https://www.pentagram.com/work/wepresent-no-5",
+      "files": [
+        "wepresent-2.png"
+      ],
+      "selected_by": "Codex",
+      "evidence": "Galeria primária Pentagram / Paula Scher, inspecionada.",
+      "teaches": "Percurso e recortes ligam lugares identificáveis. O gesto gráfico tem referentes e conta o trajeto.",
+      "limit": "Não copiar mapa, setas, caixas ou densidade. Não é evidência de conversão, nem modelo de carrossel científico.",
+      "apply": "1→2 ou 4→5: linha/forma precisa ligar um pensamento a um objeto; não decorar todas as bordas."
+    },
+    {
+      "id": "S3",
+      "name": "QUILO · dupla fotográfica assimétrica",
+      "status": "system-discovered candidate",
+      "url": "https://www.portorocha.com/quilo",
+      "files": [
+        "quilo-detail-7.png"
+      ],
+      "selected_by": "Codex",
+      "evidence": "Galeria PORTO ROCHA; publicação de Mico Toledo. Imagem original inspecionada.",
+      "teaches": "Uma foto baixa à esquerda contrapõe duas à direita. O vazio superior altera ritmo e a diferença de escala organiza leitura.",
+      "limit": "Não copiar página de livro, fotografias ou corpo minúsculo. Vazio não é licença para afastar textos que formam uma frase.",
+      "apply": "3/4: pausa e documento ganham composições distintas, sem foto obrigatoriamente abaixo de um bloco de título."
+    },
+    {
+      "id": "S4",
+      "name": "QUILO · abertura Nordeste em lima",
+      "status": "system-discovered candidate",
+      "url": "https://www.portorocha.com/quilo",
+      "files": [
+        "quilo-detail-10.png"
+      ],
+      "selected_by": "Codex",
+      "evidence": "Galeria primária PORTO ROCHA, inspecionada.",
+      "teaches": "Uma massa dominante atravessa a dobra; quase nenhum texto disputa com ela. A abertura funciona como entrada independente.",
+      "limit": "Não desenhar mapa dos 185 alvos nem importar uma cor sem função. Dobra impressa não comprova comportamento de swipe.",
+      "apply": "2: entrada autônoma por título e massa visual. Continuidade lateral deve ser testada, não apenas descrita."
+    },
+    {
+      "id": "S5",
+      "name": "Almanaque Tudum · retrato documental em página amarela",
+      "status": "system-discovered candidate",
+      "url": "https://www.portorocha.com/netflix-tudum",
+      "files": [
+        "tudum-detail-4.png"
+      ],
+      "selected_by": "Codex",
+      "evidence": "Galeria primária PORTO ROCHA / Netflix Tudum, inspecionada.",
+      "teaches": "Foto central e comentário ocupam um campo editorial compartilhado. Mudanças de escala tipográfica ancoram a imagem.",
+      "limit": "Não copiar colunas, densidade de almanaque, retrato ou marca. A #031 precisa continuar legível no celular.",
+      "apply": "4: imagem NASA governa a composição; texto e crédito se relacionam com suas zonas livres, sem virar uma ficha separada."
+    },
+    {
+      "id": "X1",
+      "name": "#031 · comparação V1/V2",
+      "status": "anti-reference",
+      "url": "anti-v1-v2.jpg",
+      "files": [
+        "anti-v1-v2.jpg"
+      ],
+      "selected_by": "Kell, como rejeição visual",
+      "evidence": "Kell reprovou V1/V2 visualmente. PASS técnico não constitui aprovação de direção de arte.",
+      "teaches": "V1 empilha título, comentário, foto e crédito. V2 muda escala e bordas, mas conserva a separação. Rabiscos continuam dispensáveis para a leitura.",
+      "limit": "Preservar legibilidade, fatos, batata e possibilidade de gesto; não reutilizar posições ou polígono irregular como solução aprovada.",
+      "apply": "Todos: avaliar relações e sequência, não contar quantos elementos Flame foram adicionados."
+    }
+  ],
+  "removed_from_shortlist": [
+    {
+      "example": "Nike Be True",
+      "status": "system-discovered candidate",
+      "reason": "Escala tipográfica e crop já demonstrados com mais pertinência editorial por A1, S1 e S4. Não foi rejeitado por Kell; apenas retirado desta seleção enxuta.",
+      "url": "https://www.portorocha.com/nikebetrue"
+    },
+    {
+      "example": "Capas/índices adicionais QUILO, capa Tudum, Weather Report WePresent",
+      "status": "system-discovered candidate",
+      "reason": "Retirados da seleção principal para não repetir soluções nem converter o pack em galeria extensa."
+    }
+  ],
+  "taste_layer": {
+    "status": "provisional; requires Kell approval",
+    "layers": [
+      "moodboard",
+      "style territories",
+      "taste fingerprint",
+      "anti-taste"
+    ],
+    "territories": [
+      {
+        "territory": "Colagem editorial / fotomontagem",
+        "traits_we_borrow": "Objetos reconhecíveis, planos sobrepostos, contorno real e montagem assumida; associação construída por matéria e enquadramento.",
+        "traits_we_reject": "Estoque de stickers, serrilha automática, perspectiva incoerente e montagem confundida com documentação.",
+        "evidence_in_references": "A2 aprovado: papel, livro, vinil e sobreposição. Batata apreciada por Kell. S1/S2 ampliam o repertório, ainda candidatos.",
+        "possible_use_in_cereja": "Capas culturais, conexões entre temas, objetos editoriais. Na #031, abertura e retorno da batata; preservar o documento NASA.",
+        "inference_limit": "Bem sustentado como afinidade, forma final a validar."
+      },
+      {
+        "territory": "Pop editorial / linguagem de cartaz",
+        "traits_we_borrow": "Objeto cotidiano tratado como protagonista; cor de presença, escala tipográfica e humor por associação cultural.",
+        "traits_we_reject": "Repetição de ícones ou linguagem publicitária como obrigação; clichê de quadrinhos, halftone automático, slogan e infantilização.",
+        "evidence_in_references": "A1 aprovado: cartaz lima e capa musical. A2: vinil e cerejas. A relação com Pop é leitura de direção de arte, não filiação histórica comprovada.",
+        "possible_use_in_cereja": "Anúncios editoriais, perguntas de entrada e cultura pop. A #031 pode usar a presença da manchete sem virar campanha de produto.",
+        "inference_limit": "Hipótese de vocabulário; não atribuir toda cor forte a Pop Art."
+      },
+      {
+        "territory": "Surrealismo de associação",
+        "traits_we_borrow": "Encontro inesperado de objetos familiares, deslocamento de escala e surpresa que abre interpretação.",
+        "traits_we_reject": "Imagem fantástica apresentada como fato; visual sem relação com a pergunta; espetáculo de ficção científica; imitação de um artista.",
+        "evidence_in_references": "A2 aprovado: livro, olhos, espiral e música reunidos numa cena. A batata ligada à notícia é uma associação autoral. S1 amplia o estranhamento, sem aprovação individual.",
+        "possible_use_in_cereja": "Exploração cultural ou conceitual assumida. Na #031, relação editorial da batata, sem inserir objetos absurdos novos ou alterar cultivo + abrigo.",
+        "inference_limit": "Afinidade composicional provisória; não classificar a Cereja como movimento surrealista."
+      },
+      {
+        "territory": "Caderno / zine artesanal — hipótese lateral",
+        "traits_we_borrow": "Matéria de papel, anotação, recorte visível, gesto com alvo e proximidade autoral.",
+        "traits_we_reject": "Falso xerox em todo quadro; sujeira como prova de autenticidade; rasgo/ruído que prejudica leitura; visual punk como fantasia automática.",
+        "evidence_in_references": "A2 aprovado sustenta papel e gesto material; rabisco apreciado por Kell sustenta intervenção. Isso não comprova estética punk. S2 é investigação de percurso, não zine histórico.",
+        "possible_use_in_cereja": "Bastidores, notas, comentário de curadoria. Na #031, uma marca de atenção específica pode participar da leitura, sem saturar o documento.",
+        "inference_limit": "Parcial: caderno/materialidade sustentados; zine como território de exploração, não identidade já aprovada."
+      },
+      {
+        "territory": "Editorial fotográfico com respiro",
+        "traits_we_borrow": "Foto como conteúdo principal, margem ativa, contraste de escala e silêncio entre massas; comentário que ancora a leitura.",
+        "traits_we_reject": "Foto como fundo indiferente; ficha fixa em todos os frames; estética de catálogo premium que apaga humor e textura.",
+        "evidence_in_references": "A1 aprovado reserva área de leitura e inclui ensaio visual. S3/S4/S5 dão exemplos fotográficos e aberturas que ainda aguardam este gate.",
+        "possible_use_in_cereja": "Ciência, relato, documentação, pausas e encerramentos. Na #031, foto terrestre no 4 e redução de massas no 5.",
+        "inference_limit": "Território descritivo, não nome de escola histórica; aplicação concreta ainda a aprovar."
+      }
+    ]
+  }
+}

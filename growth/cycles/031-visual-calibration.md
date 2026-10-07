@@ -1,117 +1,185 @@
-# #031 — Visual calibration pack
+# #031 · Visual Calibration Pack consolidado
 
-Data: 2026-10-06. **KELL — VISUAL CALIBRATION GATE: aguardando revisão. Não renderizar V3.**
+**KELL — VISUAL CALIBRATION GATE: aguardando aprovação. Não produzir V3.**
 
-Frame 1 vigente: **Eu li "Água em Marte" e pensei: batatas!** Alteração escrita por Kell nesta revisão. Os demais frames, história, fatos, legenda, cinco funções narrativas e ausência de CTA de assinatura permanecem aprovados.
+Data: 2026-10-06. Copy vigente do frame 1: **Eu li "Água em Marte" e pensei: batatas!**. História, cinco frames, copy dos demais frames, fatos, direção narrativa, legenda revisada e ausência de CTA de assinatura preservados.
 
-## Diagnóstico visual
+## Origem da seleção e limites
 
-![V1 acima e V2 abaixo, preservadas como anti-referências](031-visual-calibration/anti-v1-v2.jpg)
+**10 entradas: oito exemplos visuais concretos e duas coleções escolhidas por Kell.** As coleções são fontes de repertório, não dois pins já examinados. V1/V2 constituem uma entrada comparativa, com diagnóstico separado por versão. O elogio de Kell ao conjunto não foi convertido em aprovação individual de todos os candidatos.
 
-V2 ampliou a manchete, inclinou o documento e movimentou o objeto. Mas manteve leitura em faixas: abertura textual, imagem, crédito. As bordas poligonais não seguem informação ou matéria; a linha curva toca zonas, sem estabelecer uma relação necessária. O frame 4 tem foto grande, mas o comentário continua uma ficha separada. O frame 5 repete a distância entre pergunta, resposta e objeto. A sequência muda os fundos, sem construir uma passagem visual forte. Este é um diagnóstico de composição, não um novo parecer sobre copy.
+- `user-selected reference`: seleção trazida por Kell; não é aprovação automática de cada item de uma coleção.
+- `system-discovered candidate`: descoberta do Codex, mantida para expandir repertório; aguarda decisão deste gate.
+- `approved visual reference`: decisão explícita anterior de Kell, com escopo e registro identificados.
+- `anti-reference`: exemplo rejeitado visualmente que ajuda a avaliar a próxima composição.
 
-PASS técnico e REVISE visual coexistem. Nenhuma afirmação anterior de “continuidade” no relatório V2 equivale à percepção ou aprovação de Kell.
+Pinterest: ambas as páginas carregaram no navegador, mas o login cobre a galeria e impede inspeção completa dos pins. O 403 anterior de Bruna era do leitor web, não prova de coleção indisponível. Não inferir autoria dos trabalhos pelo nome do curador. [Registro de acesso](031-visual-calibration/user-collections-access.json).
 
-## Referências internas: aprovação tem escopo
+Não avaliar eficácia comercial a partir do portfólio. Dobra impressa e composição de feed não comprovam continuidade de carrossel; sua aplicação ao swipe é hipótese a testar. Referências externas são estudo, não assets liberados para publicação.
 
-| Example | Status | What works | Visual principle | What not to copy | Applicability to #031 |
-|---|---|---|---|---|---|
-| Catálogo Flame v0.3, famílias e adaptações | approved visual reference, no escopo do registro de 04/10 | Capa musical reserva papel para título; cartaz lima tem poucas massas; fotografia e tipografia dividem o espaço | Escolher composição pela função e proteger leitura desde o início | Textos demonstrativos, assinatura em cada quadro, carrossel demonstrativo como template obrigatório | Referência positiva para capa, segunda capa e alternância; não aprova a V2 |
-| Capa de newsletter #031 | approved visual reference; feedback de Kell no histórico: “amei a capa que vc criou” | Espiral de papel une livro, desenho e música; objetos se sobrepõem e saem do enquadramento | A matéria liga os assuntos dentro de uma cena, em vez de ilustrá-los em caixas | Reproduzir o livro, espiral, vinil ou densidade na história de Marte; capa de newsletter não usa texto | Referência de materialidade/ligação, não de layout social nem de fatos |
-| Batata recortada e rabiscos das execuções atuais | approved visual reference apenas para elementos | Objeto comum dá humor e retorno; gesto colorido pode ligar elementos | Manter objeto e gesto, revisar sua relação | Deduzir que sua posição, tamanho ou curvas já foram aprovados | 1 e 5: retorno do objeto; linha com função local, não padrão de fundo |
-| Feed Instagram atual | published baseline, conforme relato de Kell; sem aprovação estética presumida | Não extrair princípios positivos | Publicação não constitui validação visual | Aprender taste a partir de outputs operacionais do próprio sistema | Não usado para justificar nova direção |
-| Montagens isoladas rock/journal e posts anteriores sem vínculo comprovado à aprovação | candidato interno, não canônico | Repertório a avaliar, sem extrair norma positiva | Exigir aprovação do exemplo concreto antes de promover | Atribuir aprovação ao asset por estar no mesmo diretório do catálogo | Não usados como autoridade nesta proposta |
-| V1 e V2 #031 | anti-reference / learning artifact | Legibilidade e fatos sobrevivem; art direction reprovada | Usar para detectar empilhamento, grafismo dispensável e irregularidade sem propósito | Reaproveitar composição por ter passado QA | Comparação visual acima; não são base positiva |
+## Seleção enxuta
 
-Registro local de aprovação: [cópia preservada](031-visual-calibration/internal-approval-record.md). A aprovação de catálogo não é autorização para canonizar automaticamente todos os materiais do diretório. Busca interna limitada aos materiais locais disponíveis; não presumir que representa todo o arquivo histórico da Cereja.
+| Exemplo | Provenance de seleção | O que ensina | Limite / o que não copiar | Aplicação à #031 |
+|---|---|---|---|---|
+| [U1 · Instagram references · Rodolfo Salles](https://br.pinterest.com/rodolfosalles/instagram-references/) | `user-selected reference` · Kell | Coleção de descoberta para layout social; selecionar exemplos pela relação entre texto, fotografia e sequência. | A tela de login cobre a galeria pública. Nenhum pin individual ou sequência completa validado. Não derivar uma norma visual das miniaturas. | Ampliar repertório social dos frames 1/2 e transições, quando houver exemplos acessíveis. |
+| [U2 · Referências visuais Instagram · Bruna Silva](https://br.pinterest.com/brunahasilva/refer%C3%AAncias-visuais-instagram/) | `user-selected reference` · Kell | Coleção escolhida por Kell para investigar identidade, gesto, composição e integração tipográfica. | O leitor web retornou 403; navegador carregou o board com login sobreposto. Autores dos pins não identificados. Não atribuir os trabalhos à curadora. | Investigar composições sociais, sem substituir os exemplos concretos abaixo por uma coleção não examinada integralmente. |
+| [A1 · Flame v0.3 · capa musical e cartaz lima](031-visual-calibration/internal-approval-record.md) | `approved visual reference` · Kell, no escopo do catálogo | Foto e título dividem uma área planejada. O cartaz muda a densidade sem perder a paleta e a presença tipográfica. | Aprovação do catálogo não aprova toda arte no diretório. Não copiar metadados, textos demonstrativos ou estrutura de convite para cada frame. | 1/2 com força própria; unidade pode sobreviver a distribuições muito diferentes. |
+| [A2 · Capa da newsletter #031 · espiral, livro e vinil](031-visual-calibration/internal-cover-031.png) | `approved visual reference` · Kell | A espiral reúne assuntos; sombra, papel e sobreposição fazem parte de uma mesma cena. As bordas cortam objetos com propósito. | Não levar livro, vinil ou espiral para Marte. Capa de newsletter não usa texto; este exemplo não resolve tipografia. | 1/3/5: matéria e objetos constroem vínculo; não adicionar itens só para sinalizar colagem. |
+| [S1 · WePresent No. 5 · abertura Queen Mimi](https://www.pentagram.com/work/wepresent-no-5) | `system-discovered candidate` · Codex | O objeto encobre parte do campo tipográfico, criando frente e fundo; o título do outro lado oferece uma segunda entrada. | Não copiar densidade, lettering, cadeira ou cão. O projeto informa uso de imagem gerada; não importar isso como documento científico. | 1: a batata conversa com a manchete em um plano editorial, sem parecer instalada no terreno. |
+| [S2 · WePresent No. 5 · mapa do passeio](https://www.pentagram.com/work/wepresent-no-5) | `system-discovered candidate` · Codex | Percurso e recortes ligam lugares identificáveis. O gesto gráfico tem referentes e conta o trajeto. | Não copiar mapa, setas, caixas ou densidade. Não é evidência de conversão, nem modelo de carrossel científico. | 1→2 ou 4→5: linha/forma precisa ligar um pensamento a um objeto; não decorar todas as bordas. |
+| [S3 · QUILO · dupla fotográfica assimétrica](https://www.portorocha.com/quilo) | `system-discovered candidate` · Codex | Uma foto baixa à esquerda contrapõe duas à direita. O vazio superior altera ritmo e a diferença de escala organiza leitura. | Não copiar página de livro, fotografias ou corpo minúsculo. Vazio não é licença para afastar textos que formam uma frase. | 3/4: pausa e documento ganham composições distintas, sem foto obrigatoriamente abaixo de um bloco de título. |
+| [S4 · QUILO · abertura Nordeste em lima](https://www.portorocha.com/quilo) | `system-discovered candidate` · Codex | Uma massa dominante atravessa a dobra; quase nenhum texto disputa com ela. A abertura funciona como entrada independente. | Não desenhar mapa dos 185 alvos nem importar uma cor sem função. Dobra impressa não comprova comportamento de swipe. | 2: entrada autônoma por título e massa visual. Continuidade lateral deve ser testada, não apenas descrita. |
+| [S5 · Almanaque Tudum · retrato documental em página amarela](https://www.portorocha.com/netflix-tudum) | `system-discovered candidate` · Codex | Foto central e comentário ocupam um campo editorial compartilhado. Mudanças de escala tipográfica ancoram a imagem. | Não copiar colunas, densidade de almanaque, retrato ou marca. A #031 precisa continuar legível no celular. | 4: imagem NASA governa a composição; texto e crédito se relacionam com suas zonas livres, sem virar uma ficha separada. |
+| [X1 · #031 · comparação V1/V2](031-visual-calibration/anti-v1-v2.jpg) | `anti-reference` · Kell, como rejeição visual | V1 empilha título, comentário, foto e crédito. V2 muda escala e bordas, mas conserva a separação. Rabiscos continuam dispensáveis para a leitura. | Preservar legibilidade, fatos, batata e possibilidade de gesto; não reutilizar posições ou polígono irregular como solução aprovada. | Todos: avaliar relações e sequência, não contar quantos elementos Flame foram adicionados. |
 
-![Famílias do catálogo com aprovação registrada](031-visual-calibration/internal-catalogue.jpg)
-![Adaptações do catálogo](031-visual-calibration/internal-adaptations.jpg)
-![Capa da newsletter #031, referência de matéria e sobreposição](031-visual-calibration/internal-cover-031.png)
+**Redundâncias retiradas da seleção principal:** Nike Be True (escala/crop já demonstrados de modo mais pertinente por A1/S1/S4); capas, índices e Weather Report adicionais (mais imagens para as mesmas lições). Permanecem registrados como descobertas, sem rejeição atribuída a Kell. A seleção não foi reduzida apenas ao que Kell trouxe.
 
-## Quatro benchmarks externos para avaliação
+## Exemplos e evidência de seleção
 
-Inspecionados no portfólio primário dos autores, não em agregadores. São **candidatos externos**, ainda não aprovados por Kell. Três são editoriais impressos; o quarto inclui aplicação social. A transposição de dobra/página para swipe é uma hipótese visual. Não há dado de conversão, prova de segunda entrega no Instagram ou aprovação estética da Cereja nestas fontes.
+### U1 · Instagram references · Rodolfo Salles
 
-| Example | Status | What works | Visual principle | What not to copy | Applicability to #031 |
-|---|---|---|---|---|---|
-| [WePresent No. 5 · Paula Scher / Pentagram](https://www.pentagram.com/work/wepresent-no-5) | candidato externo | O cão recortado cobre palavras; o mapa conecta objetos específicos; nuvens e letras atravessam a dobra. | Sobreposição estabelece frente/fundo e vínculo sem precisar de uma caixa para cada elemento. | Densidade de mapa, letras deformadas, dezenas de fontes e imagem gerada como evidência. | 1: batata e manchete compartilham composição. 2: documento vinculado ao assunto. Continuidade 1→2 como hipótese, não cópia da dobra. |
-| [QUILO · Mico Toledo / PORTO ROCHA](https://www.portorocha.com/quilo) | candidato externo | Retratos e paisagem ocupam alturas diferentes; um mapa amplo ocupa a dobra sobre fundo lima e quase não tem texto. | Mudança de escala e área vazia sinaliza mudança de assunto; a mesma publicação comporta foto, abertura e pausa. | Miniaturas de índice, corpo de livro reduzido, mapa como suposta visualização dos 185 alvos. | 2: segunda entrada independente por escala. 3: pausa tátil. 4: documento real com espaço proporcional ao seu papel. |
-| [Almanaque Netflix Tudum · PORTO ROCHA](https://www.portorocha.com/netflix-tudum) | candidato externo | A capa liga recortes à linguagem de almanaque; nas páginas internas, foto e blocos tipográficos mudam de proporção. | A sequência reconhecível varia sua composição conforme o conteúdo; repertório cultural pode coexistir com leitura editorial. | Stickerização, maximalismo da capa, personagens, logos e imagens protegidas como assets da #031. | 1: objeto editorial inequívoco. 3→4: passar de interpretação cultural a fotografia documental sem repetir uma ficha. |
-| [Nike Be True · PORTO ROCHA e colaboradores](https://www.portorocha.com/nikebetrue) | candidato externo | Tipografia muito grande e fotografia social dão entradas distintas; na ilustração, corpos e tecidos cortados continuam além das bordas. | Reconhecimento não exige repetir a mesma distribuição de texto e imagem; crop sugere um mundo maior que o quadro. | Slogan publicitário, gradiente arco-íris, marcas, moldura de aplicativo e corpo humano nos frames da #031. | 1 e 2 precisam de força própria. 5 reduz densidade. Usar apenas o princípio de escala/crop, sem importar o sistema Nike. |
+`user-selected reference`. URL fornecida por Kell e coleção elogiada por ela.
 
-### WePresent No. 5 · Paula Scher / Pentagram
+Coleção mantida por seleção de Kell. Não apresentar a tela de login como referência visual positiva.
 
-Fonte e créditos: [WePresent No. 5 · Paula Scher / Pentagram](https://www.pentagram.com/work/wepresent-no-5). Leitura visual do assistente, proposta para avaliação.
+### U2 · Referências visuais Instagram · Bruna Silva
 
-![Exemplo de WePresent No. 5 · Paula Scher / Pentagram, apenas para estudo de composição](031-visual-calibration/wepresent-1.png)
+`user-selected reference`. URL fornecida por Kell e coleção elogiada por ela.
 
-![Exemplo de WePresent No. 5 · Paula Scher / Pentagram, apenas para estudo de composição](031-visual-calibration/wepresent-2.png)
+Coleção mantida por seleção de Kell. Não apresentar a tela de login como referência visual positiva.
 
-![Exemplo de WePresent No. 5 · Paula Scher / Pentagram, apenas para estudo de composição](031-visual-calibration/wepresent-3.png)
+### A1 · Flame v0.3 · capa musical e cartaz lima
 
+`approved visual reference`. Registro de aprovação de 04/10 preservado; capa editorial e famílias por função.
 
-### QUILO · Mico Toledo / PORTO ROCHA
+![A1: Flame v0.3 · capa musical e cartaz lima, referência para análise de composição](031-visual-calibration/internal-catalogue.jpg)
 
-Fonte e créditos: [QUILO · Mico Toledo / PORTO ROCHA](https://www.portorocha.com/quilo). Leitura visual do assistente, proposta para avaliação.
+### A2 · Capa da newsletter #031 · espiral, livro e vinil
 
-![Exemplo de QUILO · Mico Toledo / PORTO ROCHA, apenas para estudo de composição](031-visual-calibration/quilo-1.png)
+`approved visual reference`. Feedback explícito no histórico: “amei a capa que vc criou”. Aprovação de imagem, não de layout social.
 
-![Exemplo de QUILO · Mico Toledo / PORTO ROCHA, apenas para estudo de composição](031-visual-calibration/quilo-detail-7.png)
+![A2: Capa da newsletter #031 · espiral, livro e vinil, referência para análise de composição](031-visual-calibration/internal-cover-031.png)
 
-![Exemplo de QUILO · Mico Toledo / PORTO ROCHA, apenas para estudo de composição](031-visual-calibration/quilo-detail-10.png)
+### S1 · WePresent No. 5 · abertura Queen Mimi
 
+`system-discovered candidate`. Galeria primária Pentagram / Paula Scher, inspecionada. Kell reconhece afinidade do conjunto; sem aprovação individual deste exemplo.
 
-### Almanaque Netflix Tudum · PORTO ROCHA
+![S1: WePresent No. 5 · abertura Queen Mimi, referência para análise de composição](031-visual-calibration/wepresent-1.png)
 
-Fonte e créditos: [Almanaque Netflix Tudum · PORTO ROCHA](https://www.portorocha.com/netflix-tudum). Leitura visual do assistente, proposta para avaliação.
+### S2 · WePresent No. 5 · mapa do passeio
 
-![Exemplo de Almanaque Netflix Tudum · PORTO ROCHA, apenas para estudo de composição](031-visual-calibration/tudum-1.png)
+`system-discovered candidate`. Galeria primária Pentagram / Paula Scher, inspecionada.
 
-![Exemplo de Almanaque Netflix Tudum · PORTO ROCHA, apenas para estudo de composição](031-visual-calibration/tudum-detail-4.png)
+![S2: WePresent No. 5 · mapa do passeio, referência para análise de composição](031-visual-calibration/wepresent-2.png)
 
-![Exemplo de Almanaque Netflix Tudum · PORTO ROCHA, apenas para estudo de composição](031-visual-calibration/tudum-detail-7.png)
+### S3 · QUILO · dupla fotográfica assimétrica
 
+`system-discovered candidate`. Galeria PORTO ROCHA; publicação de Mico Toledo. Imagem original inspecionada.
 
-### Nike Be True · PORTO ROCHA e colaboradores
+![S3: QUILO · dupla fotográfica assimétrica, referência para análise de composição](031-visual-calibration/quilo-detail-7.png)
 
-Fonte e créditos: [Nike Be True · PORTO ROCHA e colaboradores](https://www.portorocha.com/nikebetrue). Leitura visual do assistente, proposta para avaliação.
+### S4 · QUILO · abertura Nordeste em lima
 
-![Exemplo de Nike Be True · PORTO ROCHA e colaboradores, apenas para estudo de composição](031-visual-calibration/betrue-detail-1.png)
+`system-discovered candidate`. Galeria primária PORTO ROCHA, inspecionada.
 
-![Exemplo de Nike Be True · PORTO ROCHA e colaboradores, apenas para estudo de composição](031-visual-calibration/betrue-detail-5.png)
+![S4: QUILO · abertura Nordeste em lima, referência para análise de composição](031-visual-calibration/quilo-detail-10.png)
 
-![Exemplo de Nike Be True · PORTO ROCHA e colaboradores, apenas para estudo de composição](031-visual-calibration/betrue-detail-7.png)
+### S5 · Almanaque Tudum · retrato documental em página amarela
+
+`system-discovered candidate`. Galeria primária PORTO ROCHA / Netflix Tudum, inspecionada.
+
+![S5: Almanaque Tudum · retrato documental em página amarela, referência para análise de composição](031-visual-calibration/tudum-detail-4.png)
+
+### X1 · #031 · comparação V1/V2
+
+`anti-reference`. Kell reprovou V1/V2 visualmente. PASS técnico não constitui aprovação de direção de arte.
+
+![X1: #031 · comparação V1/V2, referência para análise de composição](031-visual-calibration/anti-v1-v2.jpg)
+
+## Diagnóstico específico das anti-referências
+
+**V1:** blocos separados de abertura, foto e crédito; recorte da batata flutua como ilustração. O frame documental tem peso fotográfico, mas comentário se comporta como ficha abaixo dele. O 5 dispersa pergunta, resposta, convite e objeto.
+
+**V2:** maior manchete e objeto parcialmente fora do canvas; continua isolando “Li” e empilhando os demais blocos. O clip-path inventa matéria sem motivo. Rabiscos mudam de curva, mas a relação entre conteúdo e gesto permanece fraca. Saídas de borda não produzem correspondência perceptiva suficiente no próximo frame.
+
+**Lição comum:** a unidade está na relação entre as partes, não no número de efeitos implementados. CSS pode executar direção de arte; não deve decidir automaticamente serrilha, inclinação, empilhamento ou sombra. PASS técnico não supera REVISE visual. Legibilidade e elementos apreciados permanecem, posições não estão aprovadas.
 
 ## Sete princípios observáveis propostos
 
-1. **Uma manchete, um objeto, uma relação.** Na capa, reconhecer “Água em Marte” antes do contexto; depois perceber a batata vinculada à reação. O objeto pode sobrepor uma área livre da manchete, nunca encobrir palavras essenciais. Base: catálogo e WePresent.
-2. **Recorte acompanha matéria.** Batata conserva seu contorno real. Foto documental recebe crop retangular intencional; não acrescentar serrilha aleatória. Base: capa #031 e recortes WePresent/Tudum.
-3. **Linha precisa de dois referentes ou um alvo claro.** Antes de desenhar, nomear o que ela sublinha, liga ou circunda. Se removê-la não muda ênfase ou percurso, removê-la definitivamente. Base positiva: gestos apreciados por Kell; conexão do mapa WePresent. A regra de remoção é uma proposta de avaliação.
-4. **Segunda capa precisa sobreviver sozinha.** Ocultar frames 1/3 e verificar se “São águas passadas” domina, se Marte continua identificável e se a evidência é apoio. Não transformar a captura NASA numa terceira manchete concorrente. Base: aberturas QUILO e contraste tipográfico Be True; aplicação a segunda capa é hipótese.
-5. **Continuidade exige coordenadas, não só intenção.** Em um par escolhido, um elemento que sai pela direita tem correspondência perceptível de posição, massa ou textura à esquerda seguinte. Verificar lado a lado e em swipe; não exigir linha literal nos quatro pares. Base: dobra WePresent e mapa QUILO.
-6. **Documento muda o peso da sequência.** O frame 4 oferece a maior presença fotográfica documental; proteger bandejas, raízes e equipamento. Texto ancora uma zona livre ou margem ligada à foto. Não recortar a evidência principal para ganhar decoração. Base: contraste interno entre foto e abertura QUILO/Tudum.
-7. **Fechamento tem menos massas, não mais distância.** Agrupar pergunta e resposta como conversa; reduzir elementos além da batata e convite. O vazio deve separar o conjunto da borda, não espalhar três textos sem vínculo. Base: cartaz Flame e alternância editorial QUILO. Sem assinatura gráfica.
+### P1 · Relação antes de adereço
 
-## Aplicação proposta, antes de desenhar
+Identificar o elemento dominante e o elemento que reage a ele. Proximidade, escala ou sobreposição deve tornar o vínculo visível antes de qualquer rabisco.
 
-| Frame | Mudança concreta proposta | O que testar na próxima execução, se aprovada |
-|---|---|---|
-| 1 | “Eu li” permanece ligado à frase, não isolado como etiqueta. “Água em Marte” domina. Batata invade um plano da composição, com contorno editorial evidente; terreno não vira chão de apoio do objeto | A manchete lidera sem apagar primeira pessoa. Ler a frase completa em ordem. Batata não parece descoberta marciana |
-| 2 | Título com autonomia; a captura NASA passa a apoiar a correção em um conjunto, sem moldura irregular. Um vínculo visual com o 1, sem repetir o mesmo desenho | Ocultar o 1 e reconhecer assunto/correção. Não inventar mapa dos 185 pontos |
-| 3 | Cultivo + abrigo como massa tátil principal; título e premissa próximos, entrando em área de respiro da composição | Pausa cultural reconhecível, sem pessoa, pôster, panorama ou batata extra |
-| 4 | A fotografia de cultivo terrestre governa o enquadramento. Copy conversa com a área livre/margem da foto. Crédito permanece legível, sem footer padronizado | Reconhecer experimento terrestre e elementos de cultivo antes de ler empresa. Sem sobreposição que esconda bandejas/raízes |
-| 5 | Pergunta e resposta têm relação próxima; retorno da batata orienta o fechamento; convite secundário ligado ao conjunto | Respiro deliberado, leitura contínua e circularidade. Sem marca, novo CTA ou adereço |
+Base: A1, A2, S1; contraste com X1. **Verificação:** Ao esconder o grafismo, o conjunto ainda conta algo? Ao escondê-lo novamente depois da intervenção, o gesto acrescentava uma ênfase específica?
 
-São mudanças de composição propostas para calibração, não uma nova história ou copy. Não são wireframes, assets selecionados nem autorização de V3.
+### P2 · Recorte com motivo
 
-## Registro e limites
+O recorte acompanha um contorno, uma borda material ou uma decisão de enquadramento. Recortar documento não pode apagar evidência.
 
-- Copy 1 escrita por Kell: **Eu li "Água em Marte" e pensei: batatas!**. Nenhuma redação anterior recebe autoria retroativa.
-- [Legenda revisada preservada](031-visual-calibration/caption-preserved.txt): sem URLs cruas ou handles não verificados. URLs científicas completas continuam no handoff/provenance de produção. Não acrescentar CTA de assinatura.
-- Referências externas são screenshots para revisão, com autoria e links. Não são biblioteca de assets, autorização de reutilização nas artes ou prova de eficácia comercial. Capturas de GIF são amostras estáticas, não avaliação de motion.
-- [Capturas e URLs de origem](031-visual-calibration/reference-captures.json). Algumas miniaturas limitam avaliação de microtipografia; não extrapolar legibilidade no celular a partir delas.
-- Proposta de aprendizado a validar: **Visual canon = princípios + exemplos aprovados + anti-exemplos.** Não incorporada a skills ou Núcleo nesta tarefa.
-- Nenhuma V3 renderizada. V1/V2 preservadas como histórico, inclusive sua copy anterior. A página deste pack é apenas uma apresentação de referências existentes.
+Base: A2, S1; limite aprendido em X1. **Verificação:** Explicar por que cada borda existe. Uma serrilha sem motivo é removida; não é necessário irregularizar toda foto.
 
-**Parada: KELL — VISUAL CALIBRATION GATE.** Aprovação de referências/princípios vem antes da próxima execução.
+### P3 · Tipografia ocupa a imagem com cuidado
+
+Texto usa área livre, entra numa margem da fotografia ou compartilha um plano com o objeto. Sobreposição deve proteger palavras essenciais e informação documental.
+
+Base: A1, S1, S5. **Verificação:** Ler em celular; reconhecer objeto e texto como conjunto. Não resolver conflito diminuindo fonte.
+
+### P4 · Gesto com referente
+
+Uma linha sublinha uma palavra, circunda uma pista ou liga dois elementos nomeáveis. Seu começo/fim responde à composição.
+
+Base: Elemento apreciado por Kell, S2; anti-exemplo X1. **Verificação:** Dizer o verbo da intervenção e seu alvo. Se não houver alvo ou mudança perceptiva, retirar.
+
+### P5 · Segunda entrada autônoma
+
+O frame 2 mantém reconhecimento do assunto, mas muda a perspectiva e o peso visual. Título e evidência não concorrem como duas manchetes.
+
+Base: A1, S4; hipótese de transposição para o Instagram. **Verificação:** Ver o 2 sozinho: assunto identificável, correção compreensível e vontade de continuar. Não copiar um mapa para fingir evidência.
+
+### P6 · Continuidade que revela
+
+Uma saída pela borda pode corresponder a posição, massa, cor, matéria ou revelação no próximo frame. Também pode haver uma pausa entre dois movimentos.
+
+Base: S2, S3, S4; desejo de continuidade expresso por Kell. **Verificação:** Examinar pares em swipe: existe relação percebida, além de uma frase no relatório? Não repetir uma curva nos quatro pares.
+
+### P7 · Ritmo sem ficha repetida
+
+Alternar massa tipográfica, recorte editorial, pausa tátil e documento dominante. Unificar pelo tratamento e pelas relações, não por cabeçalho/rodapé fixos.
+
+Base: A1, S3, S4, S5; contraste com X1. **Verificação:** As cinco silhuetas diferem? O documento pesa mais no 4 e o 5 reduz massas sem dispersar pergunta/resposta?
+
+## Como isso alteraria os cinco frames, se aprovado
+
+| Frame / job preservado | Diagnóstico | Alteração de composição proposta | Relação e critério de leitura |
+|---|---|---|---|
+| 1 · reação/capa | Palavra introdutória isolada e três faixas; batata como acessório | “Eu li” fica ligado à frase. “Água em Marte” domina um conjunto com reação e batata editorial. Objeto ocupa uma passagem entre planos, sem encobrir letras nem simular instalação no terreno | P1/P2/P3. Reconhecer manchete e depois a associação; ainda ler a frase integral em ordem |
+| 2 · correção/segunda capa | Título, explicação e captura NASA disputam como blocos | “São águas passadas” tem presença autônoma. Documento e texto factual formam apoio ligado à correção, com crop pelo conteúdo. Testar uma relação de massa/posição com o 1 | P3/P5/P6. Ver o 2 sozinho e compreender Marte/passado. Não inventar visualização dos 185 pontos |
+| 3 · pausa cultural | Ilustração fica abaixo de duas linhas como resposta pronta | Cultivo + abrigo vira uma massa tátil com área livre para título/premissa. O encaixe responde aos materiais, sem acrescentar pessoa, panorama, pôster, batata ou prop novo | P2/P3/P7. A pausa se percebe pela silhueta e matéria, sem sacrificar texto ou parecer still |
+| 4 · descoberta documental | Foto grande, seguida de ficha separada e gesto lateral dispensável | Crop preserva raízes, bandejas e equipamento. Copy ancora uma zona livre ou margem diretamente relacionada à foto. Crédito acompanha o documento sem footer fixo | P1/P3/P4/P7. Experimento terrestre domina antes de empresa; Frito-Lay segue subordinada |
+| 5 · retorno/fechamento | Distâncias quebram a conversa e linha não acrescenta relação | Pergunta e resposta próximas como conjunto; batata retorna em escala/posição escolhidas para responder à abertura. Convite para legenda secundário. Vazio em torno da conversa, sem marca gráfica | P1/P4/P6/P7. Circularidade percebida sem gimmick, adereço ou CTA novo |
+
+Esta é a hipótese de calibração, não execução, wireframe ou autorização de V3. Não fixa coordenadas, todos os crops, tamanho de fonte ou um único gesto antes da composição. Mantém jobs e copy aprovados.
+
+## Taste Layer como processo de direção de arte
+
+[Camadas separadas: moodboard, territórios, fingerprint e anti-taste](031-visual-calibration/taste-layer.md). O moodboard vincula exemplos a decisões concretas. Os territórios são vocabulário de empréstimos parciais, sustentados por referências aprovadas quando disponíveis e com candidatos claramente separados. Colagem editorial, Pop editorial/cartaz, surrealismo de associação, caderno/zine como hipótese lateral e editorial fotográfico com respiro não classificam a Cereja integralmente em nenhuma escola. Nenhuma fonte histórica adicional virou exemplo visual ou aprovação.
+
+## Taste Fingerprint provisório da Cereja Flamejante
+
+[Síntese completa, com evidência, confiança e espaço de variação](031-visual-calibration/taste-fingerprint.md).
+
+O conjunto sugere uma gramática de **presença editorial, encontro entre materiais e surpresa por associação**. Tipo, foto e recorte podem compartilhar o campo. O gesto marca uma atenção; textura tem matéria; assimetria equilibra massas diferentes. Densidade e silêncio convivem. Humor pode surgir de um objeto cotidiano tratado com cuidado visual.
+
+Essa leitura extrapola a #031 como hipótese de identidade, conforme observação de Kell. Não converte imagens em um template. Tensão pode existir sem colagem, cor chapada pode dispensar foto, composição central pode funcionar e linha pode faltar. O recorrente são relações e decisões, não efeitos obrigatórios.
+
+Destoam: empilhamento indiferente ao assunto; rodapé carimbado; cards com pesos iguais; irregularidade randômica como atalho para mão humana; documento reduzido a decoração; stickerização e acabamento genérico de apresentação. Esses limites combinam a rejeição V1/V2 e o Flame; não rejeitam todo trabalho dos autores usados como candidatos.
+
+## Registros e parada
+
+- [Provenance de seleção por entrada](031-visual-calibration/selection-provenance.json), com responsável, evidência e escopo. Aprovação de Kell não muda retroativamente quem descobriu o exemplo.
+- [Capturas e URLs originais](031-visual-calibration/reference-captures.json); autores/curadores não são confundidos.
+- [Legenda revisada preservada](031-visual-calibration/caption-preserved.txt), sem URLs públicas cruas, handles não verificados ou CTA de assinatura. URLs científicas completas permanecem no handoff/provenance de produção.
+- Nenhuma skill, fonte canônica de marca ou arte V1/V2 alterada nesta consolidação. Não promove assets exploratórios a finais.
+- Proposta a validar: **Visual canon = princípios + exemplos aprovados + anti-exemplos**. Fingerprint continua provisório e contextual.
+
+**Parada: KELL — VISUAL CALIBRATION GATE. Nenhuma V3 produzida, publicada ou agendada.**

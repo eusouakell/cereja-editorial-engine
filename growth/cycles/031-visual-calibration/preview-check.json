@@ -1,6 +1,27 @@
 {
-  "overflow": false,
-  "missing": [],
-  "heading": "Calibrar a composição",
-  "copy": true
+  "status": "PASS for calibration-pack readability and records; not an art-direction approval",
+  "checks": [
+    {
+      "width": 390,
+      "overflow": false,
+      "missing": [],
+      "copy": true,
+      "entries": 10,
+      "territories": 5,
+      "layers": true,
+      "missingLocalLinks": []
+    },
+    {
+      "width": 1280,
+      "overflow": false,
+      "missing": [],
+      "copy": true,
+      "entries": 10,
+      "territories": 5,
+      "layers": true,
+      "missingLocalLinks": []
+    }
+  ],
+  "visualGate": "pending",
+  "v3Rendered": false
 }
