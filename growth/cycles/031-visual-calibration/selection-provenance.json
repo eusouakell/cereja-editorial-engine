@@ -1,7 +1,7 @@
 {
   "status": "KELL — VISUAL CALIBRATION GATE pending",
-  "count": 10,
-  "concrete_visual_examples": 8,
+  "count": 8,
+  "concrete_visual_examples": 6,
   "user_collections": 2,
   "entries": [
     {
@@ -30,17 +30,19 @@
     },
     {
       "id": "A1",
-      "name": "Flame v0.3 · capa musical e cartaz lima",
-      "status": "approved visual reference",
+      "name": "Catálogo v0.3 · sete famílias visuais",
+      "status": "approved internal visual reference",
       "url": "internal-approval-record.md",
       "files": [
         "internal-catalogue.jpg"
       ],
       "selected_by": "Kell, no escopo do catálogo",
-      "evidence": "Registro de aprovação de 04/10 preservado; capa editorial e famílias por função.",
-      "teaches": "Foto e título dividem uma área planejada. O cartaz muda a densidade sem perder a paleta e a presença tipográfica.",
-      "limit": "Aprovação do catálogo não aprova toda arte no diretório. Não copiar metadados, textos demonstrativos ou estrutura de convite para cada frame.",
-      "apply": "1/2 com força própria; unidade pode sobreviver a distribuições muito diferentes."
+      "evidence": "Registro de 04/10 preservado. Kell reafirma pontos fortes e ressalva problemas de leitura, especialmente 01 Capa editorial, em 06/10.",
+      "teaches": "Colagem, objetos incorporados, cerejas pertinentes, cor dentro dos elementos e famílias contextuais com reconhecimento.",
+      "limit": "Na 01 Capa editorial, texto e elementos competem e prejudicam leitura, conforme Kell. Preservar linguagem, revisar relação e zona de leitura. Não canonizar esse layout.",
+      "apply": "Separar Taste Layer e Brand Asset Grammar; preservar recorrência contextual sem templates ou interferência no texto.",
+      "selection_category": "approved visual reference",
+      "scope": "Famílias e linguagem visual aprovadas em 04/10; não aprovação universal dos layouts."
     },
     {
       "id": "A2",
@@ -85,46 +87,21 @@
       "apply": "1→2 ou 4→5: linha/forma precisa ligar um pensamento a um objeto; não decorar todas as bordas."
     },
     {
-      "id": "S3",
-      "name": "QUILO · dupla fotográfica assimétrica",
-      "status": "system-discovered candidate",
-      "url": "https://www.portorocha.com/quilo",
-      "files": [
-        "quilo-detail-7.png"
-      ],
-      "selected_by": "Codex",
-      "evidence": "Galeria PORTO ROCHA; publicação de Mico Toledo. Imagem original inspecionada.",
-      "teaches": "Uma foto baixa à esquerda contrapõe duas à direita. O vazio superior altera ritmo e a diferença de escala organiza leitura.",
-      "limit": "Não copiar página de livro, fotografias ou corpo minúsculo. Vazio não é licença para afastar textos que formam uma frase.",
-      "apply": "3/4: pausa e documento ganham composições distintas, sem foto obrigatoriamente abaixo de um bloco de título."
-    },
-    {
-      "id": "S4",
-      "name": "QUILO · abertura Nordeste em lima",
-      "status": "system-discovered candidate",
-      "url": "https://www.portorocha.com/quilo",
-      "files": [
-        "quilo-detail-10.png"
-      ],
-      "selected_by": "Codex",
-      "evidence": "Galeria primária PORTO ROCHA, inspecionada.",
-      "teaches": "Uma massa dominante atravessa a dobra; quase nenhum texto disputa com ela. A abertura funciona como entrada independente.",
-      "limit": "Não desenhar mapa dos 185 alvos nem importar uma cor sem função. Dobra impressa não comprova comportamento de swipe.",
-      "apply": "2: entrada autônoma por título e massa visual. Continuidade lateral deve ser testada, não apenas descrita."
-    },
-    {
       "id": "S5",
-      "name": "Almanaque Tudum · retrato documental em página amarela",
+      "name": "Almanaque Tudum · título rosa, campo verde e montagem fotográfica",
       "status": "system-discovered candidate",
       "url": "https://www.portorocha.com/netflix-tudum",
       "files": [
-        "tudum-detail-4.png"
+        "tudum-detail-7.png"
       ],
       "selected_by": "Codex",
-      "evidence": "Galeria primária PORTO ROCHA / Netflix Tudum, inspecionada.",
-      "teaches": "Foto central e comentário ocupam um campo editorial compartilhado. Mudanças de escala tipográfica ancoram a imagem.",
-      "limit": "Não copiar colunas, densidade de almanaque, retrato ou marca. A #031 precisa continuar legível no celular.",
-      "apply": "4: imagem NASA governa a composição; texto e crédito se relacionam com suas zonas livres, sem virar uma ficha separada."
+      "evidence": "Novo candidato após Kell considerar o recorte anterior pouco representativo. Galeria oficial inspecionada; este recorte ainda aguarda aprovação.",
+      "teaches": "Título de grande escala integrado à cor; fotografias em sequência e faixas amarelas articulam a dupla. Ilustrações pequenas participam da linguagem gráfica.",
+      "limit": "Mockup inclinado de livro, não carrossel. Não importar texto minúsculo, paleta ou densidade; preservar zona de leitura.",
+      "apply": "Comparação de linguagem, sem orientar a #031 nem definir identidade da Cereja enquanto a afinidade estiver em dúvida.",
+      "affinity_status": "questioned by Kell; excluded from positive fingerprint evidence pending decision",
+      "user_interpretation": "Cores retrô e vibe de revistinha infantil, colagem e jogos coerentes com almanaque. Kell questiona se esta edição combina com Cereja; não é rejeição definitiva.",
+      "user_selected_example": "C:/Users/Kell/AppData/Local/Temp/codex-clipboard-3461754e-dee6-49cd-ac4b-a9a7b001f3a8.png"
     },
     {
       "id": "X1",
@@ -152,6 +129,42 @@
       "example": "Capas/índices adicionais QUILO, capa Tudum, Weather Report WePresent",
       "status": "system-discovered candidate",
       "reason": "Retirados da seleção principal para não repetir soluções nem converter o pack em galeria extensa."
+    },
+    {
+      "id": "S3",
+      "name": "QUILO · dupla fotográfica assimétrica",
+      "status": "anti-reference",
+      "url": "https://www.portorocha.com/quilo",
+      "files": [
+        "quilo-detail-7.png"
+      ],
+      "selected_by": "Codex",
+      "evidence": "Kell: “quilo - nao gostei”, em 06/10. Motivo não informado.",
+      "teaches": "Uma foto baixa à esquerda contrapõe duas à direita. O vazio superior altera ritmo e a diferença de escala organiza leitura.",
+      "limit": "Não copiar página de livro, fotografias ou corpo minúsculo. Vazio não é licença para afastar textos que formam uma frase.",
+      "apply": "3/4: pausa e documento ganham composições distintas, sem foto obrigatoriamente abaixo de um bloco de título.",
+      "reason": "Retirado das referências positivas por decisão explícita de Kell. Não inferir motivo nem rejeição geral do estúdio."
+    },
+    {
+      "id": "S4",
+      "name": "QUILO · abertura Nordeste em lima",
+      "status": "anti-reference",
+      "url": "https://www.portorocha.com/quilo",
+      "files": [
+        "quilo-detail-10.png"
+      ],
+      "selected_by": "Codex",
+      "evidence": "Kell: “quilo - nao gostei”, em 06/10. Motivo não informado.",
+      "teaches": "Uma massa dominante atravessa a dobra; quase nenhum texto disputa com ela. A abertura funciona como entrada independente.",
+      "limit": "Não desenhar mapa dos 185 alvos nem importar uma cor sem função. Dobra impressa não comprova comportamento de swipe.",
+      "apply": "2: entrada autônoma por título e massa visual. Continuidade lateral deve ser testada, não apenas descrita.",
+      "reason": "Retirado das referências positivas por decisão explícita de Kell. Não inferir motivo nem rejeição geral do estúdio."
+    },
+    {
+      "example": "Tudum · retrato documental em página amarela",
+      "status": "system-discovered candidate",
+      "reason": "Kell considerou o recorte pouco representativo da linguagem gráfica; não rejeitou o projeto.",
+      "file": "tudum-detail-4.png"
     }
   ],
   "taste_layer": {
@@ -199,10 +212,29 @@
         "territory": "Editorial fotográfico com respiro",
         "traits_we_borrow": "Foto como conteúdo principal, margem ativa, contraste de escala e silêncio entre massas; comentário que ancora a leitura.",
         "traits_we_reject": "Foto como fundo indiferente; ficha fixa em todos os frames; estética de catálogo premium que apaga humor e textura.",
-        "evidence_in_references": "A1 aprovado reserva área de leitura e inclui ensaio visual. S3/S4/S5 dão exemplos fotográficos e aberturas que ainda aguardam este gate.",
+        "evidence_in_references": "A1 aprovado reserva área de leitura e inclui ensaio visual. A1/A2/S5 dão exemplos fotográficos e aberturas que ainda aguardam este gate.",
         "possible_use_in_cereja": "Ciência, relato, documentação, pausas e encerramentos. Na #031, foto terrestre no 4 e redução de massas no 5.",
         "inference_limit": "Território descritivo, não nome de escola histórica; aplicação concreta ainda a aprovar."
       }
     ]
-  }
+  },
+  "brand_asset_grammar": {
+    "status": "provisional; gate pending",
+    "file": "brand-asset-grammar.md",
+    "numeric_color_percentage": null,
+    "catalogue_correction": "01 editorial cover: text/image mixture harms readability per Kell; scope approval does not approve all layouts",
+    "layers": [
+      "Taste Layer",
+      "Brand Asset Grammar"
+    ]
+  },
+  "additional_user_selected_references": [
+    {
+      "name": "Two Lost Kids",
+      "status": "user-selected reference",
+      "url": "https://www.instagram.com/twolostkids/",
+      "record": "twolostkids-reference.md",
+      "scope": "Perfil elogiado; exemplos individuais e aplicação a retratos ainda em avaliação. Complemento ao shortlist, não asset final."
+    }
+  ]
 }
