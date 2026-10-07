@@ -100,7 +100,8 @@ Current format contracts include:
 - [LinkedIn metapost](formats/linkedin/metapost.md);
 - [Instagram visual magazine](formats/instagram/revista-visual.md);
 - [Instagram Specialist Pipeline V0](guides/instagram-specialist-pipeline-v0.md) — história → objetivo/formato → planner → direção visual → preflight → execução;
-- [Stories research desk](formats/stories/research-desk.md).
+- [Stories research desk](formats/stories/research-desk.md);
+- [Channel production specs](formats/production/README.md) — dimensions, aspect ratios, safe areas, export types and technical prerequisites.
 
 Each renderer should receive the **minimum sufficient authoritative context** for its job, not the entire research corpus.
 
