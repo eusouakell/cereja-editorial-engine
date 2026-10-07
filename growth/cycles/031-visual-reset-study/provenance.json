@@ -1,0 +1,34 @@
+{
+  "potato-cutout.png": {
+    "origin": "built-in image generation 2026-10-06",
+    "role": "editorial association, not documentary",
+    "sha256": "51ac692eb593d7987aaf4b4d949cc07b40e5784599d2db274f0be7af686fa924",
+    "status": "selected for visual reset study; Kell visual approval pending; not final",
+    "processing": "Scale, crop and rotation in fresh native composition. Documentary image file unchanged; no recoloring.",
+    "sha256_verified": true
+  },
+  "nasa-jezero-margin.jpg": {
+    "origin": "NASA/JPL article, panorama Margin Unit Oct 8–16 2023",
+    "credit": "NASA/JPL-Caltech/MSSS",
+    "role": "context, not mineral proof",
+    "source": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
+    "rights_review": "Uso editorial informativo, com crédito, sem endosso, logo ou pessoa identificável. Conferido crédito do item e ausência de indicação de copyright de terceiro no item. Não é aprovação de campanha paga ou merchandise.",
+    "guidelines": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "sha256": "ad7e105db44be7b95e8e9c5955b824ed6ea5a4ebfeade4670ddca1f7984b64c4",
+    "status": "selected for visual reset study; Kell visual approval pending; not final",
+    "processing": "Scale, crop and rotation in fresh native composition. Documentary image file unchanged; no recoloring.",
+    "sha256_verified": true
+  },
+  "nasa-potatoes-1992.jpg": {
+    "origin": "NASA Kennedy Deep-Space Food Crops article",
+    "credit": "NASA",
+    "role": "documentary terrestrial experiment 1992",
+    "source": "https://www.nasa.gov/science-research/nasa-plant-researchers-explore-question-of-deep-space-food-crops/",
+    "rights_review": "Uso editorial informativo, com crédito, sem endosso, logo ou pessoa identificável. Conferido crédito do item e ausência de indicação de copyright de terceiro no item. Não é aprovação de campanha paga ou merchandise.",
+    "guidelines": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "sha256": "d916530fdb964a6bcd2a770b433a825ac13739e5b15744babeaf70e8ecec2a8c",
+    "status": "selected for visual reset study; Kell visual approval pending; not final",
+    "processing": "Scale, crop and rotation in fresh native composition. Documentary image file unchanged; no recoloring.",
+    "sha256_verified": true
+  }
+}

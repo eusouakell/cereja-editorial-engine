@@ -1,0 +1,121 @@
+{
+  "status": "technical PASS; visual gate pending",
+  "frames": [
+    1,
+    2,
+    4
+  ],
+  "checks": [
+    {
+      "frame": 1,
+      "exactCopy": true,
+      "textBounds": true,
+      "boxes": [
+        {
+          "text": "Li",
+          "x": 72,
+          "y": 69,
+          "right": 118.703125,
+          "bottom": 129,
+          "fontSize": "60px"
+        },
+        {
+          "text": "\"Águaem Marte\"",
+          "x": 65,
+          "y": 151,
+          "right": 1065,
+          "bottom": 471.15625,
+          "fontSize": "174px"
+        },
+        {
+          "text": "e pensei:",
+          "x": 78,
+          "y": 522,
+          "right": 301.234375,
+          "bottom": 582.5,
+          "fontSize": "55px"
+        },
+        {
+          "text": "batatas!",
+          "x": 61,
+          "y": 1088,
+          "right": 627.109375,
+          "bottom": 1265.375,
+          "fontSize": "181px"
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "exactCopy": true,
+      "textBounds": true,
+      "boxes": [
+        {
+          "text": "São águaspassadas",
+          "x": 62,
+          "y": 73,
+          "right": 1034,
+          "bottom": 614.765625,
+          "fontSize": "159px"
+        },
+        {
+          "text": "NASA/JPL-Caltech/MSSS",
+          "x": 90,
+          "y": 813,
+          "right": 436.796875,
+          "bottom": 849,
+          "fontSize": "30px"
+        },
+        {
+          "text": "Em Marte, mais de 185 pontos de rocha analisados sugerem que já existiu água no planeta.",
+          "x": 91,
+          "y": 908,
+          "right": 1000,
+          "bottom": 1109.5625,
+          "fontSize": "56px"
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "exactCopy": true,
+      "textBounds": true,
+      "boxes": [
+        {
+          "text": "Na Terra,",
+          "x": 66,
+          "y": 115,
+          "right": 592.578125,
+          "bottom": 251.609375,
+          "fontSize": "138px"
+        },
+        {
+          "text": "a NASA testou o cultivo em hidroponia.",
+          "x": 346,
+          "y": 914,
+          "right": 993,
+          "bottom": 1042.78125,
+          "fontSize": "56px"
+        },
+        {
+          "text": "Isso chamou a atenção da Frito-Lay.",
+          "x": 346,
+          "y": 1130,
+          "right": 981,
+          "bottom": 1241.34375,
+          "fontSize": "48px"
+        },
+        {
+          "text": "Foto: NASA",
+          "x": 72,
+          "y": 1281,
+          "right": 225.125,
+          "bottom": 1315.796875,
+          "fontSize": "29px"
+        }
+      ]
+    }
+  ],
+  "noFrames3or5": true,
+  "copyPreserved": true
+}
