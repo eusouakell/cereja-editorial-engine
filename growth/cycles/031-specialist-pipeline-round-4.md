@@ -85,3 +85,7 @@ Produção futura registra separadamente asset, fonte, direitos, crop e alt fina
 ## Desenvolvimento visual solicitado por Kell após a V1
 
 Mantidos batata editorial 1/5, rabiscos, contraste entre fotografia documental, composição conceitual e branco, e legibilidade. Na proposta V2, “Água em Marte” lidera a capa; “São águas passadas” mantém força independente; o documento é integrado por recorte editorial; a pausa cultural permanece tátil sem espetáculo; foto NASA domina o 4; retorno do objeto e respiro no 5. Rabiscos variam de função e atravessam bordas, sem setas/UI. Não é uma nova rota, copy ou sistema Flame. [Passagem comparativa](031-specialist-execution-v2-review.md), pendente de Publish Gate.
+
+## Decisão posterior de Kell — VISUAL CALIBRATION REQUIRED
+
+A V2 foi reprovada visualmente. Descrições anteriores de continuidade e integração registram a intenção da execução, não a aprovação perceptiva de Kell. QA técnico PASS não supera este REVISE. Não produzir V3 ainda. Preservar elementos apreciados e direção narrativa; calibrar composição por referências antes da execução. Frame 1 vigente: **Eu li "Água em Marte" e pensei: batatas!**. Exports V1/V2 permanecem históricos. [Pacote de calibração](031-visual-calibration.md). Parar no KELL — VISUAL CALIBRATION GATE.

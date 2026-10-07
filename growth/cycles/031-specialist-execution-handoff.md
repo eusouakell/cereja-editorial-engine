@@ -2,7 +2,7 @@
 
 Data: 2026-10-06.
 
-Status: novo EXECUTION GATE aprovado por Kell em 2026-10-06 após revisão externa do commit 51efd68. Execução visual autorizada e realizada sem reabrir copy ou direção. Pacote entregue ao KELL — PUBLISH GATE; aprovação visual, legenda e publicação pendentes. Não publicar nem agendar.
+Status: PUBLISH GATE — REVISE / VISUAL CALIBRATION REQUIRED. Kell reprovou visualmente a V2 após os checks técnicos. Não produzir V3; parar no KELL — VISUAL CALIBRATION GATE. Execution Gate anterior permanece histórico, sem autorizar nova renderização antes desta calibração.
 
 ## Contrato vigente
 
@@ -21,7 +21,7 @@ A COPY GATE mais recente substitui todas as versões anteriores da copy visível
 
 | Frame | Copy visível exata | Distribuição arte × legenda e dependência factual | Acessibilidade planejada |
 |---|---|---|---|
-| 1 | Li "Água em Marte" e pensei: batatas! | Associação originalmente trazida por Kell; formulação exata escrita por ela nesta revisão. A reação não é manchete científica nem comprovação de água disponível para cultivo. | Alt futuro transcreve a reação e identifica a batata como recorte editorial, nunca como objeto fotografado em Marte. |
+| 1 | Eu li "Água em Marte" e pensei: batatas! | Associação originalmente trazida por Kell; formulação exata escrita por ela nesta revisão. A reação não é manchete científica nem comprovação de água disponível para cultivo. | Alt futuro transcreve a reação e identifica a batata como recorte editorial, nunca como objeto fotografado em Marte. |
 | 2 | São águas passadas<br>Em Marte, mais de 185 pontos de rocha analisados sugerem que já existiu água no planeta. | [S1]. Passado e inferência permanecem visíveis. Mais de 185 descreve o conjunto analisado, não pontos visíveis na imagem. Episódios de interação e limites de datação podem ser aprofundados na legenda. | Alt transcreve esta copy, identifica o documento escolhido e não transforma aparência da rocha em prova autônoma. |
 | 3 | Perdido em Marte<br>Um astronauta tenta sobreviver cultivando batatas. | [S3]. O título situa o filme; a linha explica a premissa. Identificação conceitual na provenance, legenda e alt, sem label adicional na arte. | Alt futuro identifica interpretação conceitual e descreve cultivo + abrigo sem pessoa conforme a composição real. |
 | 4 | Na Terra, a NASA testou o cultivo em hidroponia. Isso chamou a atenção da Frito-Lay. | [S2]. Localização terrestre visível; o contexto da sequência e do documento identifica as batatas. Legenda explica hidroponia e pode registrar consultoria sobre batatas-semente, sem insinuar produto criado pela NASA ou causalidade com o achado marciano. | Alt descreve o experimento terrestre e transcreve a copy. Crédito verificado e legível na execução futura. |
@@ -94,3 +94,9 @@ Flame não proíbe a chama isolada. Frame 5 permanece sem marca gráfica por dec
 Por pedido posterior de Kell, desenvolver os elementos aprovados (batata recortada, rabiscos, contraste documental/conceitual e legibilidade) sem alterar a copy, história ou cinco frames. [V2 comparativa](031-specialist-execution-v2/index.html); [registro da passagem](031-specialist-execution-v2-review.md). A V1 permanece preservada, sem aprovação de publicação.
 
 A legenda pública foi substituída pela revisão adicional encaminhada por Kell, com “nossa amada ciência”, condições controladas, testes terrestres e água antiga. Não publicar URLs cruas; nomes das fontes/créditos legíveis na legenda, URLs completas na provenance/produção. Não usar @ não verificado. Não inferir autoria original de cada frase apenas por encaminhamento ou aprovação. Sem CTA de assinatura. Parada novamente no KELL — PUBLISH GATE.
+
+## Revisão vigente — calibração visual antes da V3
+
+Kell alterou explicitamente o frame 1 para **Eu li "Água em Marte" e pensei: batatas!**. Origem desta alteração: escrita por Kell nesta revisão. Frames 2–5 preservados. Não atualizar exports históricos V1/V2 como se já fossem uma execução dessa copy. Alt futuro deve refletir a nova composição e redação.
+
+V1/V2 são anti-referências visuais; seus PASS técnicos não aprovam direção de arte. Batata recortada, rabiscos coloridos, mistura documental/editorial e respiro continuam elementos aprovados, não composições aprovadas. História, fatos, cinco frames e legenda revisada preservados. [Visual calibration pack](031-visual-calibration.md). Não renderizar, publicar ou agendar.

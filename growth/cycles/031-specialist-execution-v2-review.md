@@ -19,3 +19,7 @@ Incorporada a formulação pública recebida nesta revisão, com “nossa amada 
 [Comparativo, cinco frames V2, legenda, alt, provenance e QA](031-specialist-execution-v2/index.html). [Primeira execução preservada](031-specialist-execution/index.html).
 
 Parada no **KELL — PUBLISH GATE**. Não publicar ou agendar. Nenhuma skill ou fonte canônica de marca alterada. Nova revisão de autoria/estratégia não foi aberta.
+
+## Decisão posterior de Kell — VISUAL CALIBRATION REQUIRED
+
+A V2 foi reprovada visualmente. Descrições anteriores de continuidade e integração registram a intenção da execução, não a aprovação perceptiva de Kell. QA técnico PASS não supera este REVISE. Não produzir V3 ainda. Preservar elementos apreciados e direção narrativa; calibrar composição por referências antes da execução. Frame 1 vigente: **Eu li "Água em Marte" e pensei: batatas!**. Exports V1/V2 permanecem históricos. [Pacote de calibração](031-visual-calibration.md). Parar no KELL — VISUAL CALIBRATION GATE.
