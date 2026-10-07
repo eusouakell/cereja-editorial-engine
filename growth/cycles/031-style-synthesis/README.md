@@ -1,6 +1,6 @@
 # #031 · Style Synthesis Board
 
-Status: KELL — STYLE SYNTHESIS GATE pending. Visual Calibration Gate aprovado como base provisória com correção de copy. Nenhuma V3 completa.
+Status: ENCERRADO — learning artifact em 06/10/2026. Nenhuma direção A/B/C escolhida ou autorizada para evolução. Próxima orientação: [Visual Reset](../031-visual-reset.md). Conteúdo histórico preservado.
 
 A frase exata de Kell é `Li "Água em Marte" e pensei: batatas!`. Nenhuma outra copy aprovada mudou. Frames 1, 2 e 4 são estudos comparáveis; os demais são esquemas, sem copy final ou nova direção executada.
 
