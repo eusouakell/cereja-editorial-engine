@@ -95,3 +95,7 @@ QUILO saiu da seleção positiva: Kell não gostou. Motivo não informado; nenhu
 ### Tudum · afinidade em avaliação
 
 Tudum: afinidade em dúvida. Kell identifica cores retrô, colagem, jogos e linguagem de revistinha infantil/almanaque. Manter como comparação, sem derivar princípios positivos ou direção para #031. A dúvida não equivale a rejeição definitiva.
+
+## Complemento autoral de Kell · 06/10
+
+Cinco estudos anexados: três evidências centrais e duas montagens de variações, classificados como `user-created internal visual evidence`. [Authorial Presence](authorial-presence.md) propõe uma camada contextual para futuras famílias de retrato, manifesto, opinião e bastidores. Não obriga uso do rosto, não altera a #031 e não promove imagens a finais. As 12 referências fornecidas no ZIP são `user-selected reference`, com autoria externa não verificada.

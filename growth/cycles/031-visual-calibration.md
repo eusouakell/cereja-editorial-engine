@@ -2,7 +2,7 @@
 
 **KELL — VISUAL CALIBRATION GATE: aguardando aprovação. Não produzir V3.**
 
-Data: 2026-10-06. Copy vigente do frame 1: **Eu li "Água em Marte" e pensei: batatas!**. História, cinco frames, copy dos demais frames, fatos, direção narrativa, legenda revisada e ausência de CTA de assinatura preservados.
+Data: 2026-10-06. Copy vigente do frame 1: **Li "Água em Marte" e pensei: batatas!**. História, cinco frames, copy dos demais frames, fatos, direção narrativa, legenda revisada e ausência de CTA de assinatura preservados.
 
 ## Origem da seleção e limites
 
@@ -185,3 +185,11 @@ Tudum: afinidade em dúvida. Kell identifica cores retrô, colagem, jogos e ling
 ## Referência adicional de Kell
 
 [Two Lost Kids](031-visual-calibration/twolostkids-reference.md): perfil escolhido por Kell; observações e hipótese de retratos futuros. Não é aprovação automática dos posts nem alteração da direção vigente.
+
+## Gate · 06/10
+
+Visual Calibration Gate aprovado por Kell como base provisória, com correção exata de “Eu li” para “Li”. Próxima etapa: Style Synthesis Board. Nenhuma V3 autorizada.
+
+## Complemento autoral de Kell · 06/10
+
+Cinco estudos anexados: três evidências centrais e duas montagens de variações, classificados como `user-created internal visual evidence`. [Authorial Presence](031-visual-calibration/authorial-presence.md) propõe uma camada contextual para futuras famílias de retrato, manifesto, opinião e bastidores. Não obriga uso do rosto, não altera a #031 e não promove imagens a finais. As 12 referências fornecidas no ZIP são `user-selected reference`, com autoria externa não verificada.

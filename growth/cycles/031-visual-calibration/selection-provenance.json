@@ -1,5 +1,5 @@
 {
-  "status": "KELL — VISUAL CALIBRATION GATE pending",
+  "status": "APPROVED WITH CORRECTION — provisional basis; Style Synthesis Gate pending",
   "count": 8,
   "concrete_visual_examples": 6,
   "user_collections": 2,
@@ -236,5 +236,79 @@
       "record": "twolostkids-reference.md",
       "scope": "Perfil elogiado; exemplos individuais e aplicação a retratos ainda em avaliação. Complemento ao shortlist, não asset final."
     }
-  ]
+  ],
+  "user_created_internal_visual_evidence": [
+    {
+      "id": "K1",
+      "name": "Retrato editorial frontal",
+      "status": "user-created internal visual evidence",
+      "file": "user-evidence/kell-01.jpg",
+      "authorship": "Criado/dirigido por Kell com ferramenta generativa, conforme relato e nome dos arquivos Gemini; processo exato não reconstruído. Não chamar de fotografia documental.",
+      "role": "central evidence",
+      "originality_scope": "Evidência autoral positiva de repertório, não peça final aprovada nem garantia de fidelidade de identidade.",
+      "alt": "Retrato com cabelo ruivo cacheado, óculos, mãos junto ao rosto, tule rosa, maquiagem verde e unhas pastel, diante de material rosa e prateado.",
+      "teaches": "Styling, enquadramento frontal, gesto e matéria constroem uma cena de retrato. Pastéis convivem com brilho e cabelo de forte presença; a suavidade não elimina expressão.",
+      "sha256": "3dfd07da434c7f94c63c596ced48d4e29c7be54295b6acb5ff594c5e358ca194"
+    },
+    {
+      "id": "K2",
+      "name": "Retrato + shape gráfico",
+      "status": "user-created internal visual evidence",
+      "file": "user-evidence/kell-02.jpg",
+      "authorship": "Criado/dirigido por Kell com ferramenta generativa, conforme relato e nome dos arquivos Gemini; processo exato não reconstruído. Não chamar de fotografia documental.",
+      "role": "central evidence",
+      "originality_scope": "Evidência autoral positiva de repertório, não peça final aprovada nem garantia de fidelidade de identidade.",
+      "alt": "Retrato frontal com dois coques, óculos, mãos no rosto e tricô rosa, vermelho, preto e laranja, com shapes verde e laranja nas bordas.",
+      "teaches": "O styling carrega parte da cor. Shapes enquadram sem substituir o retrato; expressão frontal organiza a atenção. Não é apenas paleta suave: há contraste forte no tricô.",
+      "sha256": "e5622fd912d07d73d0c63af6cf5ade03d19a8ac2694c38129feaafd434dea49f"
+    },
+    {
+      "id": "K3",
+      "name": "Retrato ilustrado + sticker",
+      "status": "user-created internal visual evidence",
+      "file": "user-evidence/kell-03.jpg",
+      "authorship": "Criado/dirigido por Kell com ferramenta generativa, conforme relato e nome dos arquivos Gemini; processo exato não reconstruído. Não chamar de fotografia documental.",
+      "role": "central evidence",
+      "originality_scope": "Evidência autoral positiva de repertório, não peça final aprovada nem garantia de fidelidade de identidade.",
+      "alt": "Rosto ilustrado com óculos sobre pétalas laranja e cereja, contorno branco de adesivo e papéis rosa sobrepostos.",
+      "teaches": "Recorte, ilustração, retícula e papel tornam a presença autoral um objeto editorial. Sticker não exige acrescentar stickers a todo assunto.",
+      "sha256": "bc2aac44c69fbf1b53622c0252cc0ef099b6485eab2d61a6fe95ebe7a872d55e"
+    },
+    {
+      "id": "K4",
+      "name": "Variações de pose e luz",
+      "status": "user-created internal visual evidence",
+      "file": "user-evidence/kell-04.jpg",
+      "authorship": "Criado/dirigido por Kell com ferramenta generativa, conforme relato e nome dos arquivos Gemini; processo exato não reconstruído. Não chamar de fotografia documental.",
+      "role": "variation of central evidence",
+      "originality_scope": "Evidência autoral positiva de repertório, não peça final aprovada nem garantia de fidelidade de identidade.",
+      "alt": "Montagem com quatro retratos em tule rosa e óculos, sob luz quente de janela; variação de enquadramento, mãos e direção do olhar.",
+      "teaches": "Variações do mesmo styling ampliam gestos e enquadramentos. Nem todos são frontais; permitem uma família com ritmos distintos.",
+      "sha256": "525f2535a8654651f761588700cfdd90d0079ef8a89c7daf674948a2408062b2"
+    },
+    {
+      "id": "K5",
+      "name": "Variações do retrato rosa",
+      "status": "user-created internal visual evidence",
+      "file": "user-evidence/kell-05.jpg",
+      "authorship": "Criado/dirigido por Kell com ferramenta generativa, conforme relato e nome dos arquivos Gemini; processo exato não reconstruído. Não chamar de fotografia documental.",
+      "role": "variation of central evidence",
+      "originality_scope": "Evidência autoral positiva de repertório, não peça final aprovada nem garantia de fidelidade de identidade.",
+      "alt": "Montagem de quatro retratos com óculos, tule rosa, maquiagem verde e fundo metalizado, em poses frontais e de perfil.",
+      "teaches": "Continuidade de styling e matéria com mudança de expressão. A consistência pode vir de uma sessão ou conceito, sem copiar um layout fixo.",
+      "sha256": "5615f02a0c06c45897186daf7bd977025a7f519fda97926016e5e94efaa28f2f"
+    }
+  ],
+  "pinterest_file_evidence": {
+    "status": "user-selected reference",
+    "count": 12,
+    "record": "authorial-evidence.json",
+    "contact_sheet": "user-evidence/pinterest-contact-sheet.jpg",
+    "shortlist_policy": "Supplementary evidence, not twelve new shortlisted examples or final assets."
+  },
+  "authorial_presence": {
+    "status": "proposed contextual layer; Kell review pending",
+    "record": "authorial-presence.md",
+    "scope": "Future portrait/manifesto/opinion families; no face required in every brand piece; no change to #031."
+  }
 }

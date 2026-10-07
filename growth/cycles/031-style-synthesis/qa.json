@@ -1,0 +1,267 @@
+{
+  "status": "technical PASS; visual decision pending",
+  "checks": [
+    {
+      "direction": "a",
+      "frame": 1,
+      "exactCopy": true,
+      "textInside": true,
+      "boxes": [
+        {
+          "text": "Li",
+          "x": 72,
+          "y": 95,
+          "right": 119.484375,
+          "bottom": 165
+        },
+        {
+          "text": "\"Águaem Marte\"",
+          "x": 65,
+          "y": 190,
+          "right": 1015,
+          "bottom": 482.9375
+        },
+        {
+          "text": "e pensei:",
+          "x": 77,
+          "y": 552,
+          "right": 312.40625,
+          "bottom": 619
+        },
+        {
+          "text": "batatas!",
+          "x": 60,
+          "y": 1020,
+          "right": 569.96875,
+          "bottom": 1171.3125
+        }
+      ]
+    },
+    {
+      "direction": "a",
+      "frame": 2,
+      "exactCopy": true,
+      "textInside": true,
+      "boxes": [
+        {
+          "text": "São águaspassadas",
+          "x": 61,
+          "y": 79,
+          "right": 1011,
+          "bottom": 362.21875
+        },
+        {
+          "text": "Em Marte, mais de 185 pontos de rocha analisados sugerem que já existiu água no planeta.",
+          "x": 77,
+          "y": 935,
+          "right": 1012,
+          "bottom": 1126.859375
+        },
+        {
+          "text": "NASA/JPL-Caltech/MSSS",
+          "x": 77,
+          "y": 1260,
+          "right": 400.671875,
+          "bottom": 1292.1875
+        }
+      ]
+    },
+    {
+      "direction": "a",
+      "frame": 4,
+      "exactCopy": true,
+      "textInside": true,
+      "boxes": [
+        {
+          "text": "Na Terra, a NASA testou o cultivo em hidroponia. Isso chamou a atenção da Frito-Lay.",
+          "x": 77,
+          "y": 921,
+          "right": 1012,
+          "bottom": 1127.625
+        },
+        {
+          "text": "Foto: NASA · experimento terrestre",
+          "x": 77,
+          "y": 1260,
+          "right": 514.28125,
+          "bottom": 1292.1875
+        }
+      ]
+    },
+    {
+      "direction": "b",
+      "frame": 1,
+      "exactCopy": true,
+      "textInside": true,
+      "boxes": [
+        {
+          "text": "Li",
+          "x": 87,
+          "y": 97,
+          "right": 132.15625,
+          "bottom": 164
+        },
+        {
+          "text": "\"Águaem Marte\"",
+          "x": 95,
+          "y": 181,
+          "right": 1020,
+          "bottom": 460.34375
+        },
+        {
+          "text": "e pensei:",
+          "x": 89,
+          "y": 539,
+          "right": 308.171875,
+          "bottom": 601
+        },
+        {
+          "text": "batatas!",
+          "x": 71,
+          "y": 1100,
+          "right": 541.8125,
+          "bottom": 1232.875
+        }
+      ]
+    },
+    {
+      "direction": "b",
+      "frame": 2,
+      "exactCopy": true,
+      "textInside": true,
+      "boxes": [
+        {
+          "text": "São águaspassadas",
+          "x": 101,
+          "y": 158,
+          "right": 961,
+          "bottom": 447.03125
+        },
+        {
+          "text": "Em Marte, mais de 185 pontos de rocha analisados sugerem que já existiu água no planeta.",
+          "x": 104,
+          "y": 1017,
+          "right": 979,
+          "bottom": 1197.796875
+        },
+        {
+          "text": "NASA/JPL-Caltech/MSSS",
+          "x": 104,
+          "y": 1276,
+          "right": 427.671875,
+          "bottom": 1308.1875
+        }
+      ]
+    },
+    {
+      "direction": "b",
+      "frame": 4,
+      "exactCopy": true,
+      "textInside": true,
+      "boxes": [
+        {
+          "text": "Na Terra, a NASA testou o cultivo em hidroponia. Isso chamou a atenção da Frito-Lay.",
+          "x": 97,
+          "y": 949,
+          "right": 987,
+          "bottom": 1148.21875
+        },
+        {
+          "text": "Foto: NASA · experimento terrestre",
+          "x": 98,
+          "y": 876,
+          "right": 535.28125,
+          "bottom": 908.1875
+        }
+      ]
+    },
+    {
+      "direction": "c",
+      "frame": 1,
+      "exactCopy": true,
+      "textInside": true,
+      "boxes": [
+        {
+          "text": "Li",
+          "x": 66,
+          "y": 88,
+          "right": 110.375,
+          "bottom": 154
+        },
+        {
+          "text": "\"Águaem Marte\"",
+          "x": 60,
+          "y": 204,
+          "right": 1005,
+          "bottom": 501.59375
+        },
+        {
+          "text": "e pensei:",
+          "x": 73,
+          "y": 695,
+          "right": 488,
+          "bottom": 766.296875
+        },
+        {
+          "text": "batatas!",
+          "x": 67,
+          "y": 1068,
+          "right": 569.921875,
+          "bottom": 1217.375
+        }
+      ]
+    },
+    {
+      "direction": "c",
+      "frame": 2,
+      "exactCopy": true,
+      "textInside": true,
+      "boxes": [
+        {
+          "text": "São águaspassadas",
+          "x": 69,
+          "y": 79,
+          "right": 764,
+          "bottom": 490.796875
+        },
+        {
+          "text": "Em Marte, mais de 185 pontos de rocha analisados sugerem que já existiu água no planeta.",
+          "x": 73,
+          "y": 951,
+          "right": 1005,
+          "bottom": 1142.859375
+        },
+        {
+          "text": "NASA/JPL-Caltech/MSSS",
+          "x": 73,
+          "y": 1258,
+          "right": 396.671875,
+          "bottom": 1290.1875
+        }
+      ]
+    },
+    {
+      "direction": "c",
+      "frame": 4,
+      "exactCopy": true,
+      "textInside": true,
+      "boxes": [
+        {
+          "text": "Na Terra, a NASA testou o cultivo em hidroponia. Isso chamou a atenção da Frito-Lay.",
+          "x": 72,
+          "y": 970,
+          "right": 1012,
+          "bottom": 1192.21875
+        },
+        {
+          "text": "Foto: NASA · experimento terrestre",
+          "x": 72,
+          "y": 1280,
+          "right": 509.28125,
+          "bottom": 1312.1875
+        }
+      ]
+    }
+  ],
+  "v3Complete": false
+}

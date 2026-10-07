@@ -1,0 +1,164 @@
+{
+  "status": "positive authorial evidence; complementary layer provisional",
+  "count_note": "Cinco anexos: três evidências centrais e duas montagens de variações. Interpretação operacional registrada; não exclusão dos anexos adicionais.",
+  "internal_evidence": [
+    {
+      "id": "K1",
+      "name": "Retrato editorial frontal",
+      "status": "user-created internal visual evidence",
+      "file": "user-evidence/kell-01.jpg",
+      "authorship": "Criado/dirigido por Kell com ferramenta generativa, conforme relato e nome dos arquivos Gemini; processo exato não reconstruído. Não chamar de fotografia documental.",
+      "role": "central evidence",
+      "originality_scope": "Evidência autoral positiva de repertório, não peça final aprovada nem garantia de fidelidade de identidade.",
+      "alt": "Retrato com cabelo ruivo cacheado, óculos, mãos junto ao rosto, tule rosa, maquiagem verde e unhas pastel, diante de material rosa e prateado.",
+      "teaches": "Styling, enquadramento frontal, gesto e matéria constroem uma cena de retrato. Pastéis convivem com brilho e cabelo de forte presença; a suavidade não elimina expressão.",
+      "sha256": "3dfd07da434c7f94c63c596ced48d4e29c7be54295b6acb5ff594c5e358ca194"
+    },
+    {
+      "id": "K2",
+      "name": "Retrato + shape gráfico",
+      "status": "user-created internal visual evidence",
+      "file": "user-evidence/kell-02.jpg",
+      "authorship": "Criado/dirigido por Kell com ferramenta generativa, conforme relato e nome dos arquivos Gemini; processo exato não reconstruído. Não chamar de fotografia documental.",
+      "role": "central evidence",
+      "originality_scope": "Evidência autoral positiva de repertório, não peça final aprovada nem garantia de fidelidade de identidade.",
+      "alt": "Retrato frontal com dois coques, óculos, mãos no rosto e tricô rosa, vermelho, preto e laranja, com shapes verde e laranja nas bordas.",
+      "teaches": "O styling carrega parte da cor. Shapes enquadram sem substituir o retrato; expressão frontal organiza a atenção. Não é apenas paleta suave: há contraste forte no tricô.",
+      "sha256": "e5622fd912d07d73d0c63af6cf5ade03d19a8ac2694c38129feaafd434dea49f"
+    },
+    {
+      "id": "K3",
+      "name": "Retrato ilustrado + sticker",
+      "status": "user-created internal visual evidence",
+      "file": "user-evidence/kell-03.jpg",
+      "authorship": "Criado/dirigido por Kell com ferramenta generativa, conforme relato e nome dos arquivos Gemini; processo exato não reconstruído. Não chamar de fotografia documental.",
+      "role": "central evidence",
+      "originality_scope": "Evidência autoral positiva de repertório, não peça final aprovada nem garantia de fidelidade de identidade.",
+      "alt": "Rosto ilustrado com óculos sobre pétalas laranja e cereja, contorno branco de adesivo e papéis rosa sobrepostos.",
+      "teaches": "Recorte, ilustração, retícula e papel tornam a presença autoral um objeto editorial. Sticker não exige acrescentar stickers a todo assunto.",
+      "sha256": "bc2aac44c69fbf1b53622c0252cc0ef099b6485eab2d61a6fe95ebe7a872d55e"
+    },
+    {
+      "id": "K4",
+      "name": "Variações de pose e luz",
+      "status": "user-created internal visual evidence",
+      "file": "user-evidence/kell-04.jpg",
+      "authorship": "Criado/dirigido por Kell com ferramenta generativa, conforme relato e nome dos arquivos Gemini; processo exato não reconstruído. Não chamar de fotografia documental.",
+      "role": "variation of central evidence",
+      "originality_scope": "Evidência autoral positiva de repertório, não peça final aprovada nem garantia de fidelidade de identidade.",
+      "alt": "Montagem com quatro retratos em tule rosa e óculos, sob luz quente de janela; variação de enquadramento, mãos e direção do olhar.",
+      "teaches": "Variações do mesmo styling ampliam gestos e enquadramentos. Nem todos são frontais; permitem uma família com ritmos distintos.",
+      "sha256": "525f2535a8654651f761588700cfdd90d0079ef8a89c7daf674948a2408062b2"
+    },
+    {
+      "id": "K5",
+      "name": "Variações do retrato rosa",
+      "status": "user-created internal visual evidence",
+      "file": "user-evidence/kell-05.jpg",
+      "authorship": "Criado/dirigido por Kell com ferramenta generativa, conforme relato e nome dos arquivos Gemini; processo exato não reconstruído. Não chamar de fotografia documental.",
+      "role": "variation of central evidence",
+      "originality_scope": "Evidência autoral positiva de repertório, não peça final aprovada nem garantia de fidelidade de identidade.",
+      "alt": "Montagem de quatro retratos com óculos, tule rosa, maquiagem verde e fundo metalizado, em poses frontais e de perfil.",
+      "teaches": "Continuidade de styling e matéria com mudança de expressão. A consistência pode vir de uma sessão ou conceito, sem copiar um layout fixo.",
+      "sha256": "5615f02a0c06c45897186daf7bd977025a7f519fda97926016e5e94efaa28f2f"
+    }
+  ],
+  "pinterest_supplied_examples": [
+    {
+      "file": "user-evidence/reference-01.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "a358b417481815bd500b9f4bae27f5da2b378f99c74a15c252b44444d0128c6b"
+    },
+    {
+      "file": "user-evidence/reference-02.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "0a0f8014f24e5ba68caca81b46acfd27d9f9423d96556cd6fc3ead57c6ae181f"
+    },
+    {
+      "file": "user-evidence/reference-03.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "897ca95c6fe746f7203f828e33a31c6e38547de38835f1910c0cacbc05eeb338"
+    },
+    {
+      "file": "user-evidence/reference-04.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "54a7a1885fee8d285047790618a0df55b655cae570edca72b2c9b84b63712866"
+    },
+    {
+      "file": "user-evidence/reference-05.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "59b0bc9a3fa3250147add4b642f5add2b19f9fdba3743da68e8744c383bb4d0d"
+    },
+    {
+      "file": "user-evidence/reference-06.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "65b3d6e4912e42f872318141d00913644089b45d99e3584ac17105bf74c2c549"
+    },
+    {
+      "file": "user-evidence/reference-07.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "0eee9c1cfb52a48ddf2e8d15111ebcd8e8a338967823983b58ac98fb28709a4a"
+    },
+    {
+      "file": "user-evidence/reference-08.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "52819fd11ddad76ac2b76ced23ed452af84fe1672c8fc082750dfa5871d315ce"
+    },
+    {
+      "file": "user-evidence/reference-09.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "1947db4bbf2314625cdab30ddf8ac933509b48ac4a63ce78d8c745b677d963d8"
+    },
+    {
+      "file": "user-evidence/reference-10.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "5fbe9a9f34e4987c8186e2546c00f74f8550369f398ae92a8d74b5664c701012"
+    },
+    {
+      "file": "user-evidence/reference-11.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "9429381adb4c8c1ebcfd1a14a2ae5474e7900bc1589715f5e6928faba99cfdbf"
+    },
+    {
+      "file": "user-evidence/reference-12.png",
+      "status": "user-selected reference",
+      "source": "ZIP fornecido por Kell; coletado no Pinterest, segundo Kell.",
+      "author": "Não verificado. Não atribuir autoria à curadora ou inferir URL original.",
+      "use": "Benchmark visual; não asset para republicação em peça final.",
+      "sha256": "32e5f3c7d8ac35e71b3f1f0306efe3cbe7f21a899f1243e4716fb906cad6cf72"
+    }
+  ]
+}

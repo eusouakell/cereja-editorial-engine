@@ -104,3 +104,7 @@ Tudum: afinidade em dúvida. Kell identifica cores retrô, colagem, jogos e ling
 ## Referência adicional de Kell
 
 [Two Lost Kids](twolostkids-reference.md): perfil escolhido por Kell; observações e hipótese de retratos futuros. Não é aprovação automática dos posts nem alteração da direção vigente.
+
+## Complemento autoral de Kell · 06/10
+
+Cinco estudos anexados: três evidências centrais e duas montagens de variações, classificados como `user-created internal visual evidence`. [Authorial Presence](authorial-presence.md) propõe uma camada contextual para futuras famílias de retrato, manifesto, opinião e bastidores. Não obriga uso do rosto, não altera a #031 e não promove imagens a finais. As 12 referências fornecidas no ZIP são `user-selected reference`, com autoria externa não verificada.
