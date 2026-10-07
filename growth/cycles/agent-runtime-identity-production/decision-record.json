@@ -56,19 +56,31 @@
     "headline": "Se o agente pode agir, ele precisa existir no sistema.",
     "caption_status": "approved",
     "caption_ref": "growth/cycles/agent-runtime-identity-production/caption-approved.md",
-    "approved_closing": "Afinal, você não dá a chave da sua casa pra qualquer pessoa, né?"
+    "approved_closing": "Afinal, você não dá a chave da sua casa pra qualquer pessoa, né?",
+    "creative_review": {
+      "verdict": "PASS",
+      "selected_variant": "variant 2",
+      "recorded_result": "Creative Director: PASS — variant 2",
+      "authority": "Creative Director review supplied by Kell; Kell confirmed variant 2 = PNG at commit 564fdc8",
+      "required_revision": "Remove only identidade · autoridade · estado · observabilidade; no replacement or recomposition",
+      "master_ref": "growth/cycles/agent-runtime-identity-production/agent-runtime-identity-variant-2-final.png"
+    },
+    "publication_status": "not published / not scheduled; pending Kell publish gate"
   },
   "evidence": [
     "Agentic Factory issue #27",
     "growth/cycles/agent-runtime-identity-production/source/approved-proof-v2.png",
     "growth/cycles/agent-runtime-identity-production/agent-runtime-identity-1080x1350.png",
     "growth/cycles/agent-runtime-identity-production/export-verification.json",
-    "growth/cycles/agent-runtime-identity-production/caption-approved.md"
+    "growth/cycles/agent-runtime-identity-production/caption-approved.md",
+    "growth/cycles/agent-runtime-identity-production/publish-package.md",
+    "growth/cycles/agent-runtime-identity-production/agent-runtime-identity-variant-2-final.png",
+    "growth/cycles/agent-runtime-identity-production/variant-2-final-verification.json"
   ],
   "expected_outcome": "The final post should make agent identity/authority concrete and memorable while remaining faithful to Kell's real experience and current Cereja Flamejante visual/editorial system.",
-  "observed_outcome": null,
+  "observed_outcome": "Creative Director: PASS — variant 2. Kell selected the variant and requested removal of the supporting block only. Final publish gate remains pending; no audience outcome measured.",
   "learn_back": [
-    "Pending independent Creative Director review.",
+    "Creative review accepted the selected direction; remove redundant supporting copy without opening another route.",
     "Pending Kell final creative/publish gate.",
     "After publication, record performance and whether the approved decision criteria remained sufficient without additional human correction."
   ]

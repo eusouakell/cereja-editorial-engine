@@ -1,6 +1,14 @@
 # Agent runtime identity — execution handoff
 
-Status: asset exported; caption approved by Kell; first-class decision record added. Independent Creative Director review and final publish gate remain pending. Not published or scheduled.
+Status: **Creative Director: PASS — variant 2**. Kell confirmed variant 2 is the PNG at commit `564fdc8` and requested removal only of the supporting block. Final export and approved caption are packaged; Kell publish gate remains pending. Not published or scheduled.
+
+## Current publication master
+
+Use `agent-runtime-identity-variant-2-final.png` and `publish-package.md`. All earlier exports and the original QA below are historical production evidence, not the current publishing master. Final QA: 1080×1350, embedded sRGB, 72 px critical-content safe area checked on `variant-2-final-safe-area.png`. The supporting text was removed with a localized built-in imagegen edit; no replacement text or new direction. The scene remains visually aligned, but generative editing does not certify byte-identical preservation outside the edit. Technical resizing/profile embedding used Pillow without creative compositing.
+
+`source/variant-2-text-removed-master.png` preserves the tool output. `finalize-variant-2.py` records technical export; `variant-2-final-verification.json` records dimensions, profile and hash. Final alt text is in the publish package and omits the removed block. Badge microcopy still requires enlarged viewing. Organization handles and current in-app feed/grid checks remain explicitly pending.
+
+Edit prompt: remove only the two-line block “identidade · autoridade · estado · observabilidade”; restore the underlying warm surface; preserve headline, badge, synthetic portrait, composition, lighting, materiality and crop; no text replacement or recomposition.
 
 Authority: Kell approved `editorial-art-director-approved-proof-v2.png` at ART DIRECTION GATE. This is execution of that proof, not a new route. No changes to skills or the #031 pipeline.
 
