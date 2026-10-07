@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0",
+  "last_reviewed": "2026-10-07",
+  "evidence_classes": {
+    "official_verified": "Supported by current official platform documentation.",
+    "official_adjacent": "Official documentation for a related placement; supporting evidence only.",
+    "house_standard": "Cereja Flamejante operational production default.",
+    "verify_in_app": "Final crop/UI/chrome must be checked in the current platform before publish."
+  },
+  "global": {
+    "color_space": "sRGB",
+    "required_sidecar": [
+      "copy_provenance",
+      "rights_status",
+      "accessibility_text",
+      "export_spec",
+      "brand_mark_decision"
+    ],
+    "brand_rule": "Do not reduce the full Cereja Flamejante signature past final-size optical legibility; when context already identifies the brand, prefer the official isolated flame for small digital/social use."
+  },
+  "surfaces": {
+    "instagram_feed_static": {
+      "evidence": "house_standard",
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": "4:5",
+      "preferred_exports": [
+        "png",
+        "jpg"
+      ],
+      "safe_area": {
+        "evidence": "house_standard",
+        "left": 72,
+        "right": 72,
+        "top": 72,
+        "bottom": 72
+      },
+      "verify_in_app": [
+        "feed preview",
+        "profile-grid crop"
+      ]
+    },
+    "instagram_carousel": {
+      "evidence": "house_standard",
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": "4:5",
+      "preferred_exports": [
+        "png",
+        "jpg"
+      ],
+      "safe_area": {
+        "evidence": "house_standard",
+        "left": 72,
+        "right": 72,
+        "top": 72,
+        "bottom": 72
+      },
+      "consistency": "All frames use the same canvas.",
+      "verify_in_app": [
+        "first-frame preview",
+        "profile-grid crop",
+        "carousel preview"
+      ]
+    },
+    "instagram_story": {
+      "evidence": "house_standard",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "preferred_exports": [
+        "png",
+        "jpg",
+        "mp4"
+      ],
+      "safe_area": {
+        "evidence": "house_standard",
+        "left": 90,
+        "right": 90,
+        "top": 250,
+        "bottom": 250
+      },
+      "verify_in_app": [
+        "UI chrome",
+        "interactive sticker placement"
+      ]
+    },
+    "instagram_reel": {
+      "evidence": "official_adjacent",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "preferred_exports": [
+        "mp4"
+      ],
+      "safe_area": {
+        "evidence": "house_standard",
+        "left": 90,
+        "right": 90,
+        "top": 220,
+        "bottom": 360
+      },
+      "required": [
+        "captions_if_speech",
+        "audio_rights",
+        "cover_or_poster"
+      ],
+      "verify_in_app": [
+        "UI chrome",
+        "cover crop",
+        "profile-grid crop"
+      ]
+    },
+    "linkedin_single_image": {
+      "evidence": "official_verified",
+      "preferred_width": 1080,
+      "house_width": 1080,
+      "house_height": 1350,
+      "house_aspect_ratio": "4:5",
+      "official_min_width": 552,
+      "official_min_height": 276,
+      "official_ratio_range": "3:1 to 4:5",
+      "max_file_mb": 5,
+      "preferred_exports": [
+        "png",
+        "jpg"
+      ],
+      "safe_area": {
+        "evidence": "house_standard",
+        "left": 72,
+        "right": 72,
+        "top": 72,
+        "bottom": 72
+      }
+    },
+    "linkedin_document": {
+      "evidence": "official_verified",
+      "preferred_delivery": "pdf",
+      "house_width": 1080,
+      "house_height": 1350,
+      "house_aspect_ratio": "4:5",
+      "max_file_mb": 100,
+      "max_pages": 300,
+      "accepted_official": [
+        "pdf",
+        "ppt",
+        "pptx",
+        "doc",
+        "docx"
+      ],
+      "safe_area": {
+        "evidence": "house_standard",
+        "left": 72,
+        "right": 72,
+        "top": 72,
+        "bottom": 72
+      }
+    },
+    "linkedin_video": {
+      "evidence": "official_verified",
+      "max_file_gb": 5,
+      "min_file_kb": 75,
+      "duration_seconds": {
+        "desktop_min": 3,
+        "mobile_min": 2,
+        "max": 900
+      },
+      "resolution_range": "256x144 to 4096x2304",
+      "aspect_ratio_range": "1:2.4 to 2.4:1",
+      "frame_rate_fps": "10-60",
+      "bitrate": "192 Kbps-30 Mbps",
+      "preferred_delivery": "mp4",
+      "safe_area": {
+        "evidence": "verify_in_app",
+        "rule": "Keep top, bottom and side edges clear of key elements, text and logos."
+      }
+    },
+    "linkedin_article_cover": {
+      "evidence": "official_verified",
+      "width": 1280,
+      "height": 720,
+      "max_file_mb": 10,
+      "accepted": [
+        "jpg",
+        "png",
+        "gif_static"
+      ]
+    },
+    "linkedin_url_preview": {
+      "evidence": "official_verified",
+      "width": 1200,
+      "height": 627,
+      "aspect_ratio": "1.91:1"
+    },
+    "substack_publication_logo": {
+      "evidence": "official_verified",
+      "min_width": 256,
+      "min_height": 256,
+      "transparent_background": true
+    },
+    "substack_email_banner": {
+      "evidence": "official_verified",
+      "width": 1100,
+      "height": 220,
+      "preferred_export": "png",
+      "transparent_background_recommended": true
+    },
+    "substack_cover": {
+      "evidence": "official_verified",
+      "min_width": 600,
+      "min_height": 600
+    },
+    "substack_social_preview": {
+      "evidence": "official_verified",
+      "width": 1200,
+      "height": 630,
+      "note": "Official help also states 14:10, which conflicts with 1200x630. Cereja uses the explicit pixel recommendation and requires preview verification.",
+      "verify_in_app": [
+        "post thumbnail",
+        "social preview crop"
+      ]
+    },
+    "substack_inline_image": {
+      "evidence": "official_verified",
+      "accepted": [
+        "avif",
+        "gif",
+        "jpg",
+        "jpeg",
+        "png",
+        "webp"
+      ],
+      "full_width_tall_image_note": "Substack states images taller than 1:1 may be cropped to 1:1."
+    },
+    "web_social_preview": {
+      "evidence": "house_standard",
+      "width": 1200,
+      "height": 630,
+      "aspect_ratio": "1.91:1",
+      "preferred_exports": [
+        "jpg",
+        "png"
+      ]
+    }
+  }
+}

@@ -48,3 +48,8 @@ Use the [edition briefing](brief-template.md) and [section briefings](editorias/
 An edition can combine a main path, an independent detour and a current-affairs radar. Each return to a subject should add information or a new lens. Do not make every section an essay repeating the same question. Personal first-person claims require evidence from Kell.
 
 The archive informs composition, not current factual truth. Publication and voice calibration still require human review.
+
+
+## Production
+
+For publication identity, preview images, inline media, email banners, video or attachments, use the [Substack production specs](../production/substack.md). Platform dimensions and file types remain operational constraints, not editorial rules.

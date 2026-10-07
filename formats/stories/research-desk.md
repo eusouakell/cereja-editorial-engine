@@ -15,3 +15,8 @@ Possible units:
 Stories may carry lower-stakes observations, but factual claims still require source traceability. "Provisional" does not mean "unverified".
 
 Do not turn every research artifact into a permanent thesis.
+
+
+## Production
+
+Use the [Instagram production specs](../production/instagram.md) for Story canvas, conservative safe areas, media export and current in-app UI verification.
