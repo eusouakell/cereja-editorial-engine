@@ -64,9 +64,9 @@
       "authority": "Creative Director review supplied by Kell; Kell confirmed variant 2 = PNG at commit 564fdc8",
       "required_revision": "Remove only identidade · autoridade · estado · observabilidade; no replacement or recomposition",
       "master_ref": "growth/cycles/agent-runtime-identity-production/agent-runtime-identity-variant-2-final.png",
-      "final_verdict": "PASS FINAL",
+      "final_verdict": "PASS FINAL — Creative Director",
       "final_review_date": "2026-10-08",
-      "freeze": "No further creative changes; current PNG is final master."
+      "freeze": "Final master frozen for publish-gate review; no further creative changes unless Kell reopens direction."
     },
     "publication_status": "not published / not scheduled; pending Kell publish gate",
     "creative_director_status": "PASS FINAL",
@@ -85,12 +85,13 @@
     "growth/cycles/agent-runtime-identity-production/creative-director-review.md"
   ],
   "expected_outcome": "The final post should make agent identity/authority concrete and memorable while remaining faithful to Kell's real experience and current Cereja Flamejante visual/editorial system.",
-  "observed_outcome": "Creative Director: PASS FINAL — variant 2 after removal of the supporting block. Master frozen; publication remains pending. No audience outcome measured.",
+  "observed_outcome": "Creative Director: PASS FINAL — variant 2 after removal of the supporting block. Final export and publish package verified; publication remains pending Kell authorization. No audience outcome measured.",
   "learn_back": [
     "Creative Director PASS after one bounded revision.",
     "Conceptually important copy should not survive as unreadable microcopy; promote it or remove it from the visual.",
     "Illustrative credential microcopy may remain secondary because it signals system identity rather than carrying the core argument.",
     "Pending final publish-package verification and Kell publish gate.",
-    "After publication, record performance and whether the approved decision criteria remained sufficient without additional human correction."
+    "After publication, record performance and whether the approved decision criteria remained sufficient without additional human correction.",
+    "Publish-package verification completed; final native in-app checks and Kell publish authorization remain."
   ]
 }
