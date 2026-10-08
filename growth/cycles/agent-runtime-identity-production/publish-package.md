@@ -1,10 +1,10 @@
 # Publish package — Agent runtime identity
 
-Publication: **not published / not scheduled**. Final Kell publish gate required.
+Publication: **PUBLISHED** — [Instagram post](https://www.instagram.com/p/DePRsywlchM/). 2026-10-08, **12:39:47 BRT**. Kell explicitly authorized the final send. State: **observing**. No edits without a new gate.
 
 ## Final PNG
 
-Master: `agent-runtime-identity-variant-2-final.png`. Creative Director: **PASS FINAL — variant 2**. Final master frozen for review; Kell publish authorization remains pending. Kell confirmed the selected base is the PNG at commit `564fdc8`; only the supporting block was removed. Earlier exports are historical, not publication masters.
+Master: `agent-runtime-identity-variant-2-final.png`. Creative Director: **PASS FINAL — variant 2**. Final master frozen; published after Kell authorization. Kell confirmed the selected base is the PNG at commit `564fdc8`; only the supporting block was removed. Earlier exports are historical, not publication masters.
 
 Export: 1080×1350, RGB with embedded sRGB; 72 px critical-content inset. See `variant-2-final-verification.json` and annotated safe-area image.
 
@@ -57,4 +57,8 @@ Arrange photographs with clear focal hierarchy and enough breathing room. Keep f
 - [ ] Add and verify alt text against final composition.
 - [ ] Verify organization handles and native tags in-app.
 - [ ] Confirm documentary photo credits/rights for the supporting Story.
-- [ ] Obtain Kell final publish authorization. This is the only remaining authority gate after the native in-app checks. Nothing is published by this execution.
+- [ ] Obtain Kell final publish authorization. This is the only remaining authority gate after the native in-app checks. Final send authorized by Kell and completed; no edits without new gate.
+
+## Publication execution record
+
+Native Instagram confirmed sharing. Four photo tags verified on the published post: `@itau`, `@googlecloud`, `@googlecloudlatam` (both Google accounts explicitly authorized by Kell), `@santodigital`. Itaú and global Google Cloud showed verification badges; SantoDigital profile identified its Google Cloud partner role and event context. Caption and alt preserved; AI label enabled; no collaborator invited. The native web flow did not offer a separate pre-publication grid preview. Checklist above is the preparation record; publication evidence and current state are recorded here and in Decision Record. Supporting Story was not created or published by this task.

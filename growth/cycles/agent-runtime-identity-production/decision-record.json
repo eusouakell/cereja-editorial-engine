@@ -49,7 +49,7 @@
     "brand or accessibility conflict",
     "native publication metadata cannot be verified"
   ],
-  "state": "executing",
+  "state": "observing",
   "decision": {
     "story_route": "Use the Batalha de Agentes Itaú and Bússola as the real context in which identity, authority, rules and observability became concrete concerns.",
     "visual_route": "Use a physical credential as the metaphor for a non-human principal that must have identity, authority scope and state before acting.",
@@ -68,10 +68,33 @@
       "final_review_date": "2026-10-08",
       "freeze": "Final master frozen for publish-gate review; no further creative changes unless Kell reopens direction."
     },
-    "publication_status": "not published / not scheduled; pending Kell publish gate",
+    "publication_status": "published; observing; edits require new Kell gate",
     "creative_director_status": "PASS FINAL",
     "final_visual_variant": "variant 2",
-    "bounded_revision": "Removed the separate identidade · autoridade · estado · observabilidade line because it was conceptually important but not legible at channel scale. No replacement text or new art direction."
+    "bounded_revision": "Removed the separate identidade · autoridade · estado · observabilidade line because it was conceptually important but not legible at channel scale. No replacement text or new art direction.",
+    "publication": {
+      "permalink": "https://www.instagram.com/p/DePRsywlchM/",
+      "account": "cerejaflamejante",
+      "published_at_utc": "2026-10-08T15:39:47.000Z",
+      "published_at_local": "2026-10-08T12:39:47-03:00",
+      "timezone": "America/Sao_Paulo",
+      "time_source": "Instagram rendered time element datetime",
+      "share_clicked_at_utc": "2026-10-08T15:39:38.936Z",
+      "authorization": "Kell explicitly replied pode publicar after final preview",
+      "native_tags": [
+        "itau",
+        "googlecloud",
+        "googlecloudlatam",
+        "santodigital"
+      ],
+      "collaboration_invitation": false,
+      "ai_label": true,
+      "crop": "4:5",
+      "grid_preview": "not available before publishing in native web creation flow",
+      "caption": "approved caption verbatim; Markdown bold syntax rendered as plain text; no wording changes",
+      "alt": "approved alt entered and observed on published profile tile",
+      "post_publish_edits": false
+    }
   },
   "evidence": [
     "Agentic Factory issue #27",
@@ -82,16 +105,18 @@
     "growth/cycles/agent-runtime-identity-production/publish-package.md",
     "growth/cycles/agent-runtime-identity-production/agent-runtime-identity-variant-2-final.png",
     "growth/cycles/agent-runtime-identity-production/variant-2-final-verification.json",
-    "growth/cycles/agent-runtime-identity-production/creative-director-review.md"
+    "growth/cycles/agent-runtime-identity-production/creative-director-review.md",
+    "https://www.instagram.com/p/DePRsywlchM/",
+    "growth/cycles/agent-runtime-identity-production/publication-evidence/instagram-agent-runtime-shared.png",
+    "growth/cycles/agent-runtime-identity-production/publication-evidence/instagram-agent-runtime-published.png"
   ],
   "expected_outcome": "The final post should make agent identity/authority concrete and memorable while remaining faithful to Kell's real experience and current Cereja Flamejante visual/editorial system.",
-  "observed_outcome": "Creative Director: PASS FINAL — variant 2 after removal of the supporting block. Final export and publish package verified; publication remains pending Kell authorization. No audience outcome measured.",
+  "observed_outcome": "Instagram confirmed Seu post foi compartilhado.; permalink opened and caption, four native tags and AI label verified. Published 2026-10-08 at 12:39:47 America/Sao_Paulo. Audience performance not yet measured.",
   "learn_back": [
     "Creative Director PASS after one bounded revision.",
     "Conceptually important copy should not survive as unreadable microcopy; promote it or remove it from the visual.",
     "Illustrative credential microcopy may remain secondary because it signals system identity rather than carrying the core argument.",
-    "Pending final publish-package verification and Kell publish gate.",
     "After publication, record performance and whether the approved decision criteria remained sufficient without additional human correction.",
-    "Publish-package verification completed; final native in-app checks and Kell publish authorization remain."
+    "Human-in-the-loop final send completed: Kell explicitly authorized only after preview. Global and LATAM Google Cloud tags both selected by Kell. No post-publication creative/content edits."
   ]
 }

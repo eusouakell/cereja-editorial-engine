@@ -1,3 +1,9 @@
+# Published cycle status
+
+State: **observing**. [Instagram post](https://www.instagram.com/p/DePRsywlchM/) published 2026-10-08 at **12:39:47 BRT**, after Kell explicitly replied “pode publicar”. Caption, asset and alt remain unchanged. Four native tags and AI label verified; no collab. Any subsequent caption/asset edit requires a new Kell gate.
+
+The execution/preflight notes below are historical. Current publication evidence is in `publication-evidence/` and `decision-record.json`.
+
 # Agent runtime identity — execution handoff
 
 Status: **Creative Director: PASS FINAL — variant 2**, confirmed 2026-10-08. Master frozen; no further creative changes. Kell confirmed variant 2 is the PNG at commit `564fdc8` and requested removal only of the supporting block. Final export and approved caption are packaged; Kell publish gate remains pending. Not published or scheduled.
