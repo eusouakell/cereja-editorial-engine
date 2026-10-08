@@ -4,7 +4,7 @@ Publication: **not published / not scheduled**. Final Kell publish gate required
 
 ## Final PNG
 
-Master: `agent-runtime-identity-variant-2-final.png`. Creative Director: **PASS FINAL — variant 2**, confirmed by Kell on 2026-10-08. Master frozen; no further creative changes. Kell confirmed the selected base is the PNG at commit `564fdc8`; only the supporting block was removed. Earlier exports are historical, not publication masters.
+Master: `agent-runtime-identity-variant-2-final.png`. Creative Director: **PASS FINAL — variant 2**. Final master frozen for review; Kell publish authorization remains pending. Kell confirmed the selected base is the PNG at commit `564fdc8`; only the supporting block was removed. Earlier exports are historical, not publication masters.
 
 Export: 1080×1350, RGB with embedded sRGB; 72 px critical-content inset. See `variant-2-final-verification.json` and annotated safe-area image.
 
@@ -57,4 +57,4 @@ Arrange photographs with clear focal hierarchy and enough breathing room. Keep f
 - [ ] Add and verify alt text against final composition.
 - [ ] Verify organization handles and native tags in-app.
 - [ ] Confirm documentary photo credits/rights for the supporting Story.
-- [ ] Obtain Kell final publish authorization. Nothing is published by this execution.
+- [ ] Obtain Kell final publish authorization. This is the only remaining authority gate after the native in-app checks. Nothing is published by this execution.
