@@ -8,5 +8,8 @@
   "safe_area_px": 72,
   "sha256": "dfb84bffe51bac6d55a6c6fdf7748035184df4d07b94fc2c87a4711ac3cca301",
   "critical_content_safe_area": "PASS: inspected annotated export; text inside 72px inset; plastic/lanyard and redundant status dot may cross inset",
-  "publication": "not published / not scheduled"
+  "publication": "not published / not scheduled",
+  "reconfirmed_at": "2026-10-08 America/Sao_Paulo",
+  "master_unchanged": true,
+  "creative_review": "Creative Director: PASS FINAL — variant 2"
 }

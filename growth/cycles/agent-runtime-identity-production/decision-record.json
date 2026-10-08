@@ -60,10 +60,13 @@
     "creative_review": {
       "verdict": "PASS",
       "selected_variant": "variant 2",
-      "recorded_result": "Creative Director: PASS — variant 2",
+      "recorded_result": "Creative Director: PASS FINAL — variant 2",
       "authority": "Creative Director review supplied by Kell; Kell confirmed variant 2 = PNG at commit 564fdc8",
       "required_revision": "Remove only identidade · autoridade · estado · observabilidade; no replacement or recomposition",
-      "master_ref": "growth/cycles/agent-runtime-identity-production/agent-runtime-identity-variant-2-final.png"
+      "master_ref": "growth/cycles/agent-runtime-identity-production/agent-runtime-identity-variant-2-final.png",
+      "final_verdict": "PASS FINAL",
+      "final_review_date": "2026-10-08",
+      "freeze": "No further creative changes; current PNG is final master."
     },
     "publication_status": "not published / not scheduled; pending Kell publish gate"
   },
@@ -78,7 +81,7 @@
     "growth/cycles/agent-runtime-identity-production/variant-2-final-verification.json"
   ],
   "expected_outcome": "The final post should make agent identity/authority concrete and memorable while remaining faithful to Kell's real experience and current Cereja Flamejante visual/editorial system.",
-  "observed_outcome": "Creative Director: PASS — variant 2. Kell selected the variant and requested removal of the supporting block only. Final publish gate remains pending; no audience outcome measured.",
+  "observed_outcome": "Creative Director: PASS FINAL — variant 2 after removal of the supporting block. Master frozen; publication remains pending. No audience outcome measured.",
   "learn_back": [
     "Creative review accepted the selected direction; remove redundant supporting copy without opening another route.",
     "Pending Kell final creative/publish gate.",
