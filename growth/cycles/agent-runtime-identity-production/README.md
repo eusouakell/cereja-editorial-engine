@@ -22,6 +22,7 @@ Authority: Kell approved `editorial-art-director-approved-proof-v2.png` at ART D
 - `export.py` and `export-verification.json`: reproducible dimension/color export and verification.
 - `caption-approved.md`: final approved Instagram caption and publication notes.
 - `decision-record.json`: governed decision record for this cycle.
+- `creative-director-review.md`: independent final creative review and learn-back.
 
 ## Execution and provenance
 
@@ -54,6 +55,7 @@ Sobre uma superfície clara com luz quente, um cordão vermelho prende um crach�
 - PASS: active/verified is expressed in text, not only color. No new logo or unofficial brand asset.
 - PASS: caption approved by Kell and recorded with provenance.
 - PASS: governed decision record created under the first-class decision model.
-- Pending: independent Creative Director comparison against approved composition and synthetic portrait; Kell final creative/publish approval; current in-app feed/grid check before publishing.
+- PASS: independent Creative Director review after the bounded removal of the unreadable conceptual subline.
+- Pending: final executor publish-package verification; Kell final creative/publish approval; current in-app feed/grid check before publishing.
 
 Technical QA does not replace creative approval. No publication was performed.
