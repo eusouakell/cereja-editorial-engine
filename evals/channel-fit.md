@@ -37,3 +37,32 @@ Check:
 - provisional status is clear when needed;
 - source can be recovered;
 - ephemeral format is not used to bypass evidence or rights review.
+
+
+## Medium
+
+Check:
+- durable essay value beyond the edition cycle;
+- no mechanical newsletter repost;
+- narrative/essay structure earns its length;
+- title remains accurate outside feed context;
+- canonical/source relationship is clear.
+
+## DEV.to
+
+Check:
+- real technical/build substance;
+- implementation state and limitations are explicit;
+- repo/artifact references are current;
+- no PoC/production inflation;
+- useful without reading another channel.
+
+## YouTube
+
+Check:
+- audiovisual medium materially improves the explanation;
+- spoken structure sounds natural rather than essay-read-aloud;
+- visual evidence/demo has a job;
+- captions/transcript/accessibility plan is present;
+- music/image/video rights are cleared;
+- production effort remains inside the pilot capacity gate.
