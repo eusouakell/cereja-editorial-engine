@@ -1,11 +1,11 @@
 # EP-032 — Context Engineering não é escrever um prompt melhor
 
-Preparado em 2026-10-11. Estado: pesquisa e plano para revisão editorial; não aprovado para composição/publicação.
-Tema aprovado na issue #37. A formulação abaixo é proposta do assistente, não uma fala ou opinião já aprovada de Kell.
+Preparado em 2026-10-11. Estado: tese aprovada por Kell em 2026-10-11; liberado para composição, publicação pendente.
+Tema aprovado na issue #37. A tese foi proposta pelo assistente e aprovada por Kell nesta conversa. Aprovação não altera a proveniência de autoria.
 
 ```yaml
 id: EP-032
-status: draft
+status: ready-for-composition
 intent:
   question: "Que informação, decisão e evidência precisam acompanhar um trabalho de IA para que ele continue sem depender da memória de um chat?"
   why_now: "O ciclo #31 deixou artefatos concretos de revisão; o piloto V3 inicia em 12/10."
@@ -13,7 +13,7 @@ intent:
   publication_band: thought-leadership
 thesis:
   thesis_ids: [TH-032-PROPOSED]
-  approved_thesis: null
+  approved_thesis: "Trabalhos com IA precisam de contexto relevante, decisões vigentes e limites recuperáveis por etapa; a qualidade disso deve ser avaliada no trabalho concreto."
   open_question: "Como preparar contexto suficiente, atual e autorizado para cada etapa de um trabalho com IA?"
   counterpoint_required: true
 context:
@@ -33,7 +33,7 @@ evidence:
     - "Fontes externas conferidas em 11/10; revalidar alegações materiais até o fechamento em 17/10."
 tokens:
   candidate_ids: [TK-032-QUESTION, TK-032-CASE, TK-032-CONTEXT, TK-032-COUNTERPOINT, TK-032-PRACTICE]
-  approved_for_composition: []
+  approved_for_composition: [TK-032-QUESTION, TK-032-CASE, TK-032-CONTEXT, TK-032-COUNTERPOINT, TK-032-PRACTICE]
 story:
   route_selected: "documentary-case-proposed"
   why_story_or_not: "Uma sequência de artefatos mostra mudanças concretas; não há base para fabricar uma cena pessoal ou atribuir causalidade."
@@ -74,9 +74,9 @@ constraints:
   channel_specific:
     - "Pilotos DEV.to e YouTube dependem de substância e capacidade; nenhuma entrega adicional é quota."
 human_decisions:
-  pending: ["Aprovar a tese proposta ou escolher manter a pergunta aberta antes da composição."]
-  approved_by: null
-  approved_at: null
+  pending: []
+  approved_by: Kell
+  approved_at: "2026-10-11"
 ```
 
 ## Proposta editorial para o gate de tese
@@ -112,7 +112,7 @@ Não importar os números de Marte para esta pauta. Não usar o preflight de tok
 
 ## Tokens candidatos
 
-Todos em estado **proposed**, sem autorização de composição.
+Selecionados para composição sob a tese aprovada; publicação e redação final permanecem pendentes.
 
 | ID | Unidade e origem | Uso candidato |
 |---|---|---|
@@ -144,7 +144,7 @@ Revisão feita pelo mesmo assistente que preparou o packet, por critérios; não
 - Narrativa: documentos concretos disponíveis; arco de sucesso não demonstrado.
 - Discoverability: termos candidatos, sem volume de busca ou trend claim inventado.
 - Direitos: nenhum ativo de terceiros copiado; novos ativos seguem gate próprio.
-- Estado: draft para aprovação de tese/pergunta; publicação não autorizada.
+- Estado: ready-for-composition após aprovação explícita de Kell; publicação não autorizada.
 
 ## Fontes canônicas e continuidade
 
@@ -154,4 +154,4 @@ Revisão feita pelo mesmo assistente que preparou o packet, por critérios; não
 - [Voz em Núcleo](https://github.com/eusouakell/cereja-knowledge-system/blob/main/editorial/voice-and-tone.md)
 - [Plano de execução e baseline](../growth/cycles/032-context-engineering.md)
 
-Próximo estado: após o gate humano de tese/pergunta, registrar aprovação com data, selecionar tokens e compor nativamente. Não avançar este packet para ready enquanto a decisão estiver pendente.
+Aprovação: Kell respondeu “sim” à tese resumida nesta conversa em 11/10/2026. Escopo: tese e composição; não publicação. Próximo passo: incorporar o gancho real da semana oferecido por Kell ao briefing, preservar suas palavras e compor nativamente. Não inventar a experiência enquanto o relato não chega.
