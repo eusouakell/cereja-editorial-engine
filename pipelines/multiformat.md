@@ -1,6 +1,6 @@
 # Multiformat agentic content factory
 
-Status: **architecture and contracts only**. No end-to-end autonomous factory is claimed.
+Status: **OPERATING assisted architecture and contracts**. No end-to-end autonomous factory is claimed.
 
 ## Core decision
 
