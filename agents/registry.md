@@ -1,6 +1,6 @@
 # Editorial workflow roles — local
 
-Status: design only; no deployed autonomous factory is claimed.
+Status: **OPERATING role map for assisted workflows**; no deployed autonomous factory is claimed.
 
 These are **application-level editorial roles**, not the canonical cross-repository Agent Registry. Canonical specialist agents, authority and lifecycle live in [eusouakell/agentic-factory](https://github.com/eusouakell/agentic-factory).
 
@@ -18,7 +18,7 @@ These are **application-level editorial roles**, not the canonical cross-reposit
 - **Editorial Curator** — selects which candidate tokens belong to the current Editorial Packet.
 - **Canonical Composer** — organizes the Editorial Packet and produces a newsletter candidate without inventing a new thesis.
 - **LinkedIn Renderer** — composes a self-contained metapost from approved packet material.
-- **Editorial Storyteller** — finds 2–3 viable narrative routes before channel/format decisions; it does not plan frames.
+- **Editorial Storyteller** — finds 2–3 viable narrative routes before channel/format decisions, or records that a non-story form is stronger; it uses [Narrative Craft & Oral Storytelling](../guides/narrative-craft.md) and does not plan frames.
 - **Instagram Strategist** — chooses primary behavior, success signals and native Instagram format from an approved story.
 - **Instagram Carousel Planner** — when carousel is approved, turns the story into the minimum necessary beats; it does not design.
 - **Visual Storyteller** — translates approved beats into image-first visual jobs with minimal text; it does not change the story.
@@ -30,6 +30,7 @@ These are **application-level editorial roles**, not the canonical cross-reposit
 ## Distribution and audience
 
 - **Audience & Growth Planner** — proposes channel strategy, acquisition and retention experiments, measurement and handoffs. This is a domain role under validation, not a newly activated canonical Factory agent. See [contract](contracts/audience-growth-planner.md) and [distribution plan](../growth/distribution-plan.md).
+- **Discoverability Architect (canonical Factory capability when triggered)** — reviews durable search/entity/proof opportunities for evergreen/public artifacts. It does not create thesis or rewrite domain truth.
 
 ## Verification and learning
 
@@ -45,3 +46,8 @@ No agent approves publication, creates Kell's opinion, or converts a generated s
 Renderers receive minimum sufficient authoritative context for their task rather than the complete research universe by default.
 
 For Instagram V0, use the explicit specialist handoff in [guides/instagram-specialist-pipeline-v0.md](../guides/instagram-specialist-pipeline-v0.md). These local role names do not activate canonical Factory agents by themselves.
+
+
+## Pilot-format rule
+
+Medium, DEV.to and YouTube do **not** create new local or canonical agents in V3. Existing composition, editorial story, discoverability, video and quality roles cover the pilot. Add/promote a specialist only after repeated real-task evidence shows a distinct unresolved capability boundary.

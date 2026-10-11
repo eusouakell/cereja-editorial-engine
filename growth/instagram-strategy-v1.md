@@ -196,6 +196,10 @@ Examples:
 
 Guard: Lab content cannot take over the editorial property or turn Cereja into a generic AI-engineering feed.
 
+## Narrative craft
+
+Use [Narrative Craft & Oral Storytelling](../guides/narrative-craft.md) when the material has a real narrative route. Instagram storytelling is primarily visual sequencing; do not force a story onto reference/list/explanatory material that works better another way.
+
 ## Carousel anatomy
 
 Cereja already has a useful visual-magazine grammar:

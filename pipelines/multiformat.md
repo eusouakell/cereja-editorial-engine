@@ -1,6 +1,6 @@
 # Multiformat agentic content factory
 
-Status: **architecture and contracts only**. No end-to-end autonomous factory is claimed.
+Status: **OPERATING assisted architecture and contracts**. No end-to-end autonomous factory is claimed.
 
 ## Core decision
 
@@ -41,13 +41,16 @@ selects what belongs to the edition
 THESIS BUILDER + DEVIL'S ADVOCATE
 structures argument and material tension
         ↓
+EDITORIAL STORYTELLER + DISCOVERABILITY REVIEW
+selects story route or explicit no-story route; records durable search/proof opportunities
+        ↓
 CANONICAL COMPOSER
 builds the Editorial Packet and newsletter candidate
         ↓
 ┌────────────────┬────────────────┬────────────────┐
-│ LINKEDIN       │ INSTAGRAM                         │ OTHER FORMAT   │
-│ renderer       │ storyteller → strategist → format │ renderer       │
-│ metapost       │ planner → visual → executor       │ video/slides...│
+│ LINKEDIN       │ INSTAGRAM                         │ PILOT FORMATS           │
+│ renderer       │ strategist → format planner       │ Medium / DEV.to /       │
+│ metapost       │ → visual → executor               │ YouTube native contract │
 └────────────────┴────────────────┴────────────────┘
         ↓
 SOURCE + VOICE + CHANNEL-FIT + RIGHTS EVALS
@@ -88,6 +91,9 @@ After publication, record:
 - what tokens were actually used;
 - what Kell rewrote or removed;
 - which gates fired;
+- whether story/no-story and discoverability decisions held up;
+- planned vs unplanned Kell interventions;
+- convergence/rework rounds when applicable;
 - effort/time if intentionally measured;
 - channel outcome metrics only when they are available and appropriately interpreted.
 

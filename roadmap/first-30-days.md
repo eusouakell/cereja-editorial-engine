@@ -1,6 +1,7 @@
 # Roadmap status and execution order
 
-Updated: 2026-10-01. Paid API benchmark execution remains deferred. Notion organization is a separate conversation.
+**Status: SUPERSEDED for current editorial execution.**  
+Historical snapshot updated 2026-10-01. Current operating sequence lives in [Company Marketing Plan V3](../growth/company-marketing-plan-v3.md) and the [Q4 editorial calendar](../growth/editorial-calendar-2026-q4-pilot.md). Paid API benchmark execution remains deferred.
 
 | Stage | Evidence/status | Remaining |
 |---|---|---|

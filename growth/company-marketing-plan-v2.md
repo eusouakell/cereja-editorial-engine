@@ -1,7 +1,8 @@
 # Cereja Flamejante Company Marketing Plan V2
 
-Status: working company-level plan for Kell approval.  
-Date: 2026-10-04.
+Status: **SUPERSEDED** by [Company Marketing Plan V3](company-marketing-plan-v3.md).  
+Date: 2026-10-04.  
+Superseded: 2026-10-11.
 
 This plan sits **above** [Distribuição e crescimento da Cereja Flamejante](distribution-plan.md), which remains the operating plan for the current editorial property.
 

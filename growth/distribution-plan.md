@@ -1,72 +1,168 @@
 # Distribuição e crescimento da Cereja Flamejante
 
-> **Escopo:** este documento é o plano operacional da propriedade editorial **Cereja Flamejante**. Ele não substitui a estratégia de marketing da empresa Cereja Flamejante nem o sistema de autoridade pessoal de Kell. Ver [Company Marketing Plan V2](company-marketing-plan-v2.md) e [Marketing Plan Review V2](marketing-plan-review-v2.md).
+**Status:** OPERATING for Q4 2026 pilot  
+**Strategy:** [Company Marketing Plan V3](company-marketing-plan-v3.md)  
+**Calendar:** [Q4 editorial pilot](editorial-calendar-2026-q4-pilot.md)  
+**Review date:** 2026-12-07
 
+This is the property-level operating plan. Company objectives and OKRs live in Marketing Plan V3.
 
-Proposta para revisão de Kell, 4 de outubro de 2026. Operação assistida, sem mídia paga nesta fase. Não há resultados ou metas numéricas inventados.
+## Reader / authority paths
 
-## Objetivo e público
-Atrair pessoas que gostam de descobrir cultura e tecnologia pela curadoria de Kell, converter interesse em assinatura e dar motivos para voltar. Hipóteses de público: curiosos de cultura pop e inovação; profissionais de marketing e conhecimento; leitores que procuram livros e séries fora do radar. Validar por respostas e comportamento, sem transformar tags de voz em segmentos comprovados.
+There is no single linear funnel.
 
-## Caminho do leitor
-Descoberta em Instagram, LinkedIn e Substack Notes → conteúdo útil completo no canal → edição ou página de apresentação → assinatura voluntária → leitura e conversa → indicação a outra pessoa.
-O site é cartão de visitas da newsletter; GitHub guarda sistema e evidência, não é destino padrão de aquisição do leitor.
+### Editorial relationship
 
-For Instagram execution, use [Instagram strategy V1](instagram-strategy-v1.md), which separates verified ranking signals from creator benchmarks and defines the #31 pilot.
+```text
+DISCOVERY
+Instagram · Notes · search · Medium · YouTube
+      ↓
+SELF-CONTAINED VALUE
+      ↓
+NEWSLETTER / SITE / FOLLOW
+      ↓
+SUBSCRIBE / RETURN / REPLY / SHARE
+```
 
-## Papel dos canais
-| Canal | Entrega | Próxima ação | Medição disponível a conferir |
-|---|---|---|---|
-| Instagram | Revista visual: descoberta, comparação, indicação; Reels com narrativa e materiais autorizados | Edição no link da bio ou Stories; convite claro para assinar | Alcance, compartilhamentos, salvamentos, visitas ao perfil, cliques quando disponíveis |
-| Stories | Bastidores, enquete ligada à pauta, links e respostas | Ler ou responder | Toques no link e respostas, conforme painel |
-| LinkedIn de Kell | Texto autossuficiente sobre um objeto e uma observação, preservando repertório | Ler a edição ou conversar | Impressões, cliques e comentários conforme painel |
-| Substack Notes | Uma descoberta ou comentário com razão para abrir a edição | Ler e seguir a publicação; distinguir seguir de assinar | Origem de assinaturas quando registrada |
-| Newsletter | Curadoria completa, links e convite específico à conversa | Responder, continuar lendo, indicar | Assinaturas líquidas, cliques, respostas e cancelamentos |
-| Site | Proposta, amostra e CTA “Assinar Newsletter” | Assinar no Substack | Cliques se instrumentados; não presumir rastreamento existente |
+### Professional authority
 
-## Cadência experimental por edição
-D é o dia da edição aprovada. Datas reais dependem de Kell.
-- D–2: registrar baseline agregado, fechar packet, checar fontes e direitos, testar links e preparar peças.
-- D: newsletter; Stories com link; Note com uma descoberta. Não publicar todos os formatos juntos por obrigação.
-- D+1: carrossel autossuficiente de uma descoberta; convite para leitura completa.
-- D+3: metapost no LinkedIn, adaptado ao contexto do canal.
-- D+5: Reel apenas se material e áudio estiverem liberados; caso contrário, peça visual própria.
-- D+7: retomar uma resposta ou pergunta com consentimento quando houver relato de terceiro.
-- D+14: revisão do ciclo, escolha do que repetir, ajustar ou interromper. Não reativar edição inteira como novidade.
+```text
+LinkedIn · YouTube · DEV.to · GitHub · search
+      ↓
+PUBLIC PROOF / INTERPRETATION
+      ↓
+PORTFOLIO / SPEAKING / PROJECT EVIDENCE
+      ↓
+QUALIFIED CONVERSATION / INVITATION
+```
 
-## Primeiro ciclo: hipóteses para a #31
+One artifact may support both paths, but its primary job must be explicit.
 
-Execution checklist: [#031 Instagram cycle](cycles/031-instagram.md).
-| Experimento | Peça candidata | Hipótese | Evidência e decisão |
-|---|---|---|---|
-| Curiosidade cultural | Carrie também virou musical | Descoberta inesperada motiva leitura | Registrar cliques, respostas e assinaturas atribuídas quando disponíveis |
-| Indicação útil | Imagens estranhas e Desenhos ocultos | Recomendação com motivo gera salvamentos e compartilhamentos | Comparar com histórico do próprio canal; não comparar contagens brutas entre formatos |
-| Conteúdo expandido | Figurinos de Freddie, performance e autores das roupas | Tema visual oferece valor além do resumo da edição | Direitos pendentes; publicar só após liberação |
-| Curiosidade científica | Água antiga em Marte e a pergunta das batatas | Explicação acessível atrai público de ciência/pop | Não anunciar descoberta de água utilizável ou vida |
+## Channel jobs
 
-Escolher peças após aprovação da newsletter. Não prometer postagem de todas.
+| Channel | Primary job | Status |
+|---|---|---|
+| Newsletter/Substack | richest recurring depth + owned relationship | OPERATING |
+| Instagram | visual editorial discovery | OPERATING |
+| Stories | research desk / relationship / continuation | OPERATING |
+| Substack Notes | short discovery | OPERATING |
+| Kell LinkedIn | professional authority / interpretation | OPERATING |
+| GitHub | inspectable proof / methods / systems | OPERATING |
+| Site | entry point + archive + subscription/company navigation | OPERATING |
+| Medium | durable essay / synthesis | PILOT |
+| DEV.to | technical build/method proof | PILOT |
+| YouTube | spoken explanation/demo + speaking proof | PILOT |
+| Reels | motion/audio-native explanation | OPTIONAL |
+| Shorts | native short only when justified | OPEN |
 
-## Captação e relacionamento
-Manter apresentação e CTA coerentes em bio, site, destaques e publicação. Os destaques “Comece”, “Edições”, “Repertório”, “Bastidores” e “Kell” recebem Stories reais, não capas vazias.
-Investigar publicações afins para recomendações genuínas no Substack, sem troca obrigatória. Preparar lista com razão de afinidade; mensagens e alterações de recomendações exigem instrução específica de Kell.
-Revisar mensagem de boas-vindas com uma amostra do arquivo e convite para resposta. Não importar contatos, comprar listas ou enviar DMs em massa.
-Não abrir novos canais só para aumentar volume antes de avaliar Instagram, LinkedIn e Substack.
+## Reuse contract
 
-## Medição sem atribuição fictícia
-Antes do ciclo, registrar data, total agregado de assinantes, seguidores por canal e disponibilidade das métricas. Baseline ainda não coletado.
-UTMs identificam links: utm_source=instagram|linkedin|substack, utm_medium=social|stories|note, utm_campaign=cereja_031, utm_content=identificador_da_peca.
-Testar destino e preservação dos parâmetros. UTMs não garantem atribuição de assinatura no Substack. Usar a origem efetivamente registrada no painel; manter “desconhecida” quando necessário.
-Assinaturas líquidas = novas assinaturas – cancelamentos na mesma janela. Não chamar seguidor de assinante.
-Calcular conversão somente com numerador/denominador compatíveis e janela explícita. Contagens pequenas são descritivas; não declarar significância ou causalidade.
-Taxa de abertura é sinal auxiliar; revisar cliques, respostas e permanência. Exportar somente agregados para relatórios públicos, sem emails ou dados individuais.
+Do not use:
 
-## Gates
-Kell aprova texto, artes, calendário, envio e publicação. Direitos incluem foto, vídeo, música, citações e adaptações. Conteúdo deve oferecer valor no canal antes do CTA. Sem clickbait, promessa falsa, sofrimento como gancho ou alegações pessoais inventadas.
-Growth Planner recebe packet aprovado, contratos de canal, restrições e métricas agregadas. Renderers compõem; Rights Reviewer revisa; Archivist registra resultado. Sem autonomia para gastar, publicar, enviar mensagens ou ampliar acessos.
+```text
+newsletter
+→ cut paragraph
+→ LinkedIn
+→ shorter cut
+→ Instagram
+```
 
-## Referências consultadas
-- [Métricas e origens no Substack](https://support.substack.com/hc/en-us/articles/5320347155860-A-guide-to-Substack-metrics)
-- [Recomendações no Substack](https://support.substack.com/hc/en-us/articles/5036794583828-How-can-I-recommend-other-publications-on-Substack)
-- [Guardrail de mídia](../guards/media-rights.md)
+Use:
 
-As capacidades dos painéis precisam ser verificadas na conta antes da execução. Este documento propõe estratégia; não relata campanha executada.
+```text
+EDITORIAL PACKET
+      ↓
+CONTENT TOKENS
+ ↙      ↓      ↘
+native compositions by channel
+```
+
+Each output may emphasize different tokens and omit irrelevant material. It may not invent evidence, widen claim scope, create Kell's opinion or bypass publication authority.
+
+## Cadence by edition
+
+D = approved newsletter publication date.
+
+- **D-2** — close packet; sources; rights; story/discoverability decision; baseline/links.
+- **D** — newsletter + launch Stories + one Substack Note when useful.
+- **D+1** — Instagram flagship when a strong visual object passes channel fit.
+- **D+3** — LinkedIn metapost / authority interpretation.
+- **D+5** — audiovisual selection slot. YouTube/Reel only if medium adds value and capacity gate passes.
+- **D+7** — expansion slot. Medium or DEV.to only when the packet contains a distinct durable/technical job.
+- **D+14** — learn-back + next cycle.
+
+D+5 and D+7 are **selection slots, not publication quotas**.
+
+Exact Q4 dates and themes: [editorial calendar](editorial-calendar-2026-q4-pilot.md).
+
+## Narrative + discoverability preflight
+
+Before selecting a channel:
+
+### Narrative
+- Is there a story route?
+- If yes, what are tension/stakes/concrete material/turn/meaning?
+- If no, which non-story form is stronger?
+
+Use [Narrative Craft & Oral Storytelling](../guides/narrative-craft.md).
+
+### Discoverability
+Record:
+- likely durable search question/entity;
+- timely vs evergreen life;
+- canonical destination when applicable;
+- public proof worth linking.
+
+Do not let SEO create a thesis or flatten voice.
+
+## Measurement
+
+### Owned audience
+- net subscribers = new - cancellations in the same explicit window;
+- replies/conversations;
+- return/depth where measurable;
+- source/referral visibility;
+- clicks with attribution limits documented.
+
+### Channel diagnostics
+Use comparable rates where available:
+- sends/shares per reach;
+- saves per reach as secondary signal;
+- watch time for video;
+- profile/site actions;
+- substantive comments/replies.
+
+Do not compare raw likes, views and newsletter opens as if they were the same outcome.
+
+### Authority
+Record:
+- speaking/media invitations;
+- collaborations;
+- qualified professional/commercial inbound;
+- citations/references;
+- proof reused in portfolio/speaker contexts.
+
+### Production health
+Record:
+- planned/unplanned Kell interventions;
+- convergence/rework rounds;
+- repeated blockers;
+- human effort when intentionally measured;
+- outputs cancelled for weak channel fit.
+
+## Relationship / acquisition boundaries
+
+- no purchased lists;
+- no unsolicited mass DMs;
+- no automatic outreach;
+- no paid media until measurement + organic evidence gates pass;
+- recommendations/partnerships require genuine fit;
+- publication remains human-approved.
+
+## Pilot decision
+
+On 2026-12-07 classify Medium, DEV.to, YouTube and Story Craft as:
+
+`KEEP / ADJUST / STOP / NEED MORE EVIDENCE`
+
+Use both outcome value and human effort.

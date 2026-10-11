@@ -60,6 +60,9 @@ CONTENT TOKENS
 ┌────────────────┬────────────────┬────────────────┬──────────────┐
 │ NEWSLETTER     │ LINKEDIN       │ INSTAGRAM      │ STORIES      │
 │ quinzenal      │ metapost       │ visual magazine│ research desk│
+├────────────────┼────────────────┼────────────────┼──────────────┤
+│ MEDIUM PILOT   │ DEV.TO PILOT   │ YOUTUBE PILOT  │ GITHUB       │
+│ durable essay  │ build/method   │ spoken/demo    │ proof/system │
 └────────────────┴────────────────┴────────────────┴──────────────┘
       ↓
 CHANNEL-SPECIFIC EVALS
@@ -101,6 +104,9 @@ Current format contracts include:
 - [Instagram visual magazine](formats/instagram/revista-visual.md);
 - [Instagram Specialist Pipeline V0](guides/instagram-specialist-pipeline-v0.md) — história → objetivo/formato → planner → direção visual → preflight → execução;
 - [Stories research desk](formats/stories/research-desk.md);
+- [Medium durable essay](formats/medium/essay.md) — pilot;
+- [DEV.to technical/build article](formats/devto/technical-article.md) — pilot;
+- [YouTube spoken explainer/demo](formats/youtube/video.md) — pilot;
 - [Channel production specs](formats/production/README.md) — dimensions, aspect ratios, safe areas, export types and technical prerequisites.
 
 Each renderer should receive the **minimum sufficient authoritative context** for its job, not the entire research corpus.
@@ -135,17 +141,19 @@ This check proves contract structure only. It does not score editorial quality.
 
 ## Current validation loop
 
-The next useful proof is not more architecture.
+The current proof is the **Q4 2026 editorial pilot**: four newsletter-led cycles with explicit OKRs, Narrative Craft, discoverability, pilot long-form/video formats and human-attention instrumentation.
 
-It is a real returning edition of Cereja, followed by channel-native derivatives, with human edits and gate outcomes recorded as evidence.
-
-That cycle should tell us:
+The system should tell us:
 
 - where the packet is insufficient;
-- which context agents incorrectly guess;
+- whether story craft improves the work or becomes formula;
+- which discoverability opportunities compound beyond feed distribution;
 - what Kell consistently changes;
-- which format rules are stable enough to become skills;
+- which pilot formats have distinct value;
+- where specialists resolve issues internally vs require human intervention;
 - where the system creates overhead without value.
+
+See [Marketing Plan V3](growth/company-marketing-plan-v3.md) and the [Q4 editorial calendar](growth/editorial-calendar-2026-q4-pilot.md).
 
 ## Start here
 
@@ -160,6 +168,10 @@ That cycle should tell us:
 - [Editorial gates](gates/editorial-gates.md)
 - [Channel-fit evaluation](evals/channel-fit.md)
 - [Editorial workflow roles — local](agents/registry.md)
+- [Narrative Craft & Oral Storytelling](guides/narrative-craft.md)
+- [Company Marketing Plan V3 + OKRs](growth/company-marketing-plan-v3.md)
+- [Q4 editorial pilot calendar](growth/editorial-calendar-2026-q4-pilot.md)
+- [Decision records](docs/decisions/README.md)
 - [Roadmap](roadmap/first-30-days.md)
 
 ## Evidence status
@@ -172,7 +184,7 @@ Canonical knowledge, public evidence and Flame live in [Cereja Knowledge System]
 
 ## Distribution and reader growth
 
-Start with the [organic distribution plan](growth/distribution-plan.md) and [Audience & Growth Planner contract](agents/contracts/audience-growth-planner.md). Baselines, experiments and human publication gates remain explicit; these documents do not claim growth already achieved.
+Start with [Company Marketing Plan V3](growth/company-marketing-plan-v3.md), the [Q4 editorial calendar](growth/editorial-calendar-2026-q4-pilot.md), the [distribution plan](growth/distribution-plan.md) and the [Audience & Growth Planner contract](agents/contracts/audience-growth-planner.md). Baselines, experiments and human publication gates remain explicit; these documents do not claim growth already achieved.
 
 See the [media rights guard](guards/media-rights.md) before using photographs, audio, video or quotations in any channel.
 
