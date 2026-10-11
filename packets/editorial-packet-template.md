@@ -1,6 +1,6 @@
 # Editorial Packet template
 
-Status: **proposed working contract**.
+Status: **OPERATING contract**.
 
 The Editorial Packet is the shared canonical object for one editorial cycle. It is not the final newsletter draft.
 
