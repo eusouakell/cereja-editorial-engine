@@ -1,11 +1,13 @@
+> **Estado vigente:** pesquisa/curadoria após correção de Kell. A tese aprovada permanece; seleção, estrutura e composições anteriores precisam de revisão. [Briefing corrigido](../growth/cycles/032-editorial-brief-v2.md). Nenhum token é aprovado automaticamente pela aprovação da tese.
+
 # EP-032 — Context Engineering não é escrever um prompt melhor
 
-Preparado em 2026-10-11. Estado: tese aprovada por Kell em 2026-10-11; liberado para composição, publicação pendente.
+Preparado em 2026-10-11. Estado: tese aprovada; curadoria/estrutura rejeitadas por Kell em 11/10. Retomada em pesquisa e briefing, sem prontidão para composição/publicação.
 Tema aprovado na issue #37. A tese foi proposta pelo assistente e aprovada por Kell nesta conversa. Aprovação não altera a proveniência de autoria.
 
 ```yaml
 id: EP-032
-status: ready-for-composition
+status: draft-curation-revision
 intent:
   question: "Que informação, decisão e evidência precisam acompanhar um trabalho de IA para que ele continue sem depender da memória de um chat?"
   why_now: "O ciclo #31 deixou artefatos concretos de revisão; o piloto V3 inicia em 12/10."
@@ -33,7 +35,7 @@ evidence:
     - "Fontes externas conferidas em 11/10; revalidar alegações materiais até o fechamento em 17/10."
 tokens:
   candidate_ids: [TK-032-QUESTION, TK-032-CASE, TK-032-CONTEXT, TK-032-COUNTERPOINT, TK-032-PRACTICE]
-  approved_for_composition: [TK-032-QUESTION, TK-032-CASE, TK-032-CONTEXT, TK-032-COUNTERPOINT, TK-032-PRACTICE]
+  approved_for_composition: []
 story:
   route_selected: "weekly-dashboard-account-plus-documentary-case"
   why_story_or_not: "Uma sequência de artefatos mostra mudanças concretas; não há base para fabricar uma cena pessoal ou atribuir causalidade."
@@ -74,7 +76,7 @@ constraints:
   channel_specific:
     - "Pilotos DEV.to e YouTube dependem de substância e capacidade; nenhuma entrega adicional é quota."
 human_decisions:
-  pending: []
+  pending: ["Reconstruir curadoria e briefing por editoria antes de compor; revisão final de Kell continua pendente."]
   approved_by: Kell
   approved_at: "2026-10-11"
 ```
@@ -170,3 +172,8 @@ Kell autorizou executar o fluxo em 11/10, após aprovar a tese e fornecer o rela
 - Post Dot/Meta sem fonte permanece fora da composição factual.
 
 Aprovação do packet vale para composição. A redação final, mídias, indicação de produto e publicação mantêm os gates descritos na revisão; não estão aprovadas por este estado ready-for-composition.
+
+
+## Correção após revisão de Kell — 11/10
+
+O estado ready-for-composition anterior foi retirado. A aprovação da tese não autoriza automaticamente todos os tokens: SYSTEM-SPEC exige seleção e controles próprios. O relato da autora é semente; pesquisa deve procurar descobertas fora dele. O briefing v2 substitui o percurso/seleção acima para a retomada. Rascunhos no PR #39 são históricos em revisão, não outputs prontos. Não reaplicar o parecer anterior de prontidão.
