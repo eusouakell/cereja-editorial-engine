@@ -1,6 +1,6 @@
 # Multiformat channel-fit evaluation
 
-Status: proposed review criteria.
+Status: **OPERATING review criteria**.
 
 Channel-fit evaluation sits **after factual/evidence checks**. A well-adapted format cannot rescue an unsupported claim.
 
