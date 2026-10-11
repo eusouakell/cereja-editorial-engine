@@ -9,6 +9,18 @@ The canonical control and registry model lives in [eusouakell/agentic-factory](h
 | Sensors | Observe run behavior and outcomes | `sensors/`, `metrics/`, routed-run manifests |
 | Checks | Deterministic pass/fail rules | `checks/`, CI, structural packet validation |
 
+## Cross-repository governance
+
+Cereja owns editorial truth. Reusable orchestration, authority and convergence rules remain in Agentic Factory.
+
+- shared cross-repository decisions: Agentic Factory ADRs;
+- Cereja-specific strategic/editorial decisions: `docs/decisions/`;
+- implementation: PRs link both layers;
+- routine specialist disagreement should follow the Factory internal convergence path before human escalation when that mode is available;
+- publication authority remains human.
+
+Current shared governance work: https://github.com/eusouakell/agentic-factory/pull/37
+
 ## Downstream controls
 
 **Semantic evals** handle qualities that cannot be proven mechanically, such as channel fit.
