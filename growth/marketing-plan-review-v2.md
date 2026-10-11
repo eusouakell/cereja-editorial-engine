@@ -1,7 +1,8 @@
 # Marketing Plan Review V2
 
-Status: **A0 manual specialist review** for Kell approval.  
-Date: 2026-10-04.
+Status: **SUPERSEDED** by [Marketing + Editorial Review V3](marketing-plan-review-v3-agentic.md).  
+Date: 2026-10-04.  
+Superseded: 2026-10-11.
 
 Primary contract used: [Audience & Growth Planner](../agents/contracts/audience-growth-planner.md).  
 Secondary lens: Agentic Factory **Discoverability Architect** contract.
