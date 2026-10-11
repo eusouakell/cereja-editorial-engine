@@ -1,6 +1,8 @@
+> **Estado vigente após revisão de Kell — 11/10:** pesquisa/curadoria. Rascunhos v1 e parecer de prontidão retirados. Retomar pelo [briefing corrigido](032-editorial-brief-v2.md); os registros de composição abaixo são histórico, não aprovação vigente.
+
 # Ciclo #32 — execução e baseline
 
-Atualizado em 2026-10-11. Estado: tese aprovada; rascunhos e revisão entregues. Nenhuma publicação/agendamento.
+Atualizado em 2026-10-11. Estado: tese aprovada; curadoria e execução das editorias em revisão. Nenhuma publicação/agendamento.
 Packet: [EP-032](../../packets/EP-032-context-engineering.md). Issue de execução: [#37](https://github.com/eusouakell/cereja-editorial-engine/issues/37).
 
 ## Estado e dependências
@@ -74,7 +76,7 @@ Para cada intervenção futura, registrar: planejada/inesperada, etapa, motivo, 
 
 ## Handoff imediato
 
-1. Kell revisa drafts/032.md e as pendências de growth/cycles/032-brief-and-review.md; tese já aprovada.
+1. Executar pesquisa, seleção e briefing por editoria a partir de 032-editorial-brief-v2.md; a tese já aprovada permanece. Não pedir nova aprovação antes de concretizar a correção.
 2. Capturar baseline disponível antes do lançamento; continuar pesquisa/composição sem inventar valores faltantes.
 3. Desvios selecionados do relato: Lanternas e Provas não revisadas. Confirmar temporalidade e identidade de Instinct antes de fechar.
 4. Newsletter, LinkedIn, Note e Stories compostos; revisar voz/redação final com Kell.
@@ -89,3 +91,8 @@ Para cada intervenção futura, registrar: planejada/inesperada, etapa, motivo, 
 - [Briefing e revisão](032-brief-and-review.md)
 
 Abertura usa dashboard do relato autoral. Estimativas não são apresentadas como economia realizada. Post sobre assistentes fofos excluído até localizar fonte. Publicação permanece pendente; baseline não coletado. Revisão feita pelo assistente autor, sem alegar painel independente.
+
+
+## Retrabalho registrado
+
+Intervenção de Kell não planejada: estrutura e fluxo errados; depoimento usado como cobertura em vez de semente. Causa na seleção/curadoria e uso incompleto dos contratos de editorias. Correção: auditoria nos três repos, pesquisa ampliada, briefing v2, retirada de prontidão de packet/textos. Tempos e total de rounds não medidos. Baseline de audiência permanece não coletado. Gates técnicos não são parecer editorial.
