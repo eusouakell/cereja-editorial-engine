@@ -1,3 +1,5 @@
+> **REVISÃO NECESSÁRIA — 11/10/2026.** Kell rejeitou a estrutura/execução editorial desta versão. Este conteúdo permanece como histórico de rascunho e não está pronto para revisão final, distribuição ou publicação. A autoavaliação de prontidão abaixo foi retirada. A fonte atual de retomada é [briefing corrigido](032-editorial-brief-v2.md). O depoimento é semente para pesquisa/costura dentro das editorias, não o sumário da edição.
+
 # #032 — briefing de autoria e revisão
 
 11/10/2026. Tese aprovada explicitamente por Kell. Relato da semana fornecido na mesma conversa; rascunhos preparados pelo assistente e ainda sujeitos à revisão de voz/publicação.
