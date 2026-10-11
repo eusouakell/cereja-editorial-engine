@@ -1,3 +1,5 @@
+> **REVISÃO NECESSÁRIA — 11/10/2026.** Kell rejeitou a estrutura/execução editorial desta versão. Este conteúdo permanece como histórico de rascunho e não está pronto para revisão final, distribuição ou publicação. A autoavaliação de prontidão abaixo foi retirada. A fonte atual de retomada é [briefing corrigido](032-editorial-brief-v2.md). O depoimento é semente para pesquisa/costura dentro das editorias, não o sumário da edição.
+
 # #032 — composições por canal
 
 Estado: rascunhos para revisão de Kell. Tese aprovada; publicação não autorizada. Texto gerado a partir do relato de Kell, sem atribuir a ela a redação integral.
