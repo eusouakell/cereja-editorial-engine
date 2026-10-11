@@ -35,7 +35,7 @@ tokens:
   candidate_ids: [TK-032-QUESTION, TK-032-CASE, TK-032-CONTEXT, TK-032-COUNTERPOINT, TK-032-PRACTICE]
   approved_for_composition: [TK-032-QUESTION, TK-032-CASE, TK-032-CONTEXT, TK-032-COUNTERPOINT, TK-032-PRACTICE]
 story:
-  route_selected: "documentary-case-proposed"
+  route_selected: "weekly-dashboard-account-plus-documentary-case"
   why_story_or_not: "Uma sequência de artefatos mostra mudanças concretas; não há base para fabricar uma cena pessoal ou atribuir causalidade."
   tension: "O próximo executor sabe qual decisão vale e qual material é apenas hipótese?"
   stakes: "Reabrir decisões, publicar além da evidência ou transferir coordenação rotineira à autora."
@@ -44,7 +44,7 @@ story:
   turn: "A revisão registra sequência, escopo factual, tratamento de mídia e pendência humana em um objeto recuperável."
   meaning: "Contexto inclui estado e limites do trabalho; a utilidade deve ser testada, não presumida."
   situated_voice_note: "Caso do sistema editorial da Cereja; não generalizar como prova universal."
-  oral_test_note: "Pendente na composição; explicar por um artefato antes de nomear a arquitetura."
+  oral_test_note: "Revisão textual de ritmo no rascunho; sem áudio ou parecer humano de voz."
 discoverability:
   durable_question: "O que é Context Engineering e como organizar contexto para agentes de IA?"
   entities_terms: ["Context Engineering", "engenharia de contexto", "agentes de IA", "proveniência", "memória", "avaliação"]
@@ -79,9 +79,9 @@ human_decisions:
   approved_at: "2026-10-11"
 ```
 
-## Proposta editorial para o gate de tese
+## Tese e proveniência
 
-**TH-032-PROPOSED:** Em trabalhos com IA que atravessam várias etapas, preparar contexto significa decidir quais evidências, instruções, decisões vigentes e limites cada etapa recebe, além de registrar o que mudou para a próxima. A qualidade dessa preparação precisa ser avaliada no trabalho concreto.
+**TH-032-PROPOSED — aprovada por Kell em 11/10:** Em trabalhos com IA que atravessam várias etapas, preparar contexto significa decidir quais evidências, instruções, decisões vigentes e limites cada etapa recebe, além de registrar o que mudou para a próxima. A qualidade dessa preparação precisa ser avaliada no trabalho concreto.
 
 Não afirmar que prompt engineering morreu, que modelos fortes dispensam instruções claras ou que uma arquitetura com muitos agentes é necessária. Governança e gates são escolhas do sistema Cereja; não apresentá-los como definição universal do termo.
 
@@ -140,7 +140,7 @@ Revisão feita pelo mesmo assistente que preparou o packet, por critérios; não
 
 - Evidência: claims materiais ligados às fontes; causalidade e ganhos de qualidade retirados.
 - Contraponto: tarefa simples e custo de complexidade preservados.
-- Autoria: tese proposta identificada; primeira pessoa de Kell não redigida.
+- Autoria: tese proposta aprovada; composição posterior usa apenas experiências documentadas no relato da semana.
 - Narrativa: documentos concretos disponíveis; arco de sucesso não demonstrado.
 - Discoverability: termos candidatos, sem volume de busca ou trend claim inventado.
 - Direitos: nenhum ativo de terceiros copiado; novos ativos seguem gate próprio.
@@ -154,4 +154,19 @@ Revisão feita pelo mesmo assistente que preparou o packet, por critérios; não
 - [Voz em Núcleo](https://github.com/eusouakell/cereja-knowledge-system/blob/main/editorial/voice-and-tone.md)
 - [Plano de execução e baseline](../growth/cycles/032-context-engineering.md)
 
-Aprovação: Kell respondeu “sim” à tese resumida nesta conversa em 11/10/2026. Escopo: tese e composição; não publicação. Próximo passo: incorporar o gancho real da semana oferecido por Kell ao briefing, preservar suas palavras e compor nativamente. Não inventar a experiência enquanto o relato não chega.
+Aprovação: Kell respondeu “sim” à tese resumida nesta conversa em 11/10/2026. Escopo: tese e composição; não publicação. Relato recebido e composição preparada. Ver briefing/revisão e rascunhos abaixo.
+
+
+## Composição após relato autoral
+
+Kell autorizou executar o fluxo em 11/10, após aprovar a tese e fornecer o relato da semana.
+
+- Fonte autoral selecionada e checagem: [briefing e revisão](../growth/cycles/032-brief-and-review.md).
+- Newsletter: [drafts/032.md](../drafts/032.md).
+- Peças próprias e pilotos condicionais: [composições por canal](../growth/cycles/032-channel-drafts.md).
+- Dashboard é relato de construção; nenhuma captura/fórmula foi inspecionada.
+- Lanternas substitui Carrie como bloco de séries. Não há spoilers no rascunho.
+- Instinct é teste relatado por Kell; identidade do domínio localizada permanece para confirmação antes da publicação.
+- Post Dot/Meta sem fonte permanece fora da composição factual.
+
+Aprovação do packet vale para composição. A redação final, mídias, indicação de produto e publicação mantêm os gates descritos na revisão; não estão aprovadas por este estado ready-for-composition.
