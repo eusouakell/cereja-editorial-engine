@@ -1,13 +1,15 @@
+> **Estado vigente após revisão de Kell — 11/10:** pesquisa/curadoria. Rascunhos v1 e parecer de prontidão retirados. Retomar pelo [briefing corrigido](032-editorial-brief-v2.md); os registros de composição abaixo são histórico, não aprovação vigente.
+
 # Ciclo #32 — execução e baseline
 
-Atualizado em 2026-10-11. Estado: preparação entregue para gate de tese; nenhuma publicação/agendamento.
+Atualizado em 2026-10-11. Estado: tese aprovada; curadoria e execução das editorias em revisão. Nenhuma publicação/agendamento.
 Packet: [EP-032](../../packets/EP-032-context-engineering.md). Issue de execução: [#37](https://github.com/eusouakell/cereja-editorial-engine/issues/37).
 
 ## Estado e dependências
 
 Cereja PR #35 e Factory PR #37 foram mergeados em 11/10/2026; Factory #36 já estava mergeado. A estratégia V3 e a governança compartilhada estão disponíveis em main. Esta preparação aplica os ADRs existentes; não cria decisão transversal nem altera Bússola.
 
-O tema aprovado é “Context Engineering não é escrever um prompt melhor”. A tese formulada no packet é proposta e depende da aprovação de Kell. O título é de trabalho; a redação final deve evitar repetir títulos e frases por oposição.
+O tema aprovado é “Context Engineering não é escrever um prompt melhor”. Kell aprovou a tese resumida no packet em 11/10 e autorizou executar a composição após fornecer o relato da semana. O título é de trabalho; a redação final deve evitar repetir títulos e frases por oposição.
 
 ## Agenda de produção — BRT
 
@@ -29,11 +31,11 @@ Se a tese não fechar no prazo, registrar o desvio e ajustar o lançamento. Não
 
 | Canal | Job e proposta nativa | Tokens | Decisão atual |
 |---|---|---|---|
-| Newsletter | Percurso de descoberta: retomar trabalho, examinar artefato, explicar contexto, desafiar complexidade | QUESTION, CASE, CONTEXT, COUNTERPOINT | Prioritário após gate; não redigida |
-| Note | Uma pergunta útil sobre o contexto necessário para continuar uma tarefa + link quando existir | QUESTION, PRACTICE | Planejada; URL de edição ainda não disponível |
-| Stories | Objeto da pesquisa, uma pendência/descoberta real e link da edição | CASE, QUESTION | Planejados após composição; sem screenshots privados |
+| Newsletter | Percurso de descoberta: retomar trabalho, examinar artefato, explicar contexto, desafiar complexidade | QUESTION, CASE, CONTEXT, COUNTERPOINT | Rascunho em drafts/032.md |
+| Note | Uma pergunta útil sobre o contexto necessário para continuar uma tarefa + link quando existir | QUESTION, PRACTICE | Texto composto; URL de edição ainda não disponível |
+| Stories | Objeto da pesquisa, uma pendência/descoberta real e link da edição | CASE, QUESTION | Textos compostos; sem screenshots privados |
 | Instagram | Comparar dois handoffs ilustrativos da mesma tarefa: material solto e estado com fonte/decisão/pendência | CASE, CONTEXT, PRACTICE | Candidato; exemplo deve ser marcado como ilustrativo, não teste A/B |
-| LinkedIn | Consequência organizacional de decisões que só vivem em chats; mostrar um artefato recuperável | CASE, COUNTERPOINT, PRACTICE | Planejado para composição própria |
+| LinkedIn | Consequência organizacional de decisões que só vivem em chats; mostrar um artefato recuperável | CASE, COUNTERPOINT, PRACTICE | Texto próprio composto |
 | YouTube | Percorrer um handoff público e explicar o que o próximo executor precisa saber | CASE, CONTEXT | HOLD: sem capacidade/roteiro demonstrados; data é slot |
 | DEV.to | Implementar e validar um manifesto mínimo de contexto, mostrando limites de checks estruturais | CONTEXT, COUNTERPOINT, PRACTICE | HOLD: exemplo executável ainda precisa ser produzido e testado |
 | Medium | Não há job distinto necessário neste ciclo | — | Não selecionado |
@@ -65,7 +67,7 @@ Assinaturas líquidas: base final menos base inicial; registrar entradas e cance
 | 11/10: autorização “pode executar” | Início de preparação | Conversa atual; não equivale a aprovação da nova tese |
 | 11/10: recuperação de PRs/issues e artefatos #31 | Preparação interna | Fontes identificadas no packet |
 | 11/10: troca do arco de sucesso por caso documental | Revisão interna por critérios | Ganhos de qualidade/retrabalho não medidos |
-| Gate de tese/pergunta | Intervenção humana planejada | Pendente |
+| Gate de tese/pergunta | Intervenção humana planejada | Aprovado por Kell em 11/10 nesta conversa |
 | Revisão final/publicação | Intervenção humana planejada | Pendente |
 
 Tempos, número total de rounds e esforço de Kell: não medidos. Não registrar zero nem apresentar esta revisão do mesmo assistente como convergência independente de especialistas.
@@ -74,9 +76,23 @@ Para cada intervenção futura, registrar: planejada/inesperada, etapa, motivo, 
 
 ## Handoff imediato
 
-1. Kell aprova a tese proposta ou mantém a pergunta aberta no EP-032.
+1. Executar pesquisa, seleção e briefing por editoria a partir de 032-editorial-brief-v2.md; a tese já aprovada permanece. Não pedir nova aprovação antes de concretizar a correção.
 2. Capturar baseline disponível antes do lançamento; continuar pesquisa/composição sem inventar valores faltantes.
-3. Selecionar acervo mínimo para voz e um desvio editorial que acrescente assunto próprio.
-4. Compor e revisar newsletter/LinkedIn a partir dos tokens aprovados.
+3. Desvios selecionados do relato: Lanternas e Provas não revisadas. Confirmar temporalidade e identidade de Instinct antes de fechar.
+4. Newsletter, LinkedIn, Note e Stories compostos; revisar voz/redação final com Kell.
 5. Resolver fit/capacidade de Instagram, YouTube e DEV.to; cancelar slots sem valor distinto.
 6. Kell decide a publicação; registrar URLs e timestamps reais só depois.
+
+
+## Entrega de composição — 11/10
+
+- [Newsletter](../../drafts/032.md)
+- [Peças por canal](032-channel-drafts.md)
+- [Briefing e revisão](032-brief-and-review.md)
+
+Abertura usa dashboard do relato autoral. Estimativas não são apresentadas como economia realizada. Post sobre assistentes fofos excluído até localizar fonte. Publicação permanece pendente; baseline não coletado. Revisão feita pelo assistente autor, sem alegar painel independente.
+
+
+## Retrabalho registrado
+
+Intervenção de Kell não planejada: estrutura e fluxo errados; depoimento usado como cobertura em vez de semente. Causa na seleção/curadoria e uso incompleto dos contratos de editorias. Correção: auditoria nos três repos, pesquisa ampliada, briefing v2, retirada de prontidão de packet/textos. Tempos e total de rounds não medidos. Baseline de audiência permanece não coletado. Gates técnicos não são parecer editorial.

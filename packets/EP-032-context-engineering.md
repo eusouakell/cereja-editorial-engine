@@ -1,11 +1,13 @@
+> **Estado vigente:** pesquisa/curadoria após correção de Kell. A tese aprovada permanece; seleção, estrutura e composições anteriores precisam de revisão. [Briefing corrigido](../growth/cycles/032-editorial-brief-v2.md). Nenhum token é aprovado automaticamente pela aprovação da tese.
+
 # EP-032 — Context Engineering não é escrever um prompt melhor
 
-Preparado em 2026-10-11. Estado: pesquisa e plano para revisão editorial; não aprovado para composição/publicação.
-Tema aprovado na issue #37. A formulação abaixo é proposta do assistente, não uma fala ou opinião já aprovada de Kell.
+Preparado em 2026-10-11. Estado: tese aprovada; curadoria/estrutura rejeitadas por Kell em 11/10. Retomada em pesquisa e briefing, sem prontidão para composição/publicação.
+Tema aprovado na issue #37. A tese foi proposta pelo assistente e aprovada por Kell nesta conversa. Aprovação não altera a proveniência de autoria.
 
 ```yaml
 id: EP-032
-status: draft
+status: draft-curation-revision
 intent:
   question: "Que informação, decisão e evidência precisam acompanhar um trabalho de IA para que ele continue sem depender da memória de um chat?"
   why_now: "O ciclo #31 deixou artefatos concretos de revisão; o piloto V3 inicia em 12/10."
@@ -13,7 +15,7 @@ intent:
   publication_band: thought-leadership
 thesis:
   thesis_ids: [TH-032-PROPOSED]
-  approved_thesis: null
+  approved_thesis: "Trabalhos com IA precisam de contexto relevante, decisões vigentes e limites recuperáveis por etapa; a qualidade disso deve ser avaliada no trabalho concreto."
   open_question: "Como preparar contexto suficiente, atual e autorizado para cada etapa de um trabalho com IA?"
   counterpoint_required: true
 context:
@@ -35,7 +37,7 @@ tokens:
   candidate_ids: [TK-032-QUESTION, TK-032-CASE, TK-032-CONTEXT, TK-032-COUNTERPOINT, TK-032-PRACTICE]
   approved_for_composition: []
 story:
-  route_selected: "documentary-case-proposed"
+  route_selected: "weekly-dashboard-account-plus-documentary-case"
   why_story_or_not: "Uma sequência de artefatos mostra mudanças concretas; não há base para fabricar uma cena pessoal ou atribuir causalidade."
   tension: "O próximo executor sabe qual decisão vale e qual material é apenas hipótese?"
   stakes: "Reabrir decisões, publicar além da evidência ou transferir coordenação rotineira à autora."
@@ -44,7 +46,7 @@ story:
   turn: "A revisão registra sequência, escopo factual, tratamento de mídia e pendência humana em um objeto recuperável."
   meaning: "Contexto inclui estado e limites do trabalho; a utilidade deve ser testada, não presumida."
   situated_voice_note: "Caso do sistema editorial da Cereja; não generalizar como prova universal."
-  oral_test_note: "Pendente na composição; explicar por um artefato antes de nomear a arquitetura."
+  oral_test_note: "Revisão textual de ritmo no rascunho; sem áudio ou parecer humano de voz."
 discoverability:
   durable_question: "O que é Context Engineering e como organizar contexto para agentes de IA?"
   entities_terms: ["Context Engineering", "engenharia de contexto", "agentes de IA", "proveniência", "memória", "avaliação"]
@@ -74,14 +76,14 @@ constraints:
   channel_specific:
     - "Pilotos DEV.to e YouTube dependem de substância e capacidade; nenhuma entrega adicional é quota."
 human_decisions:
-  pending: ["Aprovar a tese proposta ou escolher manter a pergunta aberta antes da composição."]
-  approved_by: null
-  approved_at: null
+  pending: ["Reconstruir curadoria e briefing por editoria antes de compor; revisão final de Kell continua pendente."]
+  approved_by: Kell
+  approved_at: "2026-10-11"
 ```
 
-## Proposta editorial para o gate de tese
+## Tese e proveniência
 
-**TH-032-PROPOSED:** Em trabalhos com IA que atravessam várias etapas, preparar contexto significa decidir quais evidências, instruções, decisões vigentes e limites cada etapa recebe, além de registrar o que mudou para a próxima. A qualidade dessa preparação precisa ser avaliada no trabalho concreto.
+**TH-032-PROPOSED — aprovada por Kell em 11/10:** Em trabalhos com IA que atravessam várias etapas, preparar contexto significa decidir quais evidências, instruções, decisões vigentes e limites cada etapa recebe, além de registrar o que mudou para a próxima. A qualidade dessa preparação precisa ser avaliada no trabalho concreto.
 
 Não afirmar que prompt engineering morreu, que modelos fortes dispensam instruções claras ou que uma arquitetura com muitos agentes é necessária. Governança e gates são escolhas do sistema Cereja; não apresentá-los como definição universal do termo.
 
@@ -112,7 +114,7 @@ Não importar os números de Marte para esta pauta. Não usar o preflight de tok
 
 ## Tokens candidatos
 
-Todos em estado **proposed**, sem autorização de composição.
+Selecionados para composição sob a tese aprovada; publicação e redação final permanecem pendentes.
 
 | ID | Unidade e origem | Uso candidato |
 |---|---|---|
@@ -140,11 +142,11 @@ Revisão feita pelo mesmo assistente que preparou o packet, por critérios; não
 
 - Evidência: claims materiais ligados às fontes; causalidade e ganhos de qualidade retirados.
 - Contraponto: tarefa simples e custo de complexidade preservados.
-- Autoria: tese proposta identificada; primeira pessoa de Kell não redigida.
+- Autoria: tese proposta aprovada; composição posterior usa apenas experiências documentadas no relato da semana.
 - Narrativa: documentos concretos disponíveis; arco de sucesso não demonstrado.
 - Discoverability: termos candidatos, sem volume de busca ou trend claim inventado.
 - Direitos: nenhum ativo de terceiros copiado; novos ativos seguem gate próprio.
-- Estado: draft para aprovação de tese/pergunta; publicação não autorizada.
+- Estado: ready-for-composition após aprovação explícita de Kell; publicação não autorizada.
 
 ## Fontes canônicas e continuidade
 
@@ -154,4 +156,24 @@ Revisão feita pelo mesmo assistente que preparou o packet, por critérios; não
 - [Voz em Núcleo](https://github.com/eusouakell/cereja-knowledge-system/blob/main/editorial/voice-and-tone.md)
 - [Plano de execução e baseline](../growth/cycles/032-context-engineering.md)
 
-Próximo estado: após o gate humano de tese/pergunta, registrar aprovação com data, selecionar tokens e compor nativamente. Não avançar este packet para ready enquanto a decisão estiver pendente.
+Aprovação: Kell respondeu “sim” à tese resumida nesta conversa em 11/10/2026. Escopo: tese e composição; não publicação. Relato recebido e composição preparada. Ver briefing/revisão e rascunhos abaixo.
+
+
+## Composição após relato autoral
+
+Kell autorizou executar o fluxo em 11/10, após aprovar a tese e fornecer o relato da semana.
+
+- Fonte autoral selecionada e checagem: [briefing e revisão](../growth/cycles/032-brief-and-review.md).
+- Newsletter: [drafts/032.md](../drafts/032.md).
+- Peças próprias e pilotos condicionais: [composições por canal](../growth/cycles/032-channel-drafts.md).
+- Dashboard é relato de construção; nenhuma captura/fórmula foi inspecionada.
+- Lanternas substitui Carrie como bloco de séries. Não há spoilers no rascunho.
+- Instinct é teste relatado por Kell; identidade do domínio localizada permanece para confirmação antes da publicação.
+- Post Dot/Meta sem fonte permanece fora da composição factual.
+
+Aprovação do packet vale para composição. A redação final, mídias, indicação de produto e publicação mantêm os gates descritos na revisão; não estão aprovadas por este estado ready-for-composition.
+
+
+## Correção após revisão de Kell — 11/10
+
+O estado ready-for-composition anterior foi retirado. A aprovação da tese não autoriza automaticamente todos os tokens: SYSTEM-SPEC exige seleção e controles próprios. O relato da autora é semente; pesquisa deve procurar descobertas fora dele. O briefing v2 substitui o percurso/seleção acima para a retomada. Rascunhos no PR #39 são históricos em revisão, não outputs prontos. Não reaplicar o parecer anterior de prontidão.
