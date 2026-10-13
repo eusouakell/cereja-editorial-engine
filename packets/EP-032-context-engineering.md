@@ -1,12 +1,14 @@
-# EP-032 — composição candidata v2
+> **Estado vigente: v3 pronta para revisão final da autora no escopo textual.** Pesquisa, composição e revisão independente convergiram internamente. A tese aprovada permanece; publicação não autorizada. [V3](../drafts/032-v3.md) · [Pareceres e fontes](../growth/cycles/032-v3-orchestration-review.md).
 
-Atualizado em 13/10/2026 após a correção de curadoria do PR #39.
+# EP-032 — composição v3 para revisão final
+
+Atualizado em 13/10/2026 após recomposição e orquestração com revisão independente.
 **Estado: composição candidata e revisão textual entregues; publicação pendente.**
 Tese aprovada por Kell em 11/10. Seleção e redação v2 propostas pelo assistente em execução autorizada; não são automaticamente aprovações humanas.
 
 ```yaml
 id: EP-032
-status: composed-candidate-review
+status: v3-ready-for-author-review
 intent:
   question: "Que informação, decisão e evidência precisam acompanhar um trabalho de IA para que ele continue sem depender da memória de um chat?"
   why_now: "Relato autoral de 11/10, pesquisa complementar e piloto V3; envio alvo em 19/10 após revisão."
@@ -33,9 +35,9 @@ evidence:
   stale_or_revalidation_required:
     - "Claims externos consultados em 13/10; revalidar até 17/10 antes de fechar envio."
 tokens:
-  candidate_ids: [TK-DASHBOARD, TK-CONFLICT, TK-CONTEXT, TK-COUNTERPOINT, TK-AVATAR, TK-BOOK, TK-ICECUBE, TK-CARSON, TK-SERIES, TK-UPGRADE, TK-INSTINCT-USE, TK-TRY-SMALL]
+  candidate_ids: [TK-POKEMON, TK-MUSE, TK-WEBB, TK-CAIM, TK-JOHN-STEWART, TK-STORYGRAPH, TK-DASHBOARD, TK-CONFLICT, TK-CONTEXT, TK-COUNTERPOINT, TK-AVATAR, TK-BOOK, TK-ICECUBE, TK-CARSON, TK-SERIES, TK-UPGRADE, TK-INSTINCT-USE, TK-TRY-SMALL]
   approved_for_composition: []
-  selected_for_candidate_composition: [TK-DASHBOARD, TK-CONFLICT, TK-CONTEXT, TK-COUNTERPOINT, TK-AVATAR, TK-BOOK, TK-ICECUBE, TK-CARSON, TK-SERIES, TK-UPGRADE, TK-INSTINCT-USE, TK-TRY-SMALL]
+  selected_for_candidate_composition: [TK-POKEMON, TK-MUSE, TK-WEBB, TK-CAIM, TK-JOHN-STEWART, TK-STORYGRAPH, TK-DASHBOARD, TK-CONFLICT, TK-CONTEXT, TK-COUNTERPOINT, TK-AVATAR, TK-BOOK, TK-ICECUBE, TK-CARSON, TK-SERIES, TK-UPGRADE, TK-INSTINCT-USE, TK-TRY-SMALL]
   selection_authority: "Assistente, sob autorização de executar a recomposição; redação final segue revisão de Kell."
 story:
   route_selected: "author-entry-and-researched-discovery-with-independent-detour-and-radar"
@@ -75,7 +77,7 @@ constraints:
   channel_specific:
     - "Peças sociais selecionam unidades próprias, sem resumo em cascata."
 human_decisions:
-  pending: ["Revisar redação/seleção final e decidir publicação.", "Confirmar identidade do Instinct antes de link de indicação."]
+  pending: ["Revisão final de Kell e decisão de publicação."]
   approved_by: Kell
   approved_at: "2026-10-11"
   approval_scope: "Somente tese; não aprova tokens, textos v2 ou publicação."
@@ -96,3 +98,8 @@ Rascunhos v1 e seus pareceres permanecem históricos retirados de prontidão. Es
 
 Composição candidata entregue. Check estrutural no estágio draft não aprova qualidade editorial. O estágio ready/publicação não é alegado: há decisões humanas pendentes.
 Baseline ainda não coletado. Nenhuma distribuição, gravação, agendamento ou publicação realizada. A ausência de baseline deve ser registrada como não medido, nunca zero.
+
+
+## Substituição operacional pela v3
+
+A v3 e o registro de orquestração acima substituem o estado/seleção operacional v2. Todas as cinco editorias estão presentes. O título curatorial é proposto; a pauta/tese aprovada permanece como território do núcleo. Tokens e fontes novos estão discriminados no registro. O caminho público de Instinct foi conferido sem acesso à conta de Kell; não promete onboarding, preço ou disponibilidade universal. Direitos/render das mídias e publicação seguem gates próprios. Nenhuma aprovação editorial v2 foi reutilizada como parecer v3.
