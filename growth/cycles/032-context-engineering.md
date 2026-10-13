@@ -1,3 +1,17 @@
+# #032 — estado vigente após orquestração v3
+
+13/10/2026. **V3 pronta para revisão final de Kell no escopo textual.** Pesquisa, composição e revisão crítica executadas por subagentes separados; duas rodadas de ajustes resolvidas internamente, com parecer final editorial e factual APPROVE.
+
+- [Newsletter v3](../../drafts/032-v3.md)
+- [Orquestração, fontes, escolhas e pareceres](032-v3-orchestration-review.md)
+- [Packet](../../packets/EP-032-context-engineering.md)
+
+As cinco editorias foram recuperadas conforme a instrução atual da autora. Sua entrevista alimenta costura sem restringir cobertura. Peças sociais v2 não herdam os pareceres desta v3. Baseline não medido; sem render/export, gravação, merge, agendamento ou publicação. Kell mantém decisão final. O alvo de envio 19/10 06:45 BRT não é agendamento.
+
+---
+
+## Histórico anterior — não é prontidão vigente
+
 # #032 — estado de execução em 13/10/2026
 
 **Estado vigente: recomposição candidata v2 entregue para revisão de Kell.**
