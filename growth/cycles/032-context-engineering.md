@@ -1,3 +1,50 @@
+# #032 — estado vigente após orquestração v3
+
+13/10/2026. **V3 pronta para revisão final de Kell no escopo textual.** Pesquisa, composição e revisão crítica executadas por subagentes separados; duas rodadas de ajustes resolvidas internamente, com parecer final editorial e factual APPROVE.
+
+- [Newsletter v3](../../drafts/032-v3.md)
+- [Orquestração, fontes, escolhas e pareceres](032-v3-orchestration-review.md)
+- [Packet](../../packets/EP-032-context-engineering.md)
+
+As cinco editorias foram recuperadas conforme a instrução atual da autora. Sua entrevista alimenta costura sem restringir cobertura. Peças sociais v2 não herdam os pareceres desta v3. Baseline não medido; sem render/export, gravação, merge, agendamento ou publicação. Kell mantém decisão final. O alvo de envio 19/10 06:45 BRT não é agendamento.
+
+---
+
+## Histórico anterior — não é prontidão vigente
+
+# #032 — estado de execução em 13/10/2026
+
+**Estado vigente: recomposição candidata v2 entregue para revisão de Kell.**
+Pesquisa complementar, seleção por editoria, contraponto, costura e revisão textual foram executados antes da entrega desta versão. Não equivale a aprovação de publicação.
+
+## Ler agora
+
+1. [Newsletter v2](../../drafts/032-v2.md)
+2. [Pesquisa, seleção, briefing e revisão](032-curation-review-v2.md)
+3. [Peças candidatas v2 por canal](032-channel-candidates-v2.md)
+4. [Packet atualizado](../../packets/EP-032-context-engineering.md)
+
+Abertura autoral breve; Cherry Bomb com pesquisa externa sobre contexto e interface; ALT+TAB com desenvolvimento do livro; On Fire com ciência/literatura/série; AiaiAI prático. Hot Startups omitida após pesquisa e descarte justificados. Rascunhos v1 não são vigentes.
+
+## Gates e medições
+
+- Tese aprovada por Kell em 11/10; não reaberta.
+- Seleção/redação v2 são candidatas do assistente; revisão final de Kell pendente.
+- Identidade de Instinct não confirmada; sem URL de indicação no corpo.
+- Check estrutural: PASS draft; ready bloqueia corretamente decisões pendentes.
+- Mídias, e-mail/app, visual de Instagram e gravação não produzidos/testados.
+- Baseline permanece não coletado; nenhuma métrica ou ganho de qualidade inventado.
+- Sem merge, agendamento ou publicação nesta execução.
+
+## Continuidade
+
+Revisar esta versão concreta e resolver apenas pendências materiais. O alvo de 19/10, 06:45 BRT permanece condicionado à aprovação final; não há agendamento.
+Learn-back após eventual publicação. Issues #36/#37 permanecem abertas.
+
+---
+
+## Histórico de execução e baseline — preservado, não estado vigente
+
 > **Estado vigente após revisão de Kell — 11/10:** pesquisa/curadoria. Rascunhos v1 e parecer de prontidão retirados. Retomar pelo [briefing corrigido](032-editorial-brief-v2.md); os registros de composição abaixo são histórico, não aprovação vigente.
 
 # Ciclo #32 — execução e baseline
