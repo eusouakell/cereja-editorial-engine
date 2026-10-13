@@ -28,16 +28,16 @@ context:
     CTX-PRIVATE: "Sem dados de clientes, TreeID, contas ou detalhes médicos/financeiros."
     CTX-031-SCIENCE: "Não reproduzir claims de Marte nem transformar edição em demo da Factory."
 evidence:
-  evidence_ids: [EV-032-04, EV-032-05, EV-032-07, EV-032-08, EV-032-09, EV-032-10, EV-032-11, EV-032-12, EV-032-13, EV-032-14]
+  evidence_ids: [EV-ANTHROPIC-CONTEXT, EV-ANTHROPIC-SIMPLICITY, EV-MUSE-DESIGN, EV-MUSE-ANNOUNCEMENT, EV-NASA-WEBB, EV-BOOK-PROVAS, EV-BOOK-CAIM, EV-DC-LANTERNS, EV-DC-JOHN, EV-NOBEL-PHYSICS, EV-NOBEL-LITERATURE, EV-STORYGRAPH, EV-INSTINCT, EV-KELL-ACCOUNT]
   unresolved_claims:
-    - "Identidade do Instinct usado por Kell ainda não confirmada; nenhum link de indicação inserido no corpo."
+    - "Conta de Kell e produtos não testados nesta execução; caminhos públicos e relato autoral distinguem-se."
     - "Post Dot/Meta não identificado e excluído."
   stale_or_revalidation_required:
     - "Claims externos consultados em 13/10; revalidar até 17/10 antes de fechar envio."
 tokens:
-  candidate_ids: [TK-POKEMON, TK-MUSE, TK-WEBB, TK-CAIM, TK-JOHN-STEWART, TK-STORYGRAPH, TK-DASHBOARD, TK-CONFLICT, TK-CONTEXT, TK-COUNTERPOINT, TK-AVATAR, TK-BOOK, TK-ICECUBE, TK-CARSON, TK-SERIES, TK-UPGRADE, TK-INSTINCT-USE, TK-TRY-SMALL]
+  candidate_ids: [TK-DASHBOARD, TK-POKEMON, TK-CONTEXT, TK-COUNTERPOINT, TK-MUSE, TK-WEBB, TK-BOOK, TK-CAIM, TK-JOHN-STEWART, TK-ICECUBE, TK-CARSON, TK-UPGRADE, TK-STORYGRAPH, TK-INSTINCT-USE, TK-TRY-SMALL]
   approved_for_composition: []
-  selected_for_candidate_composition: [TK-POKEMON, TK-MUSE, TK-WEBB, TK-CAIM, TK-JOHN-STEWART, TK-STORYGRAPH, TK-DASHBOARD, TK-CONFLICT, TK-CONTEXT, TK-COUNTERPOINT, TK-AVATAR, TK-BOOK, TK-ICECUBE, TK-CARSON, TK-SERIES, TK-UPGRADE, TK-INSTINCT-USE, TK-TRY-SMALL]
+  selected_for_candidate_composition: [TK-DASHBOARD, TK-POKEMON, TK-CONTEXT, TK-COUNTERPOINT, TK-MUSE, TK-WEBB, TK-BOOK, TK-CAIM, TK-JOHN-STEWART, TK-ICECUBE, TK-CARSON, TK-UPGRADE, TK-STORYGRAPH, TK-INSTINCT-USE, TK-TRY-SMALL]
   selection_authority: "Assistente, sob autorização de executar a recomposição; redação final segue revisão de Kell."
 story:
   route_selected: "author-entry-and-researched-discovery-with-independent-detour-and-radar"
@@ -85,14 +85,12 @@ human_decisions:
 
 ## Artefatos vigentes
 
-- [Newsletter v2](../drafts/032-v2.md)
-- [Pesquisa, seleção, briefing e revisão](../growth/cycles/032-curation-review-v2.md)
-- [Composições candidatas por canal](../growth/cycles/032-channel-candidates-v2.md)
-- [Briefing corretivo de origem](../growth/cycles/032-editorial-brief-v2.md)
+- [Newsletter v3](../drafts/032-v3.md)
+- [Fontes, escolha por editoria e revisão independente](../growth/cycles/032-v3-orchestration-review.md)
+- [Estado do ciclo](../growth/cycles/032-context-engineering.md)
 - [Issue #37](https://github.com/eusouakell/cereja-editorial-engine/issues/37)
 
-A pesquisa/curadoria foi executada antes da nova composição. O registro informa inclusão/descarte, fonte/data, autoria, contraponto, mídia, limites da revisão e próximos gates.
-Rascunhos v1 e seus pareceres permanecem históricos retirados de prontidão. Este packet substitui seu estado operacional sem apagar a aprovação da tese.
+Os rascunhos v1/v2 são históricos. Os pareceres vigentes referem-se à versão v3 concreta, não aos nomes das editorias ou aos checks técnicos.
 
 ## Prontidão
 
