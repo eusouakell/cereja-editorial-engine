@@ -19,7 +19,7 @@ O Markdown contém imagens e iframes para a prévia HTML. No editor Substack, co
 
 Referência oficial: https://support.substack.com/hc/en-us/articles/360037832971-How-do-I-embed-media-in-my-post-e-g-images-video-GIFs
 
-A prévia HTML contém os players incorporados e links de alternativa. A reprodução não foi confirmada: abrir o endereço do iframe diretamente no navegador de verificação retornou erro 153 (Referer ausente); a prévia local não ficou acessível nesse navegador. Isso não comprova bloqueio do vídeo pelo proprietário. Conferir reprodução no bloco nativo do Substack e enviar e-mail de teste antes de publicar. Vídeos precisam de alternativa clicável no e-mail. Nenhum teste de envio, agendamento ou publicação foi realizado.
+A prévia HTML contém os players incorporados e links de alternativa. Validação em 13/10/2026: ambos os vídeos existem nos canais oficiais e oferecem a opção Incorporar com iframe gerado pelo próprio YouTube. Muse reproduziu na prévia incorporada (0:16 de 2:37, com legendas e cenas avançando). Lanternas reproduziu na página oficial (0:13 de 2:27, com legendas e cenas avançando); sua prévia de incorporação carregou título/thumbnail em modo de privacidade, mas depois ficou preta e não permitiu confirmar reprodução dentro do iframe nesse navegador. Não declarar reprodução de Lanternas no embed ou dentro do Substack validada. O erro 153 anterior ocorreu ao abrir o endereço de iframe diretamente, sem Referer. Conferir reprodução no bloco nativo do Substack e enviar e-mail de teste antes de publicar. Vídeos precisam de alternativa clicável no e-mail. Nenhum teste de envio, agendamento ou publicação foi realizado.
 
 ## Rodapé observado em 13/10/2026
 
@@ -29,9 +29,9 @@ Inspeção autenticada, somente leitura, em https://cerejaflamejante.substack.co
 - Imagem da chama.
 - “A newsletter para explodir a sua mente. 🍒”
 - “Curadoria interessante e divertida sobre cultura e tecnologia.”
-- “Produzida por” — sem nome depois.
+- “Produzida por” — nome não visível na prévia de configurações. A inspeção posterior do editor revelou uma menção a “eusouakell”, em vez de ausência de autor.
 - “Curtiu a edição de hoje?” e “Me conta!” apontando para https://tally.so/r/w4B0jX .
 
 O rodapé do site tem © 2026 Kell Bonassoli e links institucionais. É distinto do rodapé configurado para os e-mails.
 
-A assinatura **Kell Bonassoli** agora fecha o corpo da edição, acompanhando cópias e encaminhamentos. A configuração global do rodapé não foi alterada: a solicitação foi conferir o estado atual.
+A assinatura **Kell Bonassoli** agora fecha o corpo da edição, acompanhando cópias e encaminhamentos. Após autorização explícita da autora, a configuração global foi salva com “Produzida por Kell Bonassoli” em texto normal. Chama, descrição e link “Me conta!” preservados. A prévia de configurações após salvar mostra o nome completo. Evidência local: outputs/substack-rodape-kell.jpg . Nenhum post publicado ou agendado.
