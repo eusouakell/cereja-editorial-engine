@@ -1,4 +1,6 @@
-> **Estado vigente: v3 pronta para revisão final da autora no escopo textual.** Pesquisa, composição e revisão independente convergiram internamente. A tese aprovada permanece; publicação não autorizada. [V3](../drafts/032-v3.md) · [Pareceres e fontes](../growth/cycles/032-v3-orchestration-review.md).
+> **Estado vigente em 15/10/2026: v4 candidata para revisão de Kell.** A rejeição da abertura v3 supera sua aprovação anterior. [V4](../drafts/032-v4.md) · [Revisão independente e notas](../growth/cycles/032-v4-orchestration-review.md). Duas leituras integrais aprovam revisão autoral (9,0 e 8,9); publicação não autorizada. Substack ainda não sincronizado nesta rodada.
+
+## Histórico v3 — não é prontidão vigente
 
 # EP-032 — composição v3 para revisão final
 

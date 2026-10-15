@@ -1,3 +1,13 @@
+# #032 — estado vigente em 15/10/2026
+
+**V4 candidata para revisão autoral.** A crítica de Kell à dependência do dashboard foi aplicada. [Texto](../../drafts/032-v4.md) · [Rodadas, notas e limites](032-v4-orchestration-review.md) · [Revalidação factual](../../reports/032-v4-fact-check.md).
+
+Abertura pelo bolo do aniversário; painel contextualizado na Cherry Bomb; editorias e mídias preservadas. Revisão editorial 9,0 e pesquisa 8,9 (julgamentos independentes, sem alegar perfeição). A aprovação v3 está superada. Texto v4 ainda não inserido no Substack nesta rodada; última inserção confirmada é v3 no post 220293125. Sem publicação/agendamento/merge nesta execução. Kell decide revisão final e publicação.
+
+---
+
+## Histórico anterior — não é estado vigente
+
 # #032 — estado vigente após orquestração v3
 
 13/10/2026. **V3 pronta para revisão final de Kell no escopo textual.** Pesquisa, composição e revisão crítica executadas por subagentes separados; duas rodadas de ajustes resolvidas internamente, com parecer final editorial e factual APPROVE.
