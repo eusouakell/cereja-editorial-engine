@@ -1,5 +1,19 @@
 # #032 — estado vigente em 15/10/2026
 
+**V5 candidata para revisão autoral, sincronizada no rascunho Substack 220293125.** [Texto](../../drafts/032-v5.md) · [HTML](../../drafts/032-v5-preview.html) · [Revisão independente](../../reports/032-v5-review.md) · [Checagem factual](../../reports/032-v5-fact-check.md).
+
+Kell pediu subtítulo curto e seleção de entidades: Instinct primeiro; Muse sem Meta; Provas não revisadas sai apenas da linha de subtítulo. Seleção: Instinct, Muse, Claude, WhatsApp e Lanternas. Preferência registrada em reports/032-subtitle-preference.md; popularidade não foi medida quantitativamente.
+
+Curadoria pesquisada até 15/10 para envio alvo em segunda-feira, 19/10: Claude Dashboards/Motion (8/10), Muse Wonder (12/10), WhatsApp convidados (14/10) e abertura Wetland (12/10). Fontes primárias e descartes em reports/032-refresh-2026-10-15-tech.md e reports/032-refresh-2026-10-15-culture.md. Webb e StoryGraph preservados por valor curatorial, sem apresentá-los como lançamentos desta semana; guia Anthropic2025 identificado como apoio histórico. On Fire substitui os dois itens Nobel por WhatsApp e Wetland. Cinco editorias, mídias com créditos e assinatura preservadas.
+
+Revisão independente inicial 8,9/10 (julgamento editorial); três ajustes menores aplicados: resumo6itens, distribuição Wonder simplificada e redundância do painel retirada. Nota não recalculada pelo autor. Abertura pelo bolo e dashboard explicado no corpo, sem exigir que o leitor veja o painel. A V4 já tinha sido inserida antes desta atualização, corrigindo a informação histórica abaixo. Nenhuma publicação, agendamento ou merge nesta execução; alvo19/10 não é agendamento. Corte da pesquisa15/10 não cobre acontecimentos futuros.
+
+---
+
+## Histórico v4 — não é estado vigente
+
+# #032 — estado vigente em 15/10/2026
+
 **V4 candidata para revisão autoral.** A crítica de Kell à dependência do dashboard foi aplicada. [Texto](../../drafts/032-v4.md) · [Rodadas, notas e limites](032-v4-orchestration-review.md) · [Revalidação factual](../../reports/032-v4-fact-check.md).
 
 Abertura pelo bolo do aniversário; painel contextualizado na Cherry Bomb; editorias e mídias preservadas. Revisão editorial 9,0 e pesquisa 8,9 (julgamentos independentes, sem alegar perfeição). A aprovação v3 está superada. Texto v4 ainda não inserido no Substack nesta rodada; última inserção confirmada é v3 no post 220293125. Sem publicação/agendamento/merge nesta execução. Kell decide revisão final e publicação.
